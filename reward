@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-08 09:25:41 
+#更新时间: 2024-09-08 22:16:01 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28019
+#规则数量:28022
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -708,6 +708,7 @@
 127.0.0.1 accscdn.m.taobao.com
 127.0.0.1 acdn.adnxs-simple.com
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 ace-adserver.com
 127.0.0.1 ace-tag.advertising.com
 127.0.0.1 aceadsys.net
 127.0.0.1 acesso24.dns.army
@@ -6874,6 +6875,7 @@
 127.0.0.1 api-metrics-e2e.nonprod.flurry.com
 127.0.0.1 api-metrics-smoke.nonprod.flurry.com
 127.0.0.1 api-metrics.flurry.com
+127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api-n.outgrow.co
 127.0.0.1 api-player.urekamedia.com
 127.0.0.1 api-proxy.bee7.com
@@ -10686,6 +10688,7 @@
 127.0.0.1 ds.mobadvent.com
 127.0.0.1 ds10.api.baifendian.com
 127.0.0.1 dsa.moatads.com
+127.0.0.1 dsad234.fun
 127.0.0.1 dsads123a.is-best.net
 127.0.0.1 dsdssdsddsdklsdklfdjklsdfljkfdsljksdfljk.blog-cmesp.site
 127.0.0.1 dsfdssdfsdf.pages.pro.br
