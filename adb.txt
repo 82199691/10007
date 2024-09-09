@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-09 09:21:50
+! Last modified: 2024-09-09 22:19:59
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-09 09:21:50 ^
+!更新时间: 2024-09-09 22:19:59 ^
 
-!规则数量:28022^
+!规则数量:28025^
 !#################^
 
 ||0.r.msn.com^
@@ -4111,6 +4111,7 @@
 ||adsemo.com^
 ||adsence.sogou.com^
 ||adsend.de^
+||adsenix.com^
 ||adsense.html5.qq.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
@@ -13632,6 +13633,7 @@
 ||lararforbundet.analytics.ozzi.io^
 ||larasub.conxxx.pro^
 ||laratlacrestot.pro^
+||larnaxhexact.click^
 ||larrenpicture.pro^
 ||larukia.pro^
 ||lasedyo9.pro^
@@ -19945,6 +19947,7 @@
 ||static.ad-lancers.jp^
 ||static.ad-maven.com^
 ||static.ad.atdmt.com^
+||static.ad.libimseti.cz^
 ||static.ad.org.vn^
 ||static.adk2.com^
 ||static.ads-twitter.com^
