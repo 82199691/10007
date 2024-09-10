@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-10 12:42:06 
+#更新时间: 2024-09-10 22:17:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28025
+#规则数量:28069
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -703,6 +703,8 @@
 127.0.0.1 accountant.trade2022.quest
 127.0.0.1 accounts-google.no9.cc
 127.0.0.1 accounts.doubleclick.net
+127.0.0.1 accounts.google.com-signin-v2-recoveryidentifier.self.cataros.org
+127.0.0.1 accounts.servicar.click
 127.0.0.1 accounts.winniing.click
 127.0.0.1 accruedvaria.click
 127.0.0.1 accscdn.m.taobao.com
@@ -711,7 +713,6 @@
 127.0.0.1 ace-adserver.com
 127.0.0.1 ace-tag.advertising.com
 127.0.0.1 aceadsys.net
-127.0.0.1 acesso24.dns.army
 127.0.0.1 acidicresist.pro
 127.0.0.1 aclickads.com
 127.0.0.1 acookie.alimama.com
@@ -730,6 +731,8 @@
 127.0.0.1 active.pro-masters.xyz
 127.0.0.1 active1.pro-masters.xyz
 127.0.0.1 activisiongifte.pro
+127.0.0.1 activisionpoint.click
+127.0.0.1 activisions.click
 127.0.0.1 activistforeheadsyndromear.pro
 127.0.0.1 activisthedgehoging.pro
 127.0.0.1 activistmeringuehedgehogis.pro
@@ -1482,6 +1485,7 @@
 127.0.0.1 ad.reklamport.com
 127.0.0.1 ad.reklm.com
 127.0.0.1 ad.repubblica.it
+127.0.0.1 ad.responsad1.space
 127.0.0.1 ad.retargeter.com
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.rfp.fout.jp
@@ -1560,6 +1564,7 @@
 127.0.0.1 ad.tpmn.io
 127.0.0.1 ad.track.us.org
 127.0.0.1 ad.tradertimerz.media
+127.0.0.1 ad.tradwzorce.top
 127.0.0.1 ad.trafficmp.com
 127.0.0.1 ad.trafficshop.com
 127.0.0.1 ad.traffique.net
@@ -4011,7 +4016,6 @@
 127.0.0.1 adsaccount.appcpi.net
 127.0.0.1 adsadmin.corusradionetwork.com
 127.0.0.1 adsadminister.com
-127.0.0.1 adsafd.xyz
 127.0.0.1 adsafeprotected.com
 127.0.0.1 adsafety.net
 127.0.0.1 adsagony.com
@@ -4536,6 +4540,7 @@
 127.0.0.1 adsfuse.com
 127.0.0.1 adsgard.aprod.scopely.io
 127.0.0.1 adsgen.bangbros.com
+127.0.0.1 adsgh.xyz
 127.0.0.1 adsgid.com
 127.0.0.1 adsgig.com
 127.0.0.1 adsgo.nhipcaudautu.vn
@@ -4771,6 +4776,7 @@
 127.0.0.1 adstargeting.com
 127.0.0.1 adstargets.com
 127.0.0.1 adstarsmedia.co.id
+127.0.0.1 adstaskprovider.autos
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstat.izuiyou.com
 127.0.0.1 adstatic.com
@@ -5374,6 +5380,7 @@
 127.0.0.1 advocateseducationalservices.com
 127.0.0.1 advod.sbs.co.kr
 127.0.0.1 advokateg.xyz
+127.0.0.1 advokategypet.ru
 127.0.0.1 advokateurope.online
 127.0.0.1 advolution.biz
 127.0.0.1 advolution.de
@@ -5506,12 +5513,8 @@
 127.0.0.1 agma-analytics.de
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 agonizing-price.pro
-127.0.0.1 agostgosoluciones.zonaviaweb.click
-127.0.0.1 agostoavanza.solicitudesonline.click
 127.0.0.1 agostoreactiva.zonaviaservice.click
 127.0.0.1 agostoreactiva.zonaviaweb.click
-127.0.0.1 agostoreactiva.zonaviawebservice.click
-127.0.0.1 agostoreactiva.zonawebsite.click
 127.0.0.1 agostosoluciones.zonaviawebservice.click
 127.0.0.1 agreeable-target.pro
 127.0.0.1 agreeableopinion.pro
@@ -5630,7 +5633,6 @@
 127.0.0.1 als.baidu.com
 127.0.0.1 alt-ad.mail.ru
 127.0.0.1 altcoin-metamask.pro
-127.0.0.1 altdentifier-api.xyz
 127.0.0.1 alternads.info
 127.0.0.1 alternativos.iw-advertising.com
 127.0.0.1 alternatywa24h.click
@@ -6687,6 +6689,7 @@
 127.0.0.1 anapp.adobe.com
 127.0.0.1 and-ads.pulse.weatherbug.net
 127.0.0.1 andguitarbookdailyes.pro
+127.0.0.1 andlandpoint.pro
 127.0.0.1 andoveradvertiser-gb.andoveradvertiser.co.uk
 127.0.0.1 andr0id.traffic-smart.com
 127.0.0.1 andradv3nt.sbs
@@ -6865,6 +6868,7 @@
 127.0.0.1 api-internal.oncustomer.asia
 127.0.0.1 api-js.datadome.co
 127.0.0.1 api-js.mixpanel.com
+127.0.0.1 api-jzjp.unlockmorefun.com
 127.0.0.1 api-keks.com
 127.0.0.1 api-ldp.novaonx.com
 127.0.0.1 api-live.outgrow.co
@@ -7241,6 +7245,7 @@
 127.0.0.1 api.kiip.me
 127.0.0.1 api.kingbet86.info
 127.0.0.1 api.kochava.com
+127.0.0.1 api.kr-telegram.top
 127.0.0.1 api.lab.amplitude.com
 127.0.0.1 api.lab.eu.amplitude.com
 127.0.0.1 api.lanistaads.com
@@ -7451,7 +7456,6 @@
 127.0.0.1 api.theadex.com
 127.0.0.1 api.tjme.io
 127.0.0.1 api.tomi.ai
-127.0.0.1 api.totallyoutsourcing.co.uk
 127.0.0.1 api.touchxd.com
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 api.trackuity.com
@@ -7621,6 +7625,7 @@
 127.0.0.1 apprefaculty.pro
 127.0.0.1 appropriate-bag.pro
 127.0.0.1 apps-fd7c0aqsg1gd-update.line.pm
+127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
 127.0.0.1 apps.haraads.com
@@ -8160,6 +8165,7 @@
 127.0.0.1 bellaads.com
 127.0.0.1 bemadsonline.com
 127.0.0.1 bemydate.mobi
+127.0.0.1 bengalqt3bj.click
 127.0.0.1 bengalqtbj.click
 127.0.0.1 bent2bent.pro
 127.0.0.1 bepof.click
@@ -8366,6 +8372,7 @@
 127.0.0.1 bluflinginvest.pro
 127.0.0.1 blunderadventurouscompound.com
 127.0.0.1 blurr31lqyr.click
+127.0.0.1 blurrmqlqyr.click
 127.0.0.1 bluzelle.pro
 127.0.0.1 bm.alimama.cn
 127.0.0.1 bm.syst-pltrade4.site
@@ -8517,6 +8524,7 @@
 127.0.0.1 bs-pro-origin-pull.kwai.net.iberostar.com
 127.0.0.1 bs.l.qq.com
 127.0.0.1 bs.yandex.ru
+127.0.0.1 bs2mx2.finan23.dns.navy
 127.0.0.1 bskn.pro
 127.0.0.1 bsnnes.click
 127.0.0.1 bsnnes.pro
@@ -8683,6 +8691,7 @@
 127.0.0.1 cache.cnzz.com
 127.0.0.1 caclick.baidu.com
 127.0.0.1 cad22af.12128fw.cc
+127.0.0.1 cad22af.rgpts.net
 127.0.0.1 cado.pro
 127.0.0.1 cado888.com
 127.0.0.1 cadovn.pro
@@ -8715,7 +8724,6 @@
 127.0.0.1 campaign-uploads.s3.amazonaws.com
 127.0.0.1 campaign.ad-brix.com
 127.0.0.1 campaign.adobe.com
-127.0.0.1 canada24.co
 127.0.0.1 canadapro.pro
 127.0.0.1 canariajournalen.ads.ramsalt.com
 127.0.0.1 cancunfishingadventures.com
@@ -8995,7 +9003,6 @@
 127.0.0.1 certificateedsysteming.pro
 127.0.0.1 certificateingeveryday.pro
 127.0.0.1 certificates.godaddy.com
-127.0.0.1 ceskaposta.pro
 127.0.0.1 cf-ad.ad-stir.com
 127.0.0.1 cf-ads.pinger.com
 127.0.0.1 cf-cdn.adventori.com
@@ -9155,6 +9162,7 @@
 127.0.0.1 cl-ad.x-flow.app
 127.0.0.1 cladsneezesugar.com
 127.0.0.1 clanpasta.click
+127.0.0.1 claro-pe.click
 127.0.0.1 classicguarantee.pro
 127.0.0.1 classicreads.cfd
 127.0.0.1 clausing-advies.nl
@@ -9307,7 +9315,6 @@
 127.0.0.1 click.liftoff.io
 127.0.0.1 click.linktech.cn
 127.0.0.1 click.livejasmin.com
-127.0.0.1 click.lllovers.uk
 127.0.0.1 click.lmbcustomersupport.com
 127.0.0.1 click.lobbyguard.com
 127.0.0.1 click.lozukowski.com
@@ -9529,7 +9536,6 @@
 127.0.0.1 coinlife.click
 127.0.0.1 coinpkonew.click
 127.0.0.1 col.mobileads.msn.com
-127.0.0.1 coles.myexchange.click
 127.0.0.1 collect-update.top
 127.0.0.1 collect.adsorb.com
 127.0.0.1 collect.analytics.unity3d.com
@@ -9549,6 +9555,7 @@
 127.0.0.1 cometosomesense.pro
 127.0.0.1 comfortable-preparation.pro
 127.0.0.1 comfreeads.com
+127.0.0.1 commanzibw.click
 127.0.0.1 commbank-info-update.com
 127.0.0.1 commercial-i30.com
 127.0.0.1 commercial.davey.com
@@ -9598,6 +9605,7 @@
 127.0.0.1 connect.play.aiseet.atianqi.com
 127.0.0.1 cons.ofisls-pro.xyz
 127.0.0.1 considerate-brief.pro
+127.0.0.1 consignes-flash.com
 127.0.0.1 console-dev.supplieradvisor.com
 127.0.0.1 constel-analytics.com
 127.0.0.1 constraintarrearsadvantages.com
@@ -9652,6 +9660,7 @@
 127.0.0.1 corp.sohu.com
 127.0.0.1 correoargentino-ad.top
 127.0.0.1 correoargentino-uc.top
+127.0.0.1 correoytelegrafos.pro
 127.0.0.1 cors.hot-mob.com
 127.0.0.1 corusads.dserv.ca
 127.0.0.1 cosmicadventures.tech
@@ -10194,6 +10203,8 @@
 127.0.0.1 dhads.net
 127.0.0.1 dhb.amqn.pro
 127.0.0.1 dhl-365.cc
+127.0.0.1 dhl365.click
+127.0.0.1 dhlate.pro
 127.0.0.1 dhss.pro
 127.0.0.1 dhux7ijh.click
 127.0.0.1 diadem-invest.pro
@@ -11002,6 +11013,7 @@
 127.0.0.1 email-open.adtidy.org
 127.0.0.1 email.atachment.click
 127.0.0.1 email.authenticatoin.click
+127.0.0.1 email.durben.click
 127.0.0.1 email.headsuphealth.com
 127.0.0.1 email.molly-9982.pro
 127.0.0.1 email1.advisorycloud.com
@@ -11054,6 +11066,7 @@
 127.0.0.1 eonads.com
 127.0.0.1 eos-sis.click
 127.0.0.1 eosads.com
+127.0.0.1 epgaovpk.pro
 127.0.0.1 eph-adsjutarnji.cdn.sysbee.net
 127.0.0.1 epicgameads.com
 127.0.0.1 epicsacred.pro
@@ -11094,7 +11107,10 @@
 127.0.0.1 essayads.com
 127.0.0.1 essential-apps-analytics.herokuapp.com
 127.0.0.1 est-mta.b2b-mail.net
+127.0.0.1 esta-feta.click
 127.0.0.1 establishmoment.pro
+127.0.0.1 estasfeta.click
+127.0.0.1 estasfeta.pro
 127.0.0.1 estateplanning.dependableadvisors.cfd
 127.0.0.1 et.mobadvent.com
 127.0.0.1 etahub.com
@@ -11276,7 +11292,6 @@
 127.0.0.1 facesue8.pro
 127.0.0.1 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 127.0.0.1 fact.mestopoland.pro
-127.0.0.1 facture-ovhcloud-net-9f6c6ad6.arizona-vortex.com
 127.0.0.1 facture-ovhcloud-net-acce1ad6.darrellwoolfolk.com
 127.0.0.1 fad7340612587d69b2bcf41cb5644aca.twojedom.pl
 127.0.0.1 fadf3198819bf55dd24cb8d88641477b.dioprl.pl
@@ -11394,6 +11409,7 @@
 127.0.0.1 fhatfee.ero-advertising.com
 127.0.0.1 fhsvyfoadsbo.com
 127.0.0.1 fi-analytics.mgsn.it
+127.0.0.1 ficyveu3.pro
 127.0.0.1 fidz.dazll.click
 127.0.0.1 fifa19.mobi
 127.0.0.1 file-download.estudiosparrow.com
@@ -11550,7 +11566,6 @@
 127.0.0.1 formdesigner.pro
 127.0.0.1 forms.share.works
 127.0.0.1 formula-bogactwa.click
-127.0.0.1 formularioenlinea.loger.click
 127.0.0.1 formularzopisu.click
 127.0.0.1 forpci3.siege-corp.com
 127.0.0.1 forpsi-cz-8d9adf0f095.silkbodylaserclinic.nl
@@ -11645,6 +11660,7 @@
 127.0.0.1 fuckmehd.pro
 127.0.0.1 fucmoadsoako.com
 127.0.0.1 fuel-pumpes.pro
+127.0.0.1 fuhyqee.pro
 127.0.0.1 fulvideozrt.click
 127.0.0.1 fulwads.uno
 127.0.0.1 fumiad.dxys.pro
@@ -11757,6 +11773,8 @@
 127.0.0.1 gargantuan-menu.pro
 127.0.0.1 garnluxuria.click
 127.0.0.1 gaseousarmy.pro
+127.0.0.1 gastr0sw4qo.click
+127.0.0.1 gastr9sw7qo.click
 127.0.0.1 gata.ero-advertising.com
 127.0.0.1 gateway.ttpsdk.info
 127.0.0.1 gatherhope.click
@@ -11871,6 +11889,7 @@
 127.0.0.1 girls-tube.mobi
 127.0.0.1 girlwallpaper.pro
 127.0.0.1 giveawayskin.pro
+127.0.0.1 giveo7jlf.click
 127.0.0.1 giving-weird.pro
 127.0.0.1 gizysuy2.click
 127.0.0.1 gj.applog.uc.cn
@@ -12649,7 +12668,6 @@
 127.0.0.1 im.cbsileads.com
 127.0.0.1 im.jiguang.cn
 127.0.0.1 im2.smartadserver.com
-127.0.0.1 imaadsansou-f69b7b.ingress-erytho.ewp.live
 127.0.0.1 imads.ero-advertising.com
 127.0.0.1 imads.integral-marketing.com
 127.0.0.1 imagazine.advertserve.com
@@ -12755,6 +12773,7 @@
 127.0.0.1 impservice2.youdao.com
 127.0.0.1 impulsdazenia.click
 127.0.0.1 impulsdzialania.click
+127.0.0.1 impulsoestrategico.click
 127.0.0.1 imyanmarads.com
 127.0.0.1 in-appadvertising.com
 127.0.0.1 in-blog.xtnew.click
@@ -12883,6 +12902,7 @@
 127.0.0.1 inkryminacja.click
 127.0.0.1 inmobisdk-a.akamaihd.net
 127.0.0.1 inmotionads.com
+127.0.0.1 inmsatiqsyb.click
 127.0.0.1 inner-active.mobi
 127.0.0.1 innopost.umowa58395.click
 127.0.0.1 innovads-server.poster.appsinnova.com
@@ -13115,7 +13135,6 @@
 127.0.0.1 isafe.pro
 127.0.0.1 isite.baidu.com
 127.0.0.1 islamabadstores.com
-127.0.0.1 islemlere.click
 127.0.0.1 istatnenagranie.click
 127.0.0.1 isthmjays.click
 127.0.0.1 istnezyczenia.click
@@ -13333,7 +13352,6 @@
 127.0.0.1 juicywin.pl
 127.0.0.1 juicywives.com
 127.0.0.1 juklon-invest.pro
-127.0.0.1 juliocontigo.solicitudesonline.click
 127.0.0.1 julonamhe.click
 127.0.0.1 julonamle.click
 127.0.0.1 julonammi.click
@@ -13598,6 +13616,7 @@
 127.0.0.1 l11ade1shi11rs.site
 127.0.0.1 l2.l.qq.com
 127.0.0.1 l6urqh27.sina.cn
+127.0.0.1 labanquepostale.jupiter-analytics.com
 127.0.0.1 lacunads.com
 127.0.0.1 ladsabs.com
 127.0.0.1 ladsans.com
@@ -13648,6 +13667,7 @@
 127.0.0.1 latilirom-invest.pro
 127.0.0.1 latteglass.click
 127.0.0.1 launch.adserver.yahoo.com
+127.0.0.1 launch3ush.click
 127.0.0.1 launches.appsflyersdk.com
 127.0.0.1 laureat-nagrody.click
 127.0.0.1 lavenion0-investing.pro
@@ -14115,6 +14135,7 @@
 127.0.0.1 luxvip.pro
 127.0.0.1 lykycae3.pro
 127.0.0.1 lynnadvertise.com
+127.0.0.1 lysinevii.click
 127.0.0.1 lyzenoti.pro
 127.0.0.1 lz-pub-ads.com
 127.0.0.1 lzesxczujmesie.click
@@ -14285,7 +14306,6 @@
 127.0.0.1 marchadvertisingnetwork8.com
 127.0.0.1 marchadvertisingnetwork9.com
 127.0.0.1 marial.pro
-127.0.0.1 marianne-urge.click
 127.0.0.1 marinastem.click
 127.0.0.1 marisappear.pro
 127.0.0.1 marjoramingserveing.pro
@@ -14390,7 +14410,6 @@
 127.0.0.1 maximeipj.click
 127.0.0.1 maximilian-sax-spire.webnode.jp
 127.0.0.1 maximizer-pro.site
-127.0.0.1 maximos.click
 127.0.0.1 maxsys.adsame.com
 127.0.0.1 maxx1.pro-masters.xyz
 127.0.0.1 mays.open-sooursee.live
@@ -14985,6 +15004,7 @@
 127.0.0.1 mvconf.cloud.360safe.com
 127.0.0.1 mvconf.lato.cloud.360safe.com
 127.0.0.1 mvconf.uk.cloud.360safe.com
+127.0.0.1 mvm--partner-aram-egallapodast--az-mvm-2024mg.kilimo-nuts.co.ke
 127.0.0.1 mvp.mediav.com
 127.0.0.1 mw-encyclopediabritannica.adsbynimbus.com
 127.0.0.1 mw.adwo.com
@@ -15037,6 +15057,7 @@
 127.0.0.1 myzaliy3.pro
 127.0.0.1 myzen.click
 127.0.0.1 mz-api.smzdm.com
+127.0.0.1 mzenkwnadg85ro.top
 127.0.0.1 mzpro.tes1aprodj.click
 127.0.0.1 n--pan-eixe.xn--baidu-jm6h.com
 127.0.0.1 n-ad-bg.adwo.com
@@ -15162,6 +15183,7 @@
 127.0.0.1 natsdk.com
 127.0.0.1 naturalbees.click
 127.0.0.1 naturalnewiesci.click
+127.0.0.1 naturauehi.click
 127.0.0.1 naturazycia.click
 127.0.0.1 natuscs2.pro
 127.0.0.1 natusprize.pro
@@ -15198,7 +15220,6 @@
 127.0.0.1 nd05esxpnrfe.pro
 127.0.0.1 ndct-data.video.iqiyi.com
 127.0.0.1 ndhcbpyv49pc.data-insight-360.cfd
-127.0.0.1 ndsnssetio0.click
 127.0.0.1 neads.delivery
 127.0.0.1 neblio.click
 127.0.0.1 needadvertising.com
@@ -15394,6 +15415,7 @@
 127.0.0.1 nodice.click
 127.0.0.1 noearon.click
 127.0.0.1 noisermaker.click
+127.0.0.1 noisy-advantage-deafening.on-fleek.app
 127.0.0.1 noisyjoke.pro
 127.0.0.1 nolimits.globalinvest365.click
 127.0.0.1 nomad1cno.site
@@ -15418,6 +15440,7 @@
 127.0.0.1 notes-analytics-events.news.apple-dns.net
 127.0.0.1 noti-eu.adsmoloco.com
 127.0.0.1 notice.iqiyi.com
+127.0.0.1 notificafonefacil.pro
 127.0.0.1 notification-browser.com
 127.0.0.1 notify-account-locked-fadc5.firebaseapp.com
 127.0.0.1 nova5.cadsolutions.org
@@ -16751,6 +16774,7 @@
 127.0.0.1 postawaspoleczna.click
 127.0.0.1 postawmynowe.click
 127.0.0.1 postepsprawy.click
+127.0.0.1 postm7ofzdo.click
 127.0.0.1 postmodernism.click
 127.0.0.1 postrachdnia.click
 127.0.0.1 postronniswiadkowie.click
@@ -17244,6 +17268,7 @@
 127.0.0.1 pub-0dc0250fcf9649d88a2b5ce2d7bdad17.r2.dev
 127.0.0.1 pub-0f129597b1c54dd9b9d80e64ad0fdb84.r2.dev
 127.0.0.1 pub-0f5daa1b964b4e6dad68f5c409ee56b5.r2.dev
+127.0.0.1 pub-0fa5df455d6c443295adbfb63efdadf2.r2.dev
 127.0.0.1 pub-0fb7c9eb6b4b4c66ad569b1d6e17056f.r2.dev
 127.0.0.1 pub-0ffca59aaec74ce0ad698ec050d7c502.r2.dev
 127.0.0.1 pub-103db3ada92c43629ab2d533d44c6c8f.r2.dev
@@ -17263,7 +17288,6 @@
 127.0.0.1 pub-166b904ae438414b90587eff4ad1e897.r2.dev
 127.0.0.1 pub-16ad393ccf1048788ddaf9ffa184b5d1.r2.dev
 127.0.0.1 pub-17aad5d26bf84ddba6972fbe377f30e7.r2.dev
-127.0.0.1 pub-1806c54404ad4dafb800dac1a45f498e.r2.dev
 127.0.0.1 pub-1838a3297d9f406395fecd08ad9c402a.r2.dev
 127.0.0.1 pub-189e0e506ca446d8ad9c6d6e69b86119.r2.dev
 127.0.0.1 pub-19040af821834fad9b8a5c3503892296.r2.dev
@@ -17324,6 +17348,7 @@
 127.0.0.1 pub-2a2af4adff814e44ad26d01b7fba6c43.r2.dev
 127.0.0.1 pub-2a330cc927ee4d0782ccdbb5a04ad9fe.r2.dev
 127.0.0.1 pub-2b3cd7a30c184c63ad0fb78e21417c73.r2.dev
+127.0.0.1 pub-2b8283ead0624d4c98c14477e61f039e.r2.dev
 127.0.0.1 pub-2b894ade085f4baf93ae8d32a344c607.r2.dev
 127.0.0.1 pub-2baec7fbe55e462d9ff048f145ad9186.r2.dev
 127.0.0.1 pub-2be6faa7a0fc4ad4882f7d0b84735da4.r2.dev
@@ -17395,8 +17420,8 @@
 127.0.0.1 pub-455e03f75b7840a6a7728a4f227ad427.r2.dev
 127.0.0.1 pub-45641551159848359abad22e0fa38cdc.r2.dev
 127.0.0.1 pub-457f93dcdd3349a690748d1d360ade1f.r2.dev
+127.0.0.1 pub-4586b478b2f54bb09416d9476dee0ad7.r2.dev
 127.0.0.1 pub-45aae2fafe9044019f5ade95eae90cd6.r2.dev
-127.0.0.1 pub-465fd5f98d244b7ea4f2f903ad9879b4.r2.dev
 127.0.0.1 pub-467765a8628e42e98fe75fabbad9da80.r2.dev
 127.0.0.1 pub-47752fad5d8046678118f8980f370361.r2.dev
 127.0.0.1 pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev
@@ -17426,10 +17451,12 @@
 127.0.0.1 pub-50137e365ae14a91ad215a40f880bad1.r2.dev
 127.0.0.1 pub-502474bc7aed47108fb22f94d1f1ad41.r2.dev
 127.0.0.1 pub-5079b5acdf2a4092ad1b3562b2636b1e.r2.dev
+127.0.0.1 pub-50f6be4f4c494888b25f632fad312d3b.r2.dev
 127.0.0.1 pub-51cf6f6d1aa843d8b4dbade26f9dfe0b.r2.dev
 127.0.0.1 pub-523306eec0da44b380100aead59b3de7.r2.dev
 127.0.0.1 pub-5287bb05bc8149adadd508ff20a600e4.r2.dev
 127.0.0.1 pub-529eadd53e464b79a8e42aaf8c437ef2.r2.dev
+127.0.0.1 pub-5318ffd0fada44dd97326dbd4ce89ac7.r2.dev
 127.0.0.1 pub-54701d048f8b4ad7844d091579a3a0f8.r2.dev
 127.0.0.1 pub-54add9e9813b4ea7ba43ab4e525f0539.r2.dev
 127.0.0.1 pub-5540d9e7137b40c3ae57c5ad36961566.r2.dev
@@ -17548,7 +17575,6 @@
 127.0.0.1 pub-833764eadba241ad813213adf98a9e16.r2.dev
 127.0.0.1 pub-83ae7789f95e4f84a3ad88636a86bf90.r2.dev
 127.0.0.1 pub-83ef0cad56a84889823f0222a5fcac2d.r2.dev
-127.0.0.1 pub-840ad9d2828545aa84d7cca54df7a549.r2.dev
 127.0.0.1 pub-8423c697c7cd46adb2dd6c992e0743b7.r2.dev
 127.0.0.1 pub-84c5b3103f1d4397ad29b0e8ef3df2e9.r2.dev
 127.0.0.1 pub-850878ad72724316856b496308880cb2.r2.dev
@@ -17566,7 +17592,6 @@
 127.0.0.1 pub-8961c2ca10324fafb04ad839e8d2f531.r2.dev
 127.0.0.1 pub-8969d92044964ea79ad44f5a4bc62d63.r2.dev
 127.0.0.1 pub-8a8ad399f4264bf38f48c230fff96aff.r2.dev
-127.0.0.1 pub-8aa7583a78ad40d49eb73ffde6b0c5e4.r2.dev
 127.0.0.1 pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev
 127.0.0.1 pub-8b1d5ccc246f4c3897ad1718a1b19d65.r2.dev
 127.0.0.1 pub-8b61ad4cb0674663a2e4dd1b222ecb7b.r2.dev
@@ -17580,7 +17605,6 @@
 127.0.0.1 pub-8e7157b0700244e6ade8ab30856d76fe.r2.dev
 127.0.0.1 pub-8e7c262cad7a4b958d277c5f14301996.r2.dev
 127.0.0.1 pub-8f6bff40b2ad4b17adcc69f70d758dce.r2.dev
-127.0.0.1 pub-8f9d3979db924ad39f609dabe7f4a849.r2.dev
 127.0.0.1 pub-903cd42f250e4526ad35bcac86048a96.r2.dev
 127.0.0.1 pub-907e6dd0bfd3445a95f0313f01f7ad86.r2.dev
 127.0.0.1 pub-90a050aa267243ca8f4945ad326a464d.r2.dev
@@ -17636,8 +17660,8 @@
 127.0.0.1 pub-a2cfc9411c054ad3af8de1429942194a.r2.dev
 127.0.0.1 pub-a3ad1445472341ebb9499e63059b334b.r2.dev
 127.0.0.1 pub-a3f11bd3a4cd4ad1b285b37d5a169cf3.r2.dev
-127.0.0.1 pub-a4ae4624ad1644f3beab91edf9e95a1f.r2.dev
 127.0.0.1 pub-a51158df71b44aec85ad495337e9ad8a.r2.dev
+127.0.0.1 pub-a54baeefcb734429ad86cb4e81a1d124.r2.dev
 127.0.0.1 pub-a585275162b94eeead6f34b59fc34175.r2.dev
 127.0.0.1 pub-a8d8a97477ea42b2964481458ada1a6c.r2.dev
 127.0.0.1 pub-a8e31add0a6b4aba869febaa01df3901.r2.dev
@@ -17691,6 +17715,7 @@
 127.0.0.1 pub-b50adc5d699a4f08aec37102c2103da7.r2.dev
 127.0.0.1 pub-b53bd5e7c534438eb64ad032990328d0.r2.dev
 127.0.0.1 pub-b68ad5fe66a24ea9b097463761f317ac.r2.dev
+127.0.0.1 pub-b707cb1c1ad5452abd7f62804f60c7de.r2.dev
 127.0.0.1 pub-b719f0f94fbc4f2cb00dad7cbbb1b66a.r2.dev
 127.0.0.1 pub-b71ceadb77a943aabe274226b732448a.r2.dev
 127.0.0.1 pub-b72cd462909d46f0a9b08afad77e852f.r2.dev
@@ -17711,6 +17736,7 @@
 127.0.0.1 pub-bcdbacad5ee743ab82a804cbaba17a4d.r2.dev
 127.0.0.1 pub-bd4643ad769943549f9558e1751b5fb9.r2.dev
 127.0.0.1 pub-bdc7ec182e8e47849a4d9d595627bad1.r2.dev
+127.0.0.1 pub-bdcfad837fd9402b94071809dbe170d9.r2.dev
 127.0.0.1 pub-bdf913b484ee47ada4b17bba407ca857.r2.dev
 127.0.0.1 pub-be583faf11ad47819c72722502c3fc23.r2.dev
 127.0.0.1 pub-bf57aad8a6734b43a311cdd0b2ff0a0b.r2.dev
@@ -17729,6 +17755,7 @@
 127.0.0.1 pub-c2a53e31bae249dd9bedc2845ead1f0e.r2.dev
 127.0.0.1 pub-c364d24fabc24f2f9a9bb5ce3293dad5.r2.dev
 127.0.0.1 pub-c44474e8133d4fddbf151f6624ad1a44.r2.dev
+127.0.0.1 pub-c4adf48ebe57493b8c3b7399a48a0324.r2.dev
 127.0.0.1 pub-c518e29449da48da827ea070e8ad280e.r2.dev
 127.0.0.1 pub-c5b1c0de5d074219ad6d2af09756bd99.r2.dev
 127.0.0.1 pub-c6519276be2644e0b311ad8ddd485dfd.r2.dev
@@ -17762,7 +17789,9 @@
 127.0.0.1 pub-d126770a7b774637ada8129a540c36e6.r2.dev
 127.0.0.1 pub-d13c7fda8099451e863ddbf0205dad0f.r2.dev
 127.0.0.1 pub-d19989cad0344be58b63ebedc729841e.r2.dev
+127.0.0.1 pub-d1ad3bea6e0a42ddb899252e211c2905.r2.dev
 127.0.0.1 pub-d1cac75d8e0f462e8ef72f2007998ad2.r2.dev
+127.0.0.1 pub-d1e628dd8b7a4ddab8fed3ad3361fdef.r2.dev
 127.0.0.1 pub-d246ad26959c48f98f9906f029e03763.r2.dev
 127.0.0.1 pub-d2a6f607cafa49229bb9c3b680ad79d0.r2.dev
 127.0.0.1 pub-d35b49f7491c405e84eede6d72aad15b.r2.dev
@@ -17775,6 +17804,7 @@
 127.0.0.1 pub-d5deda3ad0064b2a8cd14fb30ced3dc8.r2.dev
 127.0.0.1 pub-d632e1a48ad344649f13deeb4ecf9a3a.r2.dev
 127.0.0.1 pub-d68002e5b75049bb98ec9a704062ad98.r2.dev
+127.0.0.1 pub-d68ad18c36594a9aa56910da8f439b4a.r2.dev
 127.0.0.1 pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev
 127.0.0.1 pub-d6de34ea781b490e874cadc2917d8a8d.r2.dev
 127.0.0.1 pub-d8acfad97cad47be8b4d8966ca74ed9a.r2.dev
@@ -17873,6 +17903,7 @@
 127.0.0.1 pub-fb083ff96a084263810de1145c98cad6.r2.dev
 127.0.0.1 pub-fb519c378293463b80af37ad2b874aaa.r2.dev
 127.0.0.1 pub-fc5f8ad81bfe4fea81442121f47506a6.r2.dev
+127.0.0.1 pub-fcd1dc03524b4c788228ad46c317f7e5.r2.dev
 127.0.0.1 pub-fcd6b66f88ad43458199dce52acaf3d3.r2.dev
 127.0.0.1 pub-fd1ad1c4ccc04520ab4a4bc8502ea589.r2.dev
 127.0.0.1 pub-fd64d7c28cd04a1baba8927daad1a552.r2.dev
@@ -17983,7 +18014,6 @@
 127.0.0.1 pxl.ace.advertising.com
 127.0.0.1 pxl.knam.pro
 127.0.0.1 pxsg.pandora.com
-127.0.0.1 py.utuhjcjtd.dns-dynamic.net
 127.0.0.1 pydybuu4.pro
 127.0.0.1 pyh-news.click
 127.0.0.1 pynipye3.pro
@@ -18555,6 +18585,7 @@
 127.0.0.1 rutabagastandingis.pro
 127.0.0.1 rutabagaturnoveres.pro
 127.0.0.1 rutfadsziog.com
+127.0.0.1 rutolue2.pro
 127.0.0.1 rutorads.com
 127.0.0.1 rutus.pro
 127.0.0.1 rv-gateway.supersonicads.com
@@ -19113,6 +19144,7 @@
 127.0.0.1 secureleadsforever.com
 127.0.0.1 secureleadsrn.com
 127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 securevi.pro
 127.0.0.1 security-hl.snssdk.com
 127.0.0.1 security-lq.snssdk.com
 127.0.0.1 security-update.ddns.info
@@ -19181,6 +19213,7 @@
 127.0.0.1 server.roulette-faker.pro
 127.0.0.1 server4ads.com
 127.0.0.1 serverads.net
+127.0.0.1 serversdkbseives.com
 127.0.0.1 serverupgrade2024.weebly.com
 127.0.0.1 service-ad-impression-proxy.clusters.pluto.tv
 127.0.0.1 service-api.accesstrade.vn
@@ -19191,6 +19224,7 @@
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 servicer.traffic-media.co.uk
 127.0.0.1 services.insurads.com
+127.0.0.1 servicio-2k24-cybersquad721601822.codeanyapp.com
 127.0.0.1 serving-ad.tv24.vn
 127.0.0.1 serving.ad.org.vn
 127.0.0.1 serwisinformacyjny.click
@@ -19511,6 +19545,7 @@
 127.0.0.1 slowaprawdy.click
 127.0.0.1 slowesdoores.pro
 127.0.0.1 slowowolnosci.click
+127.0.0.1 slowupfcvc.click
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 sluszneslowa.click
 127.0.0.1 slusznesprawy.click
@@ -19808,14 +19843,7 @@
 127.0.0.1 sprawymiastowe.click
 127.0.0.1 sprawypolskie.click
 127.0.0.1 sprawyrozwiazanie.click
-127.0.0.1 spreadsheetsc.top
 127.0.0.1 spreadsheetse.top
-127.0.0.1 spreadsheetsn.top
-127.0.0.1 spreadsheetsp.top
-127.0.0.1 spreadsheetsr.top
-127.0.0.1 spreadsheetsu.top
-127.0.0.1 spreadsheetsv.top
-127.0.0.1 spreadsheetsx.top
 127.0.0.1 spreadsheetsy.top
 127.0.0.1 spreadsheetsz.top
 127.0.0.1 springclick-ads.s3.amazonaws.com
@@ -20312,6 +20340,7 @@
 127.0.0.1 syrupingforemaning.pro
 127.0.0.1 syrupingpancakeed.pro
 127.0.0.1 system-update-new-2021.com
+127.0.0.1 systemnougatsystem.pro
 127.0.0.1 systemoweinfo.click
 127.0.0.1 systemsdirect.click
 127.0.0.1 systemspoleczny.click
@@ -20767,7 +20796,6 @@
 127.0.0.1 tokenads.com
 127.0.0.1 tokenstocks.pro
 127.0.0.1 tokinou8.pro
-127.0.0.1 tolls.linksum.click
 127.0.0.1 tomatoqqamber.click
 127.0.0.1 tomladvert.com
 127.0.0.1 tomog.pro
@@ -21231,6 +21259,7 @@
 127.0.0.1 tubeadv.com
 127.0.0.1 tubeadvertising.eu
 127.0.0.1 tubeadvisor.com
+127.0.0.1 tubexvhh.click
 127.0.0.1 tudetue6.pro
 127.0.0.1 tui.gtimg.com
 127.0.0.1 tui.taobao.com
@@ -21490,7 +21519,6 @@
 127.0.0.1 untriedcause.pro
 127.0.0.1 unwitting-phrase.pro
 127.0.0.1 uoad767.lisanse.com
-127.0.0.1 uoascghtdxhrvadsnuzh.ozhseoubtzpsb.cn
 127.0.0.1 uole.ad.uol.com.br
 127.0.0.1 uop.umeng.com
 127.0.0.1 up-banner.wavecdn.net
@@ -21508,7 +21536,6 @@
 127.0.0.1 update-java.kit.net
 127.0.0.1 update-mac.com
 127.0.0.1 update-managepymntsupportintlapps.unusa.pk
-127.0.0.1 update-micuenta.info
 127.0.0.1 update-myetherwallet.com
 127.0.0.1 update-net.com
 127.0.0.1 update-package.com
@@ -21647,7 +21674,7 @@
 127.0.0.1 usherhaze.click
 127.0.0.1 uslugazdrowia.click
 127.0.0.1 usp1.baidu.com
-127.0.0.1 usps.www-damamhealth-com.click
+127.0.0.1 usqgkkgsdk-f94896.ingress-bonde.ewp.live
 127.0.0.1 usris.gradspeeches.com
 127.0.0.1 ust-ad.com
 127.0.0.1 ustalenieprawdy.click
@@ -21826,7 +21853,6 @@
 127.0.0.1 verify-advertising-account-violations.netlify.app
 127.0.0.1 verify-update.xyz
 127.0.0.1 verify.mob.com
-127.0.0.1 verifyinfoadsmanager.io.vn
 127.0.0.1 verifytech.click
 127.0.0.1 veritemeldrop.click
 127.0.0.1 versatileadvancement.com
@@ -22020,6 +22046,7 @@
 127.0.0.1 vnte9urn.click
 127.0.0.1 vobarokinvesting.pro
 127.0.0.1 vobonoo1.pro
+127.0.0.1 vodaconzaf.click
 127.0.0.1 vodobyve.pro
 127.0.0.1 vodus-api-serverless.azurewebsites.net
 127.0.0.1 vodus-api.azurewebsites.net
@@ -22339,6 +22366,7 @@
 127.0.0.1 washbasinedeverydayes.pro
 127.0.0.1 washbasiningfrostes.pro
 127.0.0.1 washbasiningshouldered.pro
+127.0.0.1 washers1tya.click
 127.0.0.1 waskiegrono.click
 127.0.0.1 waszeobowiazki.click
 127.0.0.1 waszewsparcie.click
@@ -22481,6 +22509,7 @@
 127.0.0.1 westloft.click
 127.0.0.1 westtiling.click
 127.0.0.1 wet-maybe.pro
+127.0.0.1 wetransfr8729fils902783documentz7398downloads.standard.us-east-1.oortech.com
 127.0.0.1 wewawia5ua7.pro
 127.0.0.1 wfh.amqn.pro
 127.0.0.1 whaadvisory.com
@@ -22545,6 +22574,7 @@
 127.0.0.1 wiezidomaslonce.click
 127.0.0.1 wifescamara.click
 127.0.0.1 wifiads.cleverads.vn
+127.0.0.1 wijypea1.click
 127.0.0.1 wiki.apps.globo-corp.6pzc.p1.openshiftapps.com
 127.0.0.1 wiki.ero-advertising.com
 127.0.0.1 wikia-ads.wikia.com
@@ -22815,7 +22845,6 @@
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-google.nl
-127.0.0.1 www-lapolste-frm.click
 127.0.0.1 www-laposote-frm.click
 127.0.0.1 www.0ad4a42868fc920e69787853d2a02df3.dirks.pl
 127.0.0.1 www.0d923a4a4d84dd9c11fad19b02cc62ad.vistvx.pl
@@ -22976,7 +23005,6 @@
 127.0.0.1 www.adnotacje24.click
 127.0.0.1 www.adnotacyjne.click
 127.0.0.1 www.adnxs.com
-127.0.0.1 www.adp120.cn
 127.0.0.1 www.adrezbinvest.pro
 127.0.0.1 www.adrikaadvertising.com
 127.0.0.1 www.adrikon-invest.pro
@@ -23199,6 +23227,7 @@
 127.0.0.1 www.analytics.icons8.com
 127.0.0.1 www.analytics.picsart.com
 127.0.0.1 www.andguitarbookdailyes.pro
+127.0.0.1 www.andlandpoint.pro
 127.0.0.1 www.andradv3nt.sbs
 127.0.0.1 www.aneksowy24h.click
 127.0.0.1 www.anemicznyczlowiek.click
@@ -23338,6 +23367,7 @@
 127.0.0.1 www.beefedcomicsed.pro
 127.0.0.1 www.beginads.com
 127.0.0.1 www.bemydate.mobi
+127.0.0.1 www.bengalqt3bj.click
 127.0.0.1 www.bengalqtbj.click
 127.0.0.1 www.bent2bent.pro
 127.0.0.1 www.bepof.click
@@ -23414,6 +23444,7 @@
 127.0.0.1 www.bluebirdesclearing.pro
 127.0.0.1 www.bluflinginvest.pro
 127.0.0.1 www.blurr31lqyr.click
+127.0.0.1 www.blurrmqlqyr.click
 127.0.0.1 www.bmev6y4x1uby.ad-operations-streamline.sbs
 127.0.0.1 www.bnp-partner.com
 127.0.0.1 www.bodziecruchu.click
@@ -23628,6 +23659,7 @@
 127.0.0.1 www.coin-ad.com
 127.0.0.1 www.coindark-invest.pro
 127.0.0.1 www.cometosomesense.pro
+127.0.0.1 www.commanzibw.click
 127.0.0.1 www.commbank-info-update.com
 127.0.0.1 www.compliance-advisor.com
 127.0.0.1 www.complimentaryesspathiphyllum.pro
@@ -24143,6 +24175,7 @@
 127.0.0.1 www.feyads.com
 127.0.0.1 www.ffffff.tx1tx.click
 127.0.0.1 www.fhatfee.ero-advertising.com
+127.0.0.1 www.ficyveu3.pro
 127.0.0.1 www.file-download.estudiosparrow.com
 127.0.0.1 www.file-download.importadorachr.cl
 127.0.0.1 www.file.download.mueblescurico.cl
@@ -24212,6 +24245,7 @@
 127.0.0.1 www.fruklon-invest.pro
 127.0.0.1 www.fuboxao3.pro
 127.0.0.1 www.fuel-pumpes.pro
+127.0.0.1 www.fuhyqee.pro
 127.0.0.1 www.fun-mobi.pl
 127.0.0.1 www.fundamentywiedzy.click
 127.0.0.1 www.funnelleadsmedia.com
@@ -24235,6 +24269,8 @@
 127.0.0.1 www.gammadsp.com
 127.0.0.1 www.gandtadventures.com
 127.0.0.1 www.gard3ng1ade52.store
+127.0.0.1 www.gastr0sw4qo.click
+127.0.0.1 www.gastr9sw7qo.click
 127.0.0.1 www.gata.ero-advertising.com
 127.0.0.1 www.gatherhope.click
 127.0.0.1 www.gatoradvertisinginformationnetwork.com
@@ -24269,6 +24305,7 @@
 127.0.0.1 www.gigafury.pro
 127.0.0.1 www.gimamao1.click
 127.0.0.1 www.giqazoo1.pro
+127.0.0.1 www.giveo7jlf.click
 127.0.0.1 www.gizysuy2.click
 127.0.0.1 www.gkpge.click
 127.0.0.1 www.gkpge.pro
@@ -24561,6 +24598,7 @@
 127.0.0.1 www.inkheads-nft.com
 127.0.0.1 www.inkryminacja.click
 127.0.0.1 www.inmotionads.com
+127.0.0.1 www.inmsatiqsyb.click
 127.0.0.1 www.innowacyjnyportal.click
 127.0.0.1 www.inplatform.click
 127.0.0.1 www.inpost-ei.click
@@ -24820,6 +24858,7 @@
 127.0.0.1 www.latestinstantnews.click
 127.0.0.1 www.latilirom-invest.pro
 127.0.0.1 www.latteglass.click
+127.0.0.1 www.launch3ush.click
 127.0.0.1 www.laureat-nagrody.click
 127.0.0.1 www.lavenion0-investing.pro
 127.0.0.1 www.lawbacks.pro
@@ -24888,7 +24927,6 @@
 127.0.0.1 www.locksmith-360.com
 127.0.0.1 www.login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
 127.0.0.1 www.login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com
-127.0.0.1 www.loginmeta.click
 127.0.0.1 www.lokalizatorsladu.click
 127.0.0.1 www.lokalnemiasteczko.click
 127.0.0.1 www.lokalnemiejsca.click
@@ -24960,7 +24998,6 @@
 127.0.0.1 www.mapkatechniczna.click
 127.0.0.1 www.mapleglimpse.click
 127.0.0.1 www.maplevision.click
-127.0.0.1 www.maps-location-helps.click
 127.0.0.1 www.maralgel.pro
 127.0.0.1 www.marinastem.click
 127.0.0.1 www.marjoramingserveing.pro
@@ -25203,6 +25240,7 @@
 127.0.0.1 www.national-lottery.co.uk
 127.0.0.1 www.naturalbees.click
 127.0.0.1 www.naturalnewiesci.click
+127.0.0.1 www.naturauehi.click
 127.0.0.1 www.naturazycia.click
 127.0.0.1 www.natuscs2.pro
 127.0.0.1 www.natusprize.pro
@@ -25752,6 +25790,7 @@
 127.0.0.1 www.postawaspoleczna.click
 127.0.0.1 www.postawmynowe.click
 127.0.0.1 www.postepsprawy.click
+127.0.0.1 www.postm7ofzdo.click
 127.0.0.1 www.postnewsads.com
 127.0.0.1 www.postrachdnia.click
 127.0.0.1 www.postronniswiadkowie.click
@@ -26157,7 +26196,6 @@
 127.0.0.1 www.roty-dioraem.pro
 127.0.0.1 www.rowerowy-szal.click
 127.0.0.1 www.rowopyu7.pro
-127.0.0.1 www.royalmaila.click
 127.0.0.1 www.rozbij-bank.click
 127.0.0.1 www.rozczarowaniobywatele.click
 127.0.0.1 www.rozglosmedialny.click
@@ -26190,6 +26228,7 @@
 127.0.0.1 www.rutabagameantimeis.pro
 127.0.0.1 www.rutabagastandingis.pro
 127.0.0.1 www.rutabagaturnoveres.pro
+127.0.0.1 www.rutolue2.pro
 127.0.0.1 www.rutus.pro
 127.0.0.1 www.rywixaacyj.pro
 127.0.0.1 www.rzeczsprawnosci.click
@@ -26316,6 +26355,7 @@
 127.0.0.1 www.slodki-traf.click
 127.0.0.1 www.slowaprawdy.click
 127.0.0.1 www.slowesdoores.pro
+127.0.0.1 www.slowupfcvc.click
 127.0.0.1 www.sluszneslowa.click
 127.0.0.1 www.slusznesprawy.click
 127.0.0.1 www.sluzbowanotka.click
@@ -26554,6 +26594,7 @@
 127.0.0.1 www.syrupingforemanes.pro
 127.0.0.1 www.syrupingforemaning.pro
 127.0.0.1 www.syrupingpancakeed.pro
+127.0.0.1 www.systemnougatsystem.pro
 127.0.0.1 www.systemsdirect.click
 127.0.0.1 www.systemspoleczny.click
 127.0.0.1 www.systemzarzadzania.click
@@ -26787,6 +26828,7 @@
 127.0.0.1 www.ts1aproinv.pro
 127.0.0.1 www.tss.tx1tx.click
 127.0.0.1 www.ttnet.yandex.com.tr
+127.0.0.1 www.tubexvhh.click
 127.0.0.1 www.tudetue6.pro
 127.0.0.1 www.tukinre.click
 127.0.0.1 www.tulilui8.pro
@@ -27005,6 +27047,7 @@
 127.0.0.1 www.washbasinedeverydayes.pro
 127.0.0.1 www.washbasiningfrostes.pro
 127.0.0.1 www.washbasiningshouldered.pro
+127.0.0.1 www.washers1tya.click
 127.0.0.1 www.waskiegrono.click
 127.0.0.1 www.waszeobowiazki.click
 127.0.0.1 www.waszewsparcie.click
@@ -27094,6 +27137,7 @@
 127.0.0.1 www.wiescizpolski.click
 127.0.0.1 www.wiescizpowiatu.click
 127.0.0.1 www.wiescwojewodzka.click
+127.0.0.1 www.wijypea1.click
 127.0.0.1 www.wiki.ero-advertising.com
 127.0.0.1 www.willowwatch.click
 127.0.0.1 www.winads.cn
@@ -27469,7 +27513,6 @@
 127.0.0.1 www9.smartadserver.com
 127.0.0.1 wwwads.seoul.co.kr
 127.0.0.1 wwwctt-pt.mobi
-127.0.0.1 wwwpolestes.click
 127.0.0.1 wwww.adleads.com
 127.0.0.1 wx.ax
 127.0.0.1 wx.houyi.baofeng.net
@@ -27657,6 +27700,7 @@
 127.0.0.1 xunkgrape.click
 127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 xutomee4au6.pro
+127.0.0.1 xvirelcdn.click
 127.0.0.1 xxsmad1.com
 127.0.0.1 xxsmad2.com
 127.0.0.1 xxsmad3.com
