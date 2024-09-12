@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-12 10:48:39 
+#更新时间: 2024-09-12 22:19:20 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:27948
+#规则数量:27962
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -5483,6 +5483,7 @@
 127.0.0.1 aff.mclick.mobi
 127.0.0.1 affbuzzads.com
 127.0.0.1 affiliate-api.raptive.com
+127.0.0.1 afftopads.com
 127.0.0.1 afhleads.keurig.ca
 127.0.0.1 afiletoget.click
 127.0.0.1 afiliapub.click
@@ -5983,6 +5984,7 @@
 127.0.0.1 analytics.emarketer.com
 127.0.0.1 analytics.emol.com
 127.0.0.1 analytics.enjoymobiserver.com
+127.0.0.1 analytics.equmeniakyrkan.se
 127.0.0.1 analytics.erepublic.com
 127.0.0.1 analytics.ericafischerphotography.com
 127.0.0.1 analytics.ero-advertising.com
@@ -6443,6 +6445,7 @@
 127.0.0.1 analytics.sixt.nl
 127.0.0.1 analytics.sixtcarsales.de
 127.0.0.1 analytics.sixtmiddleeast.com
+127.0.0.1 analytics.sjf.se
 127.0.0.1 analytics.skinit.com
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.slashdotmedia.com
@@ -6864,7 +6867,6 @@
 127.0.0.1 api-internal.oncustomer.asia
 127.0.0.1 api-js.datadome.co
 127.0.0.1 api-js.mixpanel.com
-127.0.0.1 api-jzjp.unlockmorefun.com
 127.0.0.1 api-keks.com
 127.0.0.1 api-ldp.novaonx.com
 127.0.0.1 api-live.outgrow.co
@@ -7526,6 +7528,7 @@
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 api.yidiansurong.com
 127.0.0.1 api.yieldlove-ad-serving.net
+127.0.0.1 api.ymxsd89.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 api.youxiaoad.com
 127.0.0.1 api.youzu.com
@@ -7581,7 +7584,6 @@
 127.0.0.1 app.chat.global.xiaomi.net.iberostar.com
 127.0.0.1 app.corp.tableausoftware.com
 127.0.0.1 app.flurry.com
-127.0.0.1 app.launchpadtools.pro
 127.0.0.1 app.leadsrx.com
 127.0.0.1 app.m1.adsolutions.yp.com
 127.0.0.1 app.marketing.pro.sony.eu
@@ -8248,6 +8250,7 @@
 127.0.0.1 binarslime.click
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 binoads.ir
+127.0.0.1 bipenlir.click
 127.0.0.1 birchist.click
 127.0.0.1 birezuueitt8.pro
 127.0.0.1 biroads.com
@@ -8459,6 +8462,7 @@
 127.0.0.1 brassblast.click
 127.0.0.1 brave-browser.edudlplomss.com
 127.0.0.1 bravica.pro
+127.0.0.1 bread1.nfpt.adfixagency.co.in
 127.0.0.1 breadsincerely.com
 127.0.0.1 breakingbuzz.click
 127.0.0.1 breakinginstantflash.click
@@ -8570,7 +8574,6 @@
 127.0.0.1 buysellads.com
 127.0.0.1 buysellads.net
 127.0.0.1 bvbvbt.tentaklsistem.click
-127.0.0.1 bvssitecarsolitec.click
 127.0.0.1 bwads24.com
 127.0.0.1 bwmxdg.kimono-365.jp
 127.0.0.1 bwp.download.com
@@ -8688,6 +8691,7 @@
 127.0.0.1 caclick.baidu.com
 127.0.0.1 cad22af.12128fw.cc
 127.0.0.1 cad22af.rgpts.net
+127.0.0.1 cadh10.com
 127.0.0.1 cado.pro
 127.0.0.1 cado888.com
 127.0.0.1 cadovn.pro
@@ -9025,6 +9029,7 @@
 127.0.0.1 changeedeveryday.pro
 127.0.0.1 changeedfrostes.pro
 127.0.0.1 changeesshoulder.pro
+127.0.0.1 changeeye.pro
 127.0.0.1 changeingfrost.pro
 127.0.0.1 channel.api.duapp.com
 127.0.0.1 chart.advinion.com
@@ -10199,7 +10204,6 @@
 127.0.0.1 dhb.amqn.pro
 127.0.0.1 dhl-365.cc
 127.0.0.1 dhl365.click
-127.0.0.1 dhlate.pro
 127.0.0.1 dhss.pro
 127.0.0.1 dhux7ijh.click
 127.0.0.1 diadem-invest.pro
@@ -10933,6 +10937,7 @@
 127.0.0.1 educationesclearing.pro
 127.0.0.1 educationingtangentes.pro
 127.0.0.1 educationingvoteing.pro
+127.0.0.1 edvt-xg.top
 127.0.0.1 ee.sgdjrygjg.dns-dynamic.net
 127.0.0.1 ee0465723f735365ad5452b7a7d30b92.syri.pl
 127.0.0.1 ee6f40ad45ccce33e6494608a7c27c98.twojedom.pl
@@ -11104,7 +11109,6 @@
 127.0.0.1 est-mta.b2b-mail.net
 127.0.0.1 esta-feta.click
 127.0.0.1 establishmoment.pro
-127.0.0.1 estasfeta.click
 127.0.0.1 estasfeta.pro
 127.0.0.1 estateplanning.dependableadvisors.cfd
 127.0.0.1 et.mobadvent.com
@@ -11283,6 +11287,7 @@
 127.0.0.1 faceit.eloconnect.pro
 127.0.0.1 faceit.moonupaccept.pro
 127.0.0.1 faceit.moonupteam.pro
+127.0.0.1 faceit.starsbyte.pro
 127.0.0.1 facesue8.pro
 127.0.0.1 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 127.0.0.1 fact.mestopoland.pro
@@ -11475,6 +11480,7 @@
 127.0.0.1 flash.cn
 127.0.0.1 flash.expobarrio.com
 127.0.0.1 flash.quantserve.com
+127.0.0.1 flash.shanxienergy.com
 127.0.0.1 flashexchange.pro
 127.0.0.1 flashplayer-update.digital
 127.0.0.1 flashplayerfeedback.adobe.com
@@ -12117,6 +12123,7 @@
 127.0.0.1 growleading.click
 127.0.0.1 growlr.adsbynimbus.com
 127.0.0.1 grownbake.pro
+127.0.0.1 growtreechange.pro
 127.0.0.1 groxton-invest.pro
 127.0.0.1 grs.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.eu
@@ -14363,6 +14370,7 @@
 127.0.0.1 massivetreadsuperior.com
 127.0.0.1 masterbate.pro
 127.0.0.1 mastersdegree.pro
+127.0.0.1 masthila.click
 127.0.0.1 mastik.everadpro.click
 127.0.0.1 masture.mobi
 127.0.0.1 mata.ero-advertising.com
@@ -15802,7 +15810,6 @@
 127.0.0.1 online.cnzz.com
 127.0.0.1 online.jtiadvance.co.uk
 127.0.0.1 online.people-pro.design
-127.0.0.1 online.plataformadigitalweb-pe.click
 127.0.0.1 onlineads.magicvalley.com
 127.0.0.1 onlinedownloads.org
 127.0.0.1 onlinemakers.click
@@ -15836,7 +15843,6 @@
 127.0.0.1 open-rice-serice.top
 127.0.0.1 open-roll.com
 127.0.0.1 open-skins.space
-127.0.0.1 open-spotify-nz-authori.codeanyapp.com
 127.0.0.1 open-test-devsu-pichincha.gerson-ruiz.com
 127.0.0.1 open-test.wynk.in
 127.0.0.1 open-up.it
@@ -17042,6 +17048,7 @@
 127.0.0.1 pro.letv.com
 127.0.0.1 pro.lidoks.xyz
 127.0.0.1 pro.m2pl.online
+127.0.0.1 pro.manager-settingsuser.com
 127.0.0.1 pro.marinsm.com
 127.0.0.1 pro.mastercasc.top
 127.0.0.1 pro.masterprogr.xyz
@@ -17132,7 +17139,6 @@
 127.0.0.1 projektmiesiaca.click
 127.0.0.1 projektszkic.click
 127.0.0.1 proklamacyjnosc.click
-127.0.0.1 promaker.pro
 127.0.0.1 promax.ofishlprog2.click
 127.0.0.1 promedia-click.ru
 127.0.0.1 promileukierowcy.click
@@ -17825,6 +17831,7 @@
 127.0.0.1 pub-ddad59647b9d477d89faec1d7eaa7b63.r2.dev
 127.0.0.1 pub-dfb1714253d04ad7965e92e0541463c8.r2.dev
 127.0.0.1 pub-dfbd7424ada145b88da865fa99efa057.r2.dev
+127.0.0.1 pub-e008bf9d54e84c748d2c1ad8091f16bb.r2.dev
 127.0.0.1 pub-e13c11a0d7e84db8b9c7e7f4b9dc3ad9.r2.dev
 127.0.0.1 pub-e14ddeed1e5e4daaadd197a5b9583a16.r2.dev
 127.0.0.1 pub-e16ad07c080c4db79ef78ada6ab23dae.r2.dev
@@ -18086,6 +18093,7 @@
 127.0.0.1 quickpcfixer.click
 127.0.0.1 quicksprint.click
 127.0.0.1 quickwest.pro
+127.0.0.1 quintessential-telephone.pro
 127.0.0.1 quizquestion.click
 127.0.0.1 quizzicalgrand.pro
 127.0.0.1 quqesauocao.pro
@@ -18443,6 +18451,7 @@
 127.0.0.1 rmxads.com
 127.0.0.1 road2gold.site
 127.0.0.1 roadshonkb.online
+127.0.0.1 roadsideondemandllc.com
 127.0.0.1 robet-challengemode.pro
 127.0.0.1 roboczogodziny.click
 127.0.0.1 robotadserver.com
@@ -20087,6 +20096,7 @@
 127.0.0.1 stocks-analytics-events.apple.com
 127.0.0.1 stocks-analytics-events.news.apple-dns.net
 127.0.0.1 stogaannona.click
+127.0.0.1 stolc-download.tech
 127.0.0.1 stolidov.tentaklsistem.click
 127.0.0.1 stoneedenergyed.pro
 127.0.0.1 stopwypadki.click
@@ -21350,8 +21360,6 @@
 127.0.0.1 tytibaepau.pro
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 tyu.aqi22nvoa.dns-dynamic.net
-127.0.0.1 tyu.cspihj31hdp.dns-dynamic.net
-127.0.0.1 tyu.ewoinp36gea.dns-dynamic.net
 127.0.0.1 tyu.ofishlprog1.click
 127.0.0.1 tywuxoe3.pro
 127.0.0.1 u-ad.info
@@ -21646,6 +21654,7 @@
 127.0.0.1 us-east-ad-track.aralego.com
 127.0.0.1 us-events.api.iheart.com
 127.0.0.1 us-geo.cityads.com
+127.0.0.1 us-usps-mi.top
 127.0.0.1 us-usps-uc.top
 127.0.0.1 us-west-2.ecs.mb.moatads.com
 127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
@@ -22845,7 +22854,6 @@
 127.0.0.1 wws.lanzoud.com
 127.0.0.1 wws.lanzous.com
 127.0.0.1 wws.lanzouz.com
-127.0.0.1 www-34d945a1.adventuresofhotrodtodd.com
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-google.nl
@@ -23487,6 +23495,7 @@
 127.0.0.1 www.c79963dc6b2fc95211e64476cad41d8d.vistvx.pl
 127.0.0.1 www.ca-info.pro
 127.0.0.1 www.ca9295aca2944edad5e800d8a358e8c5.niflos.pl
+127.0.0.1 www.cadh10.com
 127.0.0.1 www.cadsolutions.org
 127.0.0.1 www.cadvision.com
 127.0.0.1 www.cainv.click
@@ -23562,6 +23571,7 @@
 127.0.0.1 www.changeedeveryday.pro
 127.0.0.1 www.changeedfrostes.pro
 127.0.0.1 www.changeesshoulder.pro
+127.0.0.1 www.changeeye.pro
 127.0.0.1 www.changeingfrost.pro
 127.0.0.1 www.chasingroads.com
 127.0.0.1 www.chat.ero-advertising.com
@@ -24152,6 +24162,7 @@
 127.0.0.1 www.flash-of-silver.com
 127.0.0.1 www.flash-of-silver.world
 127.0.0.1 www.flash.cn
+127.0.0.1 www.flash.shanxienergy.com
 127.0.0.1 www.flashtest.ero-advertising.com
 127.0.0.1 www.flatdee.ero-advertising.com
 127.0.0.1 www.flatfae.ero-advertising.com
@@ -24339,6 +24350,7 @@
 127.0.0.1 www.gromadzimyfakty.click
 127.0.0.1 www.gromder-invest.pro
 127.0.0.1 www.gronoobywateli.click
+127.0.0.1 www.growtreechange.pro
 127.0.0.1 www.groxton-invest.pro
 127.0.0.1 www.grudzien-wiado1.website
 127.0.0.1 www.grupawsparcia.click
@@ -24943,6 +24955,7 @@
 127.0.0.1 www.masowemediowe.click
 127.0.0.1 www.massage-corp.space
 127.0.0.1 www.mastersdegree.pro
+127.0.0.1 www.masthila.click
 127.0.0.1 www.mata.ero-advertising.com
 127.0.0.1 www.materialdowodowy.click
 127.0.0.1 www.materialtragedi.click
@@ -25039,6 +25052,7 @@
 127.0.0.1 www.mipoqua4.pro
 127.0.0.1 www.miradoks-investing.pro
 127.0.0.1 www.mirthdab.click
+127.0.0.1 www.mltsui-check.com
 127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 www.mnetads.com
 127.0.0.1 www.mniejszoscspoleczna.click
