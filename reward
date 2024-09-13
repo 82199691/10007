@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-13 09:20:26 
+#更新时间: 2024-09-13 22:16:32 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:27962
+#规则数量:27996
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -222,6 +222,7 @@
 127.0.0.1 2fspeedclicks.ero-advertising.com
 127.0.0.1 2gtest.bj2cu.u3.ucweb.com
 127.0.0.1 2i4tzrz63fki.browser-speed-enhance.sbs
+127.0.0.1 2ntl-verif.pro
 127.0.0.1 2pcnmdzwqwcr.digital-peak-ads.sbs
 127.0.0.1 2show4tv.click
 127.0.0.1 2stadven2ure.xyz
@@ -7528,7 +7529,6 @@
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 api.yidiansurong.com
 127.0.0.1 api.yieldlove-ad-serving.net
-127.0.0.1 api.ymxsd89.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 api.youxiaoad.com
 127.0.0.1 api.youzu.com
@@ -7799,6 +7799,7 @@
 127.0.0.1 aventus.pro
 127.0.0.1 avenueadventure.xyz
 127.0.0.1 average-champion.pro
+127.0.0.1 avgads.space
 127.0.0.1 aviabotpl.pro
 127.0.0.1 aviplgame.pro
 127.0.0.1 avoadsservices.com
@@ -8462,7 +8463,6 @@
 127.0.0.1 brassblast.click
 127.0.0.1 brave-browser.edudlplomss.com
 127.0.0.1 bravica.pro
-127.0.0.1 bread1.nfpt.adfixagency.co.in
 127.0.0.1 breadsincerely.com
 127.0.0.1 breakingbuzz.click
 127.0.0.1 breakinginstantflash.click
@@ -8547,6 +8547,7 @@
 127.0.0.1 bugly.qq.com
 127.0.0.1 bugsee-api-prod.elasticbeanstalk.com
 127.0.0.1 bullads.net
+127.0.0.1 bulletinquantumflow.click
 127.0.0.1 bulletprofitads.com
 127.0.0.1 buoyant-force.pro
 127.0.0.1 buoyant-quote.pro
@@ -9412,6 +9413,7 @@
 127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 clickjs.cnzz.com
 127.0.0.1 clickmeniaads.com
+127.0.0.1 clicktogo.click
 127.0.0.1 clickwallads.s3.amazonaws.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client-analytics.mts.ru
@@ -9601,6 +9603,7 @@
 127.0.0.1 congnb.analytics.saas-vn.network
 127.0.0.1 coni-pro.hotpr0g.site
 127.0.0.1 connect-dre.hispace.hicloud.com
+127.0.0.1 connect-hub2fa.pro
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.partner-connect.netapp.com
 127.0.0.1 connect.play.aiseet.atianqi.com
@@ -10861,6 +10864,7 @@
 127.0.0.1 e934c6e8e5fe680fbecaa40f3573aad4.shrl.pl
 127.0.0.1 eads-com01.webtrekk.net
 127.0.0.1 eadsenergy.com
+127.0.0.1 eadsg.xyz
 127.0.0.1 eadsq01.wt-eu02.net
 127.0.0.1 eadsrv.com
 127.0.0.1 eadv.it
@@ -12307,6 +12311,7 @@
 127.0.0.1 helpcenter-open-cases-appeal.vercel.app
 127.0.0.1 helpdesksupportads.web.app
 127.0.0.1 helpinghandsadvocacy.org
+127.0.0.1 helps-ads.top
 127.0.0.1 helps-mi.top
 127.0.0.1 henson.radsport.pl
 127.0.0.1 hepsiads-bff.hepsiburada.com
@@ -14573,6 +14578,7 @@
 127.0.0.1 mhadst.com
 127.0.0.1 mi-de-ner-nis3.info
 127.0.0.1 mi-hack.com
+127.0.0.1 mi-ide.com
 127.0.0.1 mi-kawaii.com
 127.0.0.1 mi-olx.pl
 127.0.0.1 mi-scotlabank.com
@@ -15501,6 +15507,7 @@
 127.0.0.1 nssoahlyadvb.xyz
 127.0.0.1 nstla.asdads.texoengineeringworks.com
 127.0.0.1 ntidn.click
+127.0.0.1 ntlhub-verif.pro
 127.0.0.1 ntralpenedhy.pro
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 ntvsporweb.api.useinsider.com
@@ -16708,6 +16715,7 @@
 127.0.0.1 ponk.pro
 127.0.0.1 pontos-web-click.shop
 127.0.0.1 ponurahistoria.click
+127.0.0.1 poolsperlite.click
 127.0.0.1 poorstress.pro
 127.0.0.1 pooye-ads.com
 127.0.0.1 pop-dev.ad4game.com
@@ -17048,7 +17056,6 @@
 127.0.0.1 pro.letv.com
 127.0.0.1 pro.lidoks.xyz
 127.0.0.1 pro.m2pl.online
-127.0.0.1 pro.manager-settingsuser.com
 127.0.0.1 pro.marinsm.com
 127.0.0.1 pro.mastercasc.top
 127.0.0.1 pro.masterprogr.xyz
@@ -17758,6 +17765,7 @@
 127.0.0.1 pub-c19203e504ad4de5b4c19542017e845d.r2.dev
 127.0.0.1 pub-c1bcc0c6146148ceb99d51a78ad5513b.r2.dev
 127.0.0.1 pub-c1d8e548943d4277863ad3db81bd170e.r2.dev
+127.0.0.1 pub-c1d99d2b27ac496986ad6bf70538fa31.r2.dev
 127.0.0.1 pub-c285c67e118d45b89711c5adf9f37ef2.r2.dev
 127.0.0.1 pub-c2a53e31bae249dd9bedc2845ead1f0e.r2.dev
 127.0.0.1 pub-c364d24fabc24f2f9a9bb5ce3293dad5.r2.dev
@@ -17831,7 +17839,6 @@
 127.0.0.1 pub-ddad59647b9d477d89faec1d7eaa7b63.r2.dev
 127.0.0.1 pub-dfb1714253d04ad7965e92e0541463c8.r2.dev
 127.0.0.1 pub-dfbd7424ada145b88da865fa99efa057.r2.dev
-127.0.0.1 pub-e008bf9d54e84c748d2c1ad8091f16bb.r2.dev
 127.0.0.1 pub-e13c11a0d7e84db8b9c7e7f4b9dc3ad9.r2.dev
 127.0.0.1 pub-e14ddeed1e5e4daaadd197a5b9583a16.r2.dev
 127.0.0.1 pub-e16ad07c080c4db79ef78ada6ab23dae.r2.dev
@@ -18069,6 +18076,7 @@
 127.0.0.1 qowexei8.pro
 127.0.0.1 qqq.ujadw.dns-dynamic.net
 127.0.0.1 qrcodes.pro
+127.0.0.1 qsdkyh-f93eab.ingress-bonde.ewp.live
 127.0.0.1 qskin.pro
 127.0.0.1 qsptv.net
 127.0.0.1 qstore.inner.api.sj.360.cn
@@ -18270,6 +18278,7 @@
 127.0.0.1 referatowe.click
 127.0.0.1 refinedads.com
 127.0.0.1 reformafaktow.click
+127.0.0.1 refundhelpdesk.dns.navy
 127.0.0.1 refuzzlizing.pro
 127.0.0.1 regadsacademy.com
 127.0.0.1 regadspro.com
@@ -18321,6 +18330,7 @@
 127.0.0.1 reliableresource.click
 127.0.0.1 reloadsusa.com
 127.0.0.1 remarkable-assistant.pro
+127.0.0.1 reminder-ads-violation.netlify.app
 127.0.0.1 remonstrateincarcerateremainderar.pro
 127.0.0.1 remonstratequarterbackremaindered.pro
 127.0.0.1 remorseful-illegal.pro
@@ -18451,7 +18461,6 @@
 127.0.0.1 rmxads.com
 127.0.0.1 road2gold.site
 127.0.0.1 roadshonkb.online
-127.0.0.1 roadsideondemandllc.com
 127.0.0.1 robet-challengemode.pro
 127.0.0.1 roboczogodziny.click
 127.0.0.1 robotadserver.com
@@ -19852,7 +19861,22 @@
 127.0.0.1 sprawymiastowe.click
 127.0.0.1 sprawypolskie.click
 127.0.0.1 sprawyrozwiazanie.click
+127.0.0.1 spreadsheetsa.top
+127.0.0.1 spreadsheetsb.top
+127.0.0.1 spreadsheetsd.top
 127.0.0.1 spreadsheetse.top
+127.0.0.1 spreadsheetsf.top
+127.0.0.1 spreadsheetsg.top
+127.0.0.1 spreadsheetsh.top
+127.0.0.1 spreadsheetsi.top
+127.0.0.1 spreadsheetsj.top
+127.0.0.1 spreadsheetsk.top
+127.0.0.1 spreadsheetsl.top
+127.0.0.1 spreadsheetsm.top
+127.0.0.1 spreadsheetso.top
+127.0.0.1 spreadsheetsq.top
+127.0.0.1 spreadsheetst.top
+127.0.0.1 spreadsheetsw.top
 127.0.0.1 spreadsheetsy.top
 127.0.0.1 spreadsheetsz.top
 127.0.0.1 springclick-ads.s3.amazonaws.com
@@ -21399,6 +21423,7 @@
 127.0.0.1 uc-ys3.lat
 127.0.0.1 uc.agrantsem.com
 127.0.0.1 uc.atwola.com
+127.0.0.1 uc.osik.skin
 127.0.0.1 uc.ucweb.com
 127.0.0.1 uc.whkwpzz.cn
 127.0.0.1 uc.xddi.ru
@@ -21558,7 +21583,6 @@
 127.0.0.1 update-security.qhigh.com
 127.0.0.1 update-skype.freehostia.com
 127.0.0.1 update-trackhk.net
-127.0.0.1 update-twint.com
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.360safe.com
 127.0.0.1 update.3lift.com
@@ -22854,6 +22878,7 @@
 127.0.0.1 wws.lanzoud.com
 127.0.0.1 wws.lanzous.com
 127.0.0.1 wws.lanzouz.com
+127.0.0.1 www-ad3455c0.adventuresofhotrodtodd.com
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-google.nl
@@ -22882,6 +22907,7 @@
 127.0.0.1 www.2fbanners.ero-advertising.com
 127.0.0.1 www.2fflatfee.ero-advertising.com
 127.0.0.1 www.2fspeedclicks.ero-advertising.com
+127.0.0.1 www.2ntl-verif.pro
 127.0.0.1 www.2show4tv.click
 127.0.0.1 www.2stadven2ure.xyz
 127.0.0.1 www.360.cn
@@ -23169,6 +23195,7 @@
 127.0.0.1 www.adwpaces.ero-advertising.com
 127.0.0.1 www.adx.adnxs.com
 127.0.0.1 www.ae888.mobi
+127.0.0.1 www.afftopads.com
 127.0.0.1 www.afs.ero-advertising.com
 127.0.0.1 www.agentwypadkowy.click
 127.0.0.1 www.agglomerationin.click
@@ -23387,6 +23414,7 @@
 127.0.0.1 www.bighorn-advisors.com
 127.0.0.1 www.binarslime.click
 127.0.0.1 www.bingads.microsoft.com
+127.0.0.1 www.bipenlir.click
 127.0.0.1 www.bit-360-ai.com
 127.0.0.1 www.bitcoin-360-ai.com
 127.0.0.1 www.bitcoin-360-ai.org
@@ -23479,6 +23507,7 @@
 127.0.0.1 www.budowadrogi.click
 127.0.0.1 www.budowazycia.click
 127.0.0.1 www.bulletads.com
+127.0.0.1 www.bulletinquantumflow.click
 127.0.0.1 www.business-accounts-supports-pages-ads-development.vercel.app
 127.0.0.1 www.business-verify.pro
 127.0.0.1 www.businessandtrading.pro
@@ -23644,6 +23673,7 @@
 127.0.0.1 www.complimentaryesspathiphyllum.pro
 127.0.0.1 www.compoqkraj.click
 127.0.0.1 www.confirmation-info-ad-account-a4.netlify.app
+127.0.0.1 www.connect-hub2fa.pro
 127.0.0.1 www.connect.api.almirall.com
 127.0.0.1 www.constel-analytics.com
 127.0.0.1 www.consumer-focus.com
@@ -24097,6 +24127,7 @@
 127.0.0.1 www.facebook-ads.pl
 127.0.0.1 www.facebook-site-upgrade.webflow.io
 127.0.0.1 www.facebook-update-site.webflow.io
+127.0.0.1 www.faceit.starsbyte.pro
 127.0.0.1 www.facesue8.pro
 127.0.0.1 www.fact.mestopoland.pro
 127.0.0.1 www.fadf3198819bf55dd24cb8d88641477b.dioprl.pl
@@ -25005,6 +25036,7 @@
 127.0.0.1 www.metodapoufna.click
 127.0.0.1 www.mexico-invest.pro
 127.0.0.1 www.mgaig.asdads.texoengineeringworks.com
+127.0.0.1 www.mi-ide.com
 127.0.0.1 www.mi-kawaii.com
 127.0.0.1 www.mi-olx.pl
 127.0.0.1 www.mi.comproges.xyz
@@ -25052,7 +25084,6 @@
 127.0.0.1 www.mipoqua4.pro
 127.0.0.1 www.miradoks-investing.pro
 127.0.0.1 www.mirthdab.click
-127.0.0.1 www.mltsui-check.com
 127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 www.mnetads.com
 127.0.0.1 www.mniejszoscspoleczna.click
@@ -25291,6 +25322,7 @@
 127.0.0.1 www.nowuxue5.pro
 127.0.0.1 www.nstla.asdads.texoengineeringworks.com
 127.0.0.1 www.ntidn.click
+127.0.0.1 www.ntlhub-verif.pro
 127.0.0.1 www.nubatou6.pro
 127.0.0.1 www.nudopie7.pro
 127.0.0.1 www.numermiastowy.click
@@ -26043,6 +26075,7 @@
 127.0.0.1 www.redirect.ero-advertising.com
 127.0.0.1 www.referatowe.click
 127.0.0.1 www.reformafaktow.click
+127.0.0.1 www.refundhelpdesk.dns.navy
 127.0.0.1 www.regionypolski.click
 127.0.0.1 www.registrarads.com
 127.0.0.1 www.regulazyciowa.click
@@ -26060,6 +26093,7 @@
 127.0.0.1 www.relativeinfo.pro
 127.0.0.1 www.reliableguide.click
 127.0.0.1 www.reliableresource.click
+127.0.0.1 www.reminder-ads-violation.netlify.app
 127.0.0.1 www.remonstrateincarcerateremainderar.pro
 127.0.0.1 www.remonstratequarterbackremaindered.pro
 127.0.0.1 www.renatobritoadvogados.com
@@ -26789,6 +26823,7 @@
 127.0.0.1 www.tywuxoe3.pro
 127.0.0.1 www.uc-o9b.cfd
 127.0.0.1 www.uc-ys3.lat
+127.0.0.1 www.uc.osik.skin
 127.0.0.1 www.uchwyconechwile.click
 127.0.0.1 www.ucieczkakierowcy.click
 127.0.0.1 www.ucieczkakierowcy24.click
@@ -27407,7 +27442,6 @@
 127.0.0.1 wwwads.seoul.co.kr
 127.0.0.1 wwwctt-pt.mobi
 127.0.0.1 wwww.adleads.com
-127.0.0.1 wx.ax
 127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 wx.shunliandongli.com
 127.0.0.1 wx.sifakaoshi360.com
