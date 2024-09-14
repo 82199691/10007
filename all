@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-13 22:16:28 
+#更新时间: 2024-09-14 09:19:11 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28030
+#规则数量:28039
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -197,6 +197,7 @@
 127.0.0.1 26f1a1401357f35558014f94750ad940.maxgro.pl
 127.0.0.1 26gtest.bj2cu.u3.ucweb.com
 127.0.0.1 2709tumobiopesogyy0.pro
+127.0.0.1 27b80bad17698e51cce9c5b4a92a802c.presuyw.pl
 127.0.0.1 27b877b4feb94b10fd443cd59a952ad3.watchdene.pl
 127.0.0.1 27gtest.bj2cu.u3.ucweb.com
 127.0.0.1 28gtest.bj2cu.u3.ucweb.com
@@ -11447,6 +11448,7 @@
 127.0.0.1 find.my-xiaomi.live
 127.0.0.1 findiphone.mobi
 127.0.0.1 findlak-investing.pro
+127.0.0.1 findmydevices.click
 127.0.0.1 fine-wealth.pro
 127.0.0.1 fintechaiinnovator.pro
 127.0.0.1 fintechrevolution.pro
@@ -14301,6 +14303,7 @@
 127.0.0.1 mania-zakupow.click
 127.0.0.1 manifest-server.naiadsystems.com
 127.0.0.1 manipulacjafaktami.click
+127.0.0.1 mansionelectronelectron.pro
 127.0.0.1 mantis.autoads.asia
 127.0.0.1 mapkatechniczna.click
 127.0.0.1 mapleglimpse.click
@@ -17123,6 +17126,7 @@
 127.0.0.1 profiklews.click
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.reqquest.click
+127.0.0.1 profile.structture.click
 127.0.0.1 profimax.pro
 127.0.0.1 profit-partner.ru
 127.0.0.1 profitmax-pl.click
@@ -22902,6 +22906,7 @@
 127.0.0.1 www.2345.com
 127.0.0.1 www.24-news.pro
 127.0.0.1 www.2661077480949d8d0e48af1ad6801366.dirks.pl
+127.0.0.1 www.27b80bad17698e51cce9c5b4a92a802c.presuyw.pl
 127.0.0.1 www.2baners.ero-advertising.com
 127.0.0.1 www.2ds.ero-advertising.com
 127.0.0.1 www.2fbanners.ero-advertising.com
@@ -24163,7 +24168,6 @@
 127.0.0.1 www.featheredendoplasm.pro
 127.0.0.1 www.fehajuy5.pro
 127.0.0.1 www.felisinvest.pro
-127.0.0.1 www.fenix-funds.pro
 127.0.0.1 www.fenomeninformacyjny.click
 127.0.0.1 www.fetchingball.click
 127.0.0.1 www.feyads.com
@@ -24178,6 +24182,7 @@
 127.0.0.1 www.financialaifuturist.pro
 127.0.0.1 www.find.my-xiaomi.live
 127.0.0.1 www.findlak-investing.pro
+127.0.0.1 www.findmydevices.click
 127.0.0.1 www.fintechaiinnovator.pro
 127.0.0.1 www.fintechrevolution.pro
 127.0.0.1 www.fireads.online
@@ -24973,6 +24978,7 @@
 127.0.0.1 www.manfonk-invest.pro
 127.0.0.1 www.mania-zakupow.click
 127.0.0.1 www.manipulacjafaktami.click
+127.0.0.1 www.mansionelectronelectron.pro
 127.0.0.1 www.mapkatechniczna.click
 127.0.0.1 www.mapleglimpse.click
 127.0.0.1 www.maplevision.click
@@ -25892,6 +25898,7 @@
 127.0.0.1 www.professionalthoroughfare.click
 127.0.0.1 www.profiklews.click
 127.0.0.1 www.profile.reqquest.click
+127.0.0.1 www.profile.structture.click
 127.0.0.1 www.progizwalniajace.click
 127.0.0.1 www.program-info.pro
 127.0.0.1 www.programbookbackwardlifees.pro
@@ -27221,6 +27228,7 @@
 127.0.0.1 www.xebecrounds.click
 127.0.0.1 www.xeromlike.pro
 127.0.0.1 www.xetrep.click
+127.0.0.1 www.xg.xbtk.lat
 127.0.0.1 www.xihipua8.pro
 127.0.0.1 www.xipubeu6.pro
 127.0.0.1 www.xiqacoe6.pro
@@ -27543,6 +27551,7 @@
 127.0.0.1 xg.kxapctq.cn
 127.0.0.1 xg.wdswgjn.cn
 127.0.0.1 xg.whsbpw.cn
+127.0.0.1 xg.xbtk.lat
 127.0.0.1 xgagqe.pottex-check.top
 127.0.0.1 xiad555.lisanse.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
