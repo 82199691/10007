@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-14 13:21:31
+! Last modified: 2024-09-14 22:15:10
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-14 13:21:31 ^
+!更新时间: 2024-09-14 22:15:10 ^
 
-!规则数量:28007^
+!规则数量:27988^
 !#################^
 
 ||0.r.msn.com^
@@ -10608,7 +10608,6 @@
 ||downloadsnaravers.com^
 ||downloadsoundcloud.net^
 ||downloadspan.com^
-||downloadsparrow.com^
 ||downloadssss.standard.us-east-1.oortech.com^
 ||dowodowetajniki.click^
 ||dowodowezagadki.click^
@@ -11397,7 +11396,6 @@
 ||feline-angle.pro^
 ||felisinvest.pro^
 ||female-yard.pro^
-||fenix-funds.pro^
 ||fenomeninformacyjny.click^
 ||fert.ofishlprog1.click^
 ||fetchingball.click^
@@ -11913,7 +11911,6 @@
 ||glisteningproject.pro^
 ||glitteringstress.pro^
 ||glixu.click^
-||glob-markets.pro^
 ||global.adserver.yahoo.com^
 ||global.msads.net^
 ||globaladsales.com^
@@ -12109,7 +12106,6 @@
 ||green-ads.net^
 ||greenads.org^
 ||greenadventura.sbs^
-||greenfieldinvestment.pro^
 ||gremped.click^
 ||grez.fallz.click^
 ||grh-analytics.com^
@@ -12401,7 +12397,6 @@
 ||homesimprovement.click^
 ||hometownforeheadbookmarkes.pro^
 ||hondaturkey.api.useinsider.com^
-||honestcapital.pro^
 ||honeycomb.wps.cn^
 ||hoofedpapered.pro^
 ||hoofesprevalenceed.pro^
@@ -13086,7 +13081,6 @@
 ||investman.click^
 ||investmindai.pro^
 ||investorfortwo.pro^
-||investpoint.pro^
 ||investvoyage.pro^
 ||invideo.ero-advertising.com^
 ||inviziads.com^
@@ -15829,7 +15823,6 @@
 ||onrt.stsdk.vivo.com.cn^
 ||onrt.stsdk.vivoglobal.com^
 ||onsiterecs.api.boomtrain.com^
-||onyxprofit.pro^
 ||oooh.pro^
 ||ooopii.tentaklsistem.click^
 ||opads.ero-advertising.com^
@@ -17157,7 +17150,6 @@
 ||promo.partner.alawar.ru^
 ||promo.propellerads.com^
 ||promocjawyboru.click^
-||promocyjnezakupy.click^
 ||promoheads.com^
 ||promote.biz.weibo.cn^
 ||promotionalads.yahoo.co.jp^
@@ -20784,7 +20776,6 @@
 ||tiruxya4.pro^
 ||tiscaliadv01.webtrekk.net^
 ||tisoguaewyo.pro^
-||titan-man.pro^
 ||titanads1.com^
 ||titanads2.com^
 ||titanads3.com^
@@ -23082,7 +23073,6 @@
 ||www.adsinimages.com^
 ||www.adskank.com^
 ||www.adskeeper.co.uk^
-||www.adslanding.com^
 ||www.adsmogo.com^
 ||www.adsmogo.net^
 ||www.adsnet.se^
@@ -24306,7 +24296,6 @@
 ||www.glacialarmor.click^
 ||www.glamgossiphub.pro^
 ||www.glixu.click^
-||www.glob-markets.pro^
 ||www.globalinformacje.click^
 ||www.globalnepoglady.click^
 ||www.globedore.click^
@@ -24377,7 +24366,6 @@
 ||www.gratkadlabystrzaka.click^
 ||www.green-lake.click^
 ||www.greenadventura.sbs^
-||www.greenfieldinvestment.pro^
 ||www.gremped.click^
 ||www.grh-analytics.com^
 ||www.gromadzimyfakty.click^
@@ -24450,7 +24438,6 @@
 ||www.holaenergy.click^
 ||www.homesimprovement.click^
 ||www.hometownforeheadbookmarkes.pro^
-||www.honestcapital.pro^
 ||www.hoofedpapered.pro^
 ||www.hoofesprevalenceed.pro^
 ||www.hoofingpaperes.pro^
@@ -24648,7 +24635,6 @@
 ||www.investman.click^
 ||www.investmindai.pro^
 ||www.investorfortwo.pro^
-||www.investpoint.pro^
 ||www.investvoyage.pro^
 ||www.ioads.ero-advertising.com^
 ||www.iomsdk.pl^
@@ -25035,7 +25021,6 @@
 ||www.meta-ads.aag.co.id^
 ||www.meta.help-center25.click^
 ||www.metalmonoliths.click^
-||www.metarseweb.pro^
 ||www.metodapoufna.click^
 ||www.mexico-invest.pro^
 ||www.mgaig.asdads.texoengineeringworks.com^
@@ -25446,7 +25431,6 @@
 ||www.onlinedownloads.org^
 ||www.onmatotajot.click^
 ||www.onneradventure.live^
-||www.onyxprofit.pro^
 ||www.opads.ero-advertising.com^
 ||www.opanujemocje.click^
 ||www.open-case-support-for-business-appeal-id-106.vercel.app^
@@ -25908,7 +25892,6 @@
 ||www.proklamacyjnosc.click^
 ||www.promileukierowcy.click^
 ||www.promocjawyboru.click^
-||www.promocyjnezakupy.click^
 ||www.promptbase.click^
 ||www.propagandainfo.click^
 ||www.proporcjonalny.click^
@@ -26603,7 +26586,6 @@
 ||www.talkingdata.com^
 ||www.tamilmoviedownloads.com^
 ||www.tauronhub.pro^
-||www.taymade1991.com^
 ||www.tbsolarleads.com^
 ||www.tcm.optica.ero-advertising.com^
 ||www.teaching-condo-webs.click^
@@ -26674,7 +26656,6 @@
 ||www.tiqefii2.pro^
 ||www.tiruxya4.pro^
 ||www.tisoguaewyo.pro^
-||www.titan-man.pro^
 ||www.tiumbs.ero-advertising.com^
 ||www.tiwubay5.pro^
 ||www.toingra.click^

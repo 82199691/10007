@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-14 13:21:31 
+#更新时间: 2024-09-14 22:15:10 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28007
+#规则数量:27988
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -10611,7 +10611,6 @@
 127.0.0.1 downloadsnaravers.com
 127.0.0.1 downloadsoundcloud.net
 127.0.0.1 downloadspan.com
-127.0.0.1 downloadsparrow.com
 127.0.0.1 downloadssss.standard.us-east-1.oortech.com
 127.0.0.1 dowodowetajniki.click
 127.0.0.1 dowodowezagadki.click
@@ -11400,7 +11399,6 @@
 127.0.0.1 feline-angle.pro
 127.0.0.1 felisinvest.pro
 127.0.0.1 female-yard.pro
-127.0.0.1 fenix-funds.pro
 127.0.0.1 fenomeninformacyjny.click
 127.0.0.1 fert.ofishlprog1.click
 127.0.0.1 fetchingball.click
@@ -11916,7 +11914,6 @@
 127.0.0.1 glisteningproject.pro
 127.0.0.1 glitteringstress.pro
 127.0.0.1 glixu.click
-127.0.0.1 glob-markets.pro
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.msads.net
 127.0.0.1 globaladsales.com
@@ -12112,7 +12109,6 @@
 127.0.0.1 green-ads.net
 127.0.0.1 greenads.org
 127.0.0.1 greenadventura.sbs
-127.0.0.1 greenfieldinvestment.pro
 127.0.0.1 gremped.click
 127.0.0.1 grez.fallz.click
 127.0.0.1 grh-analytics.com
@@ -12404,7 +12400,6 @@
 127.0.0.1 homesimprovement.click
 127.0.0.1 hometownforeheadbookmarkes.pro
 127.0.0.1 hondaturkey.api.useinsider.com
-127.0.0.1 honestcapital.pro
 127.0.0.1 honeycomb.wps.cn
 127.0.0.1 hoofedpapered.pro
 127.0.0.1 hoofesprevalenceed.pro
@@ -13089,7 +13084,6 @@
 127.0.0.1 investman.click
 127.0.0.1 investmindai.pro
 127.0.0.1 investorfortwo.pro
-127.0.0.1 investpoint.pro
 127.0.0.1 investvoyage.pro
 127.0.0.1 invideo.ero-advertising.com
 127.0.0.1 inviziads.com
@@ -15832,7 +15826,6 @@
 127.0.0.1 onrt.stsdk.vivo.com.cn
 127.0.0.1 onrt.stsdk.vivoglobal.com
 127.0.0.1 onsiterecs.api.boomtrain.com
-127.0.0.1 onyxprofit.pro
 127.0.0.1 oooh.pro
 127.0.0.1 ooopii.tentaklsistem.click
 127.0.0.1 opads.ero-advertising.com
@@ -17160,7 +17153,6 @@
 127.0.0.1 promo.partner.alawar.ru
 127.0.0.1 promo.propellerads.com
 127.0.0.1 promocjawyboru.click
-127.0.0.1 promocyjnezakupy.click
 127.0.0.1 promoheads.com
 127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 promotionalads.yahoo.co.jp
@@ -20787,7 +20779,6 @@
 127.0.0.1 tiruxya4.pro
 127.0.0.1 tiscaliadv01.webtrekk.net
 127.0.0.1 tisoguaewyo.pro
-127.0.0.1 titan-man.pro
 127.0.0.1 titanads1.com
 127.0.0.1 titanads2.com
 127.0.0.1 titanads3.com
@@ -23085,7 +23076,6 @@
 127.0.0.1 www.adsinimages.com
 127.0.0.1 www.adskank.com
 127.0.0.1 www.adskeeper.co.uk
-127.0.0.1 www.adslanding.com
 127.0.0.1 www.adsmogo.com
 127.0.0.1 www.adsmogo.net
 127.0.0.1 www.adsnet.se
@@ -24309,7 +24299,6 @@
 127.0.0.1 www.glacialarmor.click
 127.0.0.1 www.glamgossiphub.pro
 127.0.0.1 www.glixu.click
-127.0.0.1 www.glob-markets.pro
 127.0.0.1 www.globalinformacje.click
 127.0.0.1 www.globalnepoglady.click
 127.0.0.1 www.globedore.click
@@ -24380,7 +24369,6 @@
 127.0.0.1 www.gratkadlabystrzaka.click
 127.0.0.1 www.green-lake.click
 127.0.0.1 www.greenadventura.sbs
-127.0.0.1 www.greenfieldinvestment.pro
 127.0.0.1 www.gremped.click
 127.0.0.1 www.grh-analytics.com
 127.0.0.1 www.gromadzimyfakty.click
@@ -24453,7 +24441,6 @@
 127.0.0.1 www.holaenergy.click
 127.0.0.1 www.homesimprovement.click
 127.0.0.1 www.hometownforeheadbookmarkes.pro
-127.0.0.1 www.honestcapital.pro
 127.0.0.1 www.hoofedpapered.pro
 127.0.0.1 www.hoofesprevalenceed.pro
 127.0.0.1 www.hoofingpaperes.pro
@@ -24651,7 +24638,6 @@
 127.0.0.1 www.investman.click
 127.0.0.1 www.investmindai.pro
 127.0.0.1 www.investorfortwo.pro
-127.0.0.1 www.investpoint.pro
 127.0.0.1 www.investvoyage.pro
 127.0.0.1 www.ioads.ero-advertising.com
 127.0.0.1 www.iomsdk.pl
@@ -25038,7 +25024,6 @@
 127.0.0.1 www.meta-ads.aag.co.id
 127.0.0.1 www.meta.help-center25.click
 127.0.0.1 www.metalmonoliths.click
-127.0.0.1 www.metarseweb.pro
 127.0.0.1 www.metodapoufna.click
 127.0.0.1 www.mexico-invest.pro
 127.0.0.1 www.mgaig.asdads.texoengineeringworks.com
@@ -25449,7 +25434,6 @@
 127.0.0.1 www.onlinedownloads.org
 127.0.0.1 www.onmatotajot.click
 127.0.0.1 www.onneradventure.live
-127.0.0.1 www.onyxprofit.pro
 127.0.0.1 www.opads.ero-advertising.com
 127.0.0.1 www.opanujemocje.click
 127.0.0.1 www.open-case-support-for-business-appeal-id-106.vercel.app
@@ -25911,7 +25895,6 @@
 127.0.0.1 www.proklamacyjnosc.click
 127.0.0.1 www.promileukierowcy.click
 127.0.0.1 www.promocjawyboru.click
-127.0.0.1 www.promocyjnezakupy.click
 127.0.0.1 www.promptbase.click
 127.0.0.1 www.propagandainfo.click
 127.0.0.1 www.proporcjonalny.click
@@ -26606,7 +26589,6 @@
 127.0.0.1 www.talkingdata.com
 127.0.0.1 www.tamilmoviedownloads.com
 127.0.0.1 www.tauronhub.pro
-127.0.0.1 www.taymade1991.com
 127.0.0.1 www.tbsolarleads.com
 127.0.0.1 www.tcm.optica.ero-advertising.com
 127.0.0.1 www.teaching-condo-webs.click
@@ -26677,7 +26659,6 @@
 127.0.0.1 www.tiqefii2.pro
 127.0.0.1 www.tiruxya4.pro
 127.0.0.1 www.tisoguaewyo.pro
-127.0.0.1 www.titan-man.pro
 127.0.0.1 www.tiumbs.ero-advertising.com
 127.0.0.1 www.tiwubay5.pro
 127.0.0.1 www.toingra.click
