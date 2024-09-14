@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-14 10:02:08
+! Last modified: 2024-09-14 13:21:31
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-14 10:02:08 ^
+!更新时间: 2024-09-14 13:21:31 ^
 
-!规则数量:28005^
+!规则数量:28007^
 !#################^
 
 ||0.r.msn.com^
@@ -4552,6 +4552,7 @@
 ||adsharenetwork.com^
 ||adshares.net^
 ||adsheads.go2affise.com^
+||adshere.online^
 ||adshiftmedia.com^
 ||adshim.com^
 ||adshimmer.store^
@@ -4722,7 +4723,6 @@
 ||adsrevenue.net^
 ||adsrich.qq.com^
 ||adsring.com^
-||adsroducts.com^
 ||adsroller.com^
 ||adsroute.com^
 ||adsrv-up.mcrony.com^
@@ -5646,7 +5646,6 @@
 ||amads.xyz^
 ||amazinelistrun.pro^
 ||amazon-adsystem.com^
-||amazonprimevideo.pro^
 ||ambitnykanal.click^
 ||ambrkx.click^
 ||amc.yandex.ru^
@@ -8406,6 +8405,7 @@
 ||bonustw.pro^
 ||bonyspecialist.pro^
 ||bonzai.ad^
+||booking.com-admin-partner.one^
 ||booking.com-extran-group.click^
 ||booking.com-id45294.pro^
 ||bookmakers.click^
@@ -10702,6 +10702,7 @@
 ||dsa.moatads.com^
 ||dsad234.fun^
 ||dsads123a.is-best.net^
+||dsads55.fun^
 ||dsdssdsddsdklsdklfdjklsdfljkfdsljksdfljk.blog-cmesp.site^
 ||dsfdssdfsdf.pages.pro.br^
 ||dshe.balzz.click^
@@ -17583,6 +17584,7 @@
 ||pub-7f6bbc19606c42748c89217fad1aad78.r2.dev^
 ||pub-805ea6ada41544489afb3c3bc0531236.r2.dev^
 ||pub-8085f0eb1d86410b82a93ad6867aa0d6.r2.dev^
+||pub-8096fad52b1245db89c562ae1a44e8c3.r2.dev^
 ||pub-82055e80a0ad4851af69c30204b263ca.r2.dev^
 ||pub-82eef713c9424eb38ca703b943fadf0c.r2.dev^
 ||pub-83220b8420fa427cadd86a705609c6ae.r2.dev^
@@ -17766,7 +17768,6 @@
 ||pub-c19203e504ad4de5b4c19542017e845d.r2.dev^
 ||pub-c1bcc0c6146148ceb99d51a78ad5513b.r2.dev^
 ||pub-c1d8e548943d4277863ad3db81bd170e.r2.dev^
-||pub-c1d99d2b27ac496986ad6bf70538fa31.r2.dev^
 ||pub-c285c67e118d45b89711c5adf9f37ef2.r2.dev^
 ||pub-c2a53e31bae249dd9bedc2845ead1f0e.r2.dev^
 ||pub-c364d24fabc24f2f9a9bb5ce3293dad5.r2.dev^
@@ -18595,6 +18596,7 @@
 ||rumorvoice.click^
 ||runads.com^
 ||rundawstepna.click^
+||runnionpox.click^
 ||runnyestablishment.pro^
 ||runoj.click^
 ||rural-report.pro^
@@ -19164,7 +19166,6 @@
 ||secureleadsforever.com^
 ||secureleadsrn.com^
 ||securepubads.g.doubleclick.net^
-||securevi.pro^
 ||security-hl.snssdk.com^
 ||security-lq.snssdk.com^
 ||security-update.ddns.info^
@@ -22480,7 +22481,6 @@
 ||web3-api.ru^
 ||web3-api.su^
 ||web3ads.net^
-||web3protocols.pro^
 ||webads.bizservers.com^
 ||webads.co.nz^
 ||webads.eu^
@@ -22872,6 +22872,7 @@
 ||wwa.lanzouz.com^
 ||wwads.cn^
 ||wwbanners2.ero-advertising.com^
+||wwe.hbhjjbjh.dns-dynamic.net^
 ||wwe.lanzoud.com^
 ||wwe.lanzous.com^
 ||wwe.lanzouz.com^
@@ -22883,7 +22884,6 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www-google.nl^
-||www-laposote-frm.click^
 ||www.0ad4a42868fc920e69787853d2a02df3.dirks.pl^
 ||www.0d923a4a4d84dd9c11fad19b02cc62ad.vistvx.pl^
 ||www.0latfee.ero-advertising.com^
@@ -27666,6 +27666,7 @@
 ||yamada2-dev.nend.net^
 ||yandex-dmp-sync.rutarget.ru^
 ||yandex-sync.rutarget.ru^
+||yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru^
 ||yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru^
 ||yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru^
@@ -27746,6 +27747,7 @@
 ||yww4.pro^
 ||yx-ads6.com^
 ||yx.wucheshu.top^
+||yyceztc8.click^
 ||yzzp6uymvil4.l.adsco.re^
 ||z-eu.amazon-adsystem.com^
 ||z-na.amazon-adsystem.com^

@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-14 10:02:08 
+#更新时间: 2024-09-14 13:21:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28005
+#规则数量:28007
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -4555,6 +4555,7 @@
 127.0.0.1 adsharenetwork.com
 127.0.0.1 adshares.net
 127.0.0.1 adsheads.go2affise.com
+127.0.0.1 adshere.online
 127.0.0.1 adshiftmedia.com
 127.0.0.1 adshim.com
 127.0.0.1 adshimmer.store
@@ -4725,7 +4726,6 @@
 127.0.0.1 adsrevenue.net
 127.0.0.1 adsrich.qq.com
 127.0.0.1 adsring.com
-127.0.0.1 adsroducts.com
 127.0.0.1 adsroller.com
 127.0.0.1 adsroute.com
 127.0.0.1 adsrv-up.mcrony.com
@@ -5649,7 +5649,6 @@
 127.0.0.1 amads.xyz
 127.0.0.1 amazinelistrun.pro
 127.0.0.1 amazon-adsystem.com
-127.0.0.1 amazonprimevideo.pro
 127.0.0.1 ambitnykanal.click
 127.0.0.1 ambrkx.click
 127.0.0.1 amc.yandex.ru
@@ -8409,6 +8408,7 @@
 127.0.0.1 bonustw.pro
 127.0.0.1 bonyspecialist.pro
 127.0.0.1 bonzai.ad
+127.0.0.1 booking.com-admin-partner.one
 127.0.0.1 booking.com-extran-group.click
 127.0.0.1 booking.com-id45294.pro
 127.0.0.1 bookmakers.click
@@ -10705,6 +10705,7 @@
 127.0.0.1 dsa.moatads.com
 127.0.0.1 dsad234.fun
 127.0.0.1 dsads123a.is-best.net
+127.0.0.1 dsads55.fun
 127.0.0.1 dsdssdsddsdklsdklfdjklsdfljkfdsljksdfljk.blog-cmesp.site
 127.0.0.1 dsfdssdfsdf.pages.pro.br
 127.0.0.1 dshe.balzz.click
@@ -17586,6 +17587,7 @@
 127.0.0.1 pub-7f6bbc19606c42748c89217fad1aad78.r2.dev
 127.0.0.1 pub-805ea6ada41544489afb3c3bc0531236.r2.dev
 127.0.0.1 pub-8085f0eb1d86410b82a93ad6867aa0d6.r2.dev
+127.0.0.1 pub-8096fad52b1245db89c562ae1a44e8c3.r2.dev
 127.0.0.1 pub-82055e80a0ad4851af69c30204b263ca.r2.dev
 127.0.0.1 pub-82eef713c9424eb38ca703b943fadf0c.r2.dev
 127.0.0.1 pub-83220b8420fa427cadd86a705609c6ae.r2.dev
@@ -17769,7 +17771,6 @@
 127.0.0.1 pub-c19203e504ad4de5b4c19542017e845d.r2.dev
 127.0.0.1 pub-c1bcc0c6146148ceb99d51a78ad5513b.r2.dev
 127.0.0.1 pub-c1d8e548943d4277863ad3db81bd170e.r2.dev
-127.0.0.1 pub-c1d99d2b27ac496986ad6bf70538fa31.r2.dev
 127.0.0.1 pub-c285c67e118d45b89711c5adf9f37ef2.r2.dev
 127.0.0.1 pub-c2a53e31bae249dd9bedc2845ead1f0e.r2.dev
 127.0.0.1 pub-c364d24fabc24f2f9a9bb5ce3293dad5.r2.dev
@@ -18598,6 +18599,7 @@
 127.0.0.1 rumorvoice.click
 127.0.0.1 runads.com
 127.0.0.1 rundawstepna.click
+127.0.0.1 runnionpox.click
 127.0.0.1 runnyestablishment.pro
 127.0.0.1 runoj.click
 127.0.0.1 rural-report.pro
@@ -19167,7 +19169,6 @@
 127.0.0.1 secureleadsforever.com
 127.0.0.1 secureleadsrn.com
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 securevi.pro
 127.0.0.1 security-hl.snssdk.com
 127.0.0.1 security-lq.snssdk.com
 127.0.0.1 security-update.ddns.info
@@ -22483,7 +22484,6 @@
 127.0.0.1 web3-api.ru
 127.0.0.1 web3-api.su
 127.0.0.1 web3ads.net
-127.0.0.1 web3protocols.pro
 127.0.0.1 webads.bizservers.com
 127.0.0.1 webads.co.nz
 127.0.0.1 webads.eu
@@ -22875,6 +22875,7 @@
 127.0.0.1 wwa.lanzouz.com
 127.0.0.1 wwads.cn
 127.0.0.1 wwbanners2.ero-advertising.com
+127.0.0.1 wwe.hbhjjbjh.dns-dynamic.net
 127.0.0.1 wwe.lanzoud.com
 127.0.0.1 wwe.lanzous.com
 127.0.0.1 wwe.lanzouz.com
@@ -22886,7 +22887,6 @@
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-google.nl
-127.0.0.1 www-laposote-frm.click
 127.0.0.1 www.0ad4a42868fc920e69787853d2a02df3.dirks.pl
 127.0.0.1 www.0d923a4a4d84dd9c11fad19b02cc62ad.vistvx.pl
 127.0.0.1 www.0latfee.ero-advertising.com
@@ -27669,6 +27669,7 @@
 127.0.0.1 yamada2-dev.nend.net
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
+127.0.0.1 yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru
 127.0.0.1 yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
 127.0.0.1 yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru
@@ -27749,6 +27750,7 @@
 127.0.0.1 yww4.pro
 127.0.0.1 yx-ads6.com
 127.0.0.1 yx.wucheshu.top
+127.0.0.1 yyceztc8.click
 127.0.0.1 yzzp6uymvil4.l.adsco.re
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystem.com
