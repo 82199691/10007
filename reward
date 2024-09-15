@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-15 09:35:05 
+#更新时间: 2024-09-15 22:10:16 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:27988
+#规则数量:28005
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -702,6 +702,8 @@
 127.0.0.1 account.1192360.sitamet.click
 127.0.0.1 accountant.trade2022.quest
 127.0.0.1 accounts-google.no9.cc
+127.0.0.1 accounts-google.shop
+127.0.0.1 accounts-google.top
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 accounts.servicar.click
 127.0.0.1 accounts.winniing.click
@@ -4017,6 +4019,7 @@
 127.0.0.1 adsadminister.com
 127.0.0.1 adsafeprotected.com
 127.0.0.1 adsafety.net
+127.0.0.1 adsag.xyz
 127.0.0.1 adsagony.com
 127.0.0.1 adsales.snidigital.com
 127.0.0.1 adsame.com
@@ -5338,6 +5341,7 @@
 127.0.0.1 advisorservices.etradefinancial.com
 127.0.0.1 advisorservicesfpc.etradefinancial.com
 127.0.0.1 advisorstay.com
+127.0.0.1 advisorthrowbible.com
 127.0.0.1 advisory.stockss.top
 127.0.0.1 advisorybros.com
 127.0.0.1 advisorycloud-dev.actonservice.com
@@ -5995,6 +5999,7 @@
 127.0.0.1 analytics.evn.com.vn
 127.0.0.1 analytics.evo.co.uk
 127.0.0.1 analytics.ewz.ch
+127.0.0.1 analytics.explus.vn
 127.0.0.1 analytics.ext.go-tellm.com
 127.0.0.1 analytics.fabricators.ltd
 127.0.0.1 analytics.facebook.com
@@ -7208,6 +7213,7 @@
 127.0.0.1 api.i9bet38.com
 127.0.0.1 api.i9bet39.com
 127.0.0.1 api.ibeat-analytics.com
+127.0.0.1 api.identity.hrblocktaxfree.com
 127.0.0.1 api.idio.co
 127.0.0.1 api.iimedia.cn
 127.0.0.1 api.ijunhai.com
@@ -7584,6 +7590,7 @@
 127.0.0.1 app.chat.global.xiaomi.net.iberostar.com
 127.0.0.1 app.corp.tableausoftware.com
 127.0.0.1 app.flurry.com
+127.0.0.1 app.launchpadtool.pro
 127.0.0.1 app.leadsrx.com
 127.0.0.1 app.m1.adsolutions.yp.com
 127.0.0.1 app.marketing.pro.sony.eu
@@ -8560,6 +8567,7 @@
 127.0.0.1 business-verify.pro
 127.0.0.1 business.adsverifyrestrictions.com
 127.0.0.1 business.cleverads.vn
+127.0.0.1 business.verified-update-center.eu
 127.0.0.1 businessandtrading.pro
 127.0.0.1 bussinesispolicysupport.click
 127.0.0.1 bussiness-verify.mobi
@@ -8827,6 +8835,8 @@
 127.0.0.1 cd-ads.com
 127.0.0.1 cd.ladsp.com
 127.0.0.1 cd0ad404ef172f7ca74302f53756c4e1.dopla.com.pl
+127.0.0.1 cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
+127.0.0.1 cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 cdn-ad.wtzw.com
 127.0.0.1 cdn-adn-https-share.rayjump.com
@@ -9634,6 +9644,7 @@
 127.0.0.1 contextualadv.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 conventional-nurse.pro
+127.0.0.1 conventionalsecond.pro
 127.0.0.1 converads.com
 127.0.0.1 conversion.pro.cn
 127.0.0.1 conversions.adaptv.advertising.com
@@ -13330,6 +13341,7 @@
 127.0.0.1 jssdkcdn.mparticle.com
 127.0.0.1 jssdkcdns.mparticle.com
 127.0.0.1 jssdks.mparticle.com
+127.0.0.1 jtexpress-update.vip
 127.0.0.1 ju.taobao.com
 127.0.0.1 jubnaadserve.com
 127.0.0.1 judicious-lay.pro
@@ -16227,6 +16239,7 @@
 127.0.0.1 pamietajoszczesliwianiu.click
 127.0.0.1 pamietnikkolejarza.click
 127.0.0.1 panca.pector.click
+127.0.0.1 pancakesvap.finance-v4.pro
 127.0.0.1 pancakeswapp.pro
 127.0.0.1 panda.adsame.com
 127.0.0.1 pandora-konkurs.com.pl
@@ -16631,6 +16644,7 @@
 127.0.0.1 poarigkurihka.pro
 127.0.0.1 pobierzteraz.mobi
 127.0.0.1 pocerportidv.pro
+127.0.0.1 pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pociagekspresowy.click
 127.0.0.1 pocketads.pl
 127.0.0.1 poczatekdobra.click
@@ -17630,6 +17644,7 @@
 127.0.0.1 pub-94a7b8da1a6c48fcadb0ac5db316b0da.r2.dev
 127.0.0.1 pub-94d2d3adb1e4490c85da3c7cf9f819fb.r2.dev
 127.0.0.1 pub-95c5ead8d67f460ca228805103b5d21e.r2.dev
+127.0.0.1 pub-96a9b92a22ad474fab6d77f05f7664f9.r2.dev
 127.0.0.1 pub-96b99d18d22c4bc6ada5d843556e5b44.r2.dev
 127.0.0.1 pub-971975baadb1419fa5e976a2683fcec1.r2.dev
 127.0.0.1 pub-97a9cd9ad6ad4d14a85383cc9d883de2.r2.dev
@@ -17675,7 +17690,6 @@
 127.0.0.1 pub-a51158df71b44aec85ad495337e9ad8a.r2.dev
 127.0.0.1 pub-a54baeefcb734429ad86cb4e81a1d124.r2.dev
 127.0.0.1 pub-a585275162b94eeead6f34b59fc34175.r2.dev
-127.0.0.1 pub-a8d8a97477ea42b2964481458ada1a6c.r2.dev
 127.0.0.1 pub-a8e31add0a6b4aba869febaa01df3901.r2.dev
 127.0.0.1 pub-aaadb567b6be4640bbf2dd4d150827ab.r2.dev
 127.0.0.1 pub-aad2f18c142742418ce7836b1f9e4e3c.r2.dev
@@ -18918,6 +18932,7 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
+127.0.0.1 sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 sbjjzdwqg41ps.click
 127.0.0.1 sbrakepads.com
 127.0.0.1 sbs-ad.com
@@ -19866,9 +19881,7 @@
 127.0.0.1 spreadsheetsg.top
 127.0.0.1 spreadsheetsh.top
 127.0.0.1 spreadsheetsi.top
-127.0.0.1 spreadsheetsj.top
 127.0.0.1 spreadsheetsk.top
-127.0.0.1 spreadsheetsl.top
 127.0.0.1 spreadsheetsm.top
 127.0.0.1 spreadsheetso.top
 127.0.0.1 spreadsheetsq.top
@@ -20178,6 +20191,7 @@
 127.0.0.1 subdued-illegal.pro
 127.0.0.1 subprimal.click
 127.0.0.1 subsultfidgety.click
+127.0.0.1 subtle-give.pro
 127.0.0.1 subwayfranchiseeadvertising.sc.omtrdc.net
 127.0.0.1 successystem.click
 127.0.0.1 sudserspial.click
@@ -20431,7 +20445,6 @@
 127.0.0.1 t-pro.online-one.site
 127.0.0.1 t-pro.org
 127.0.0.1 t.360.audion.fm
-127.0.0.1 t.ac.pandora.com
 127.0.0.1 t.adk2.com
 127.0.0.1 t.ads.pof.com
 127.0.0.1 t.ads.sohu.com
@@ -21557,7 +21570,9 @@
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 upage.imtt.qq.com
+127.0.0.1 update-0c5z3oxr4jxq-information.line.pm
 127.0.0.1 update-1.com
+127.0.0.1 update-6ho8mvffk4j2-information.line.pm
 127.0.0.1 update-accounts-id.online
 127.0.0.1 update-accout.debetowa.live
 127.0.0.1 update-billingmembership-prime.work.gd
@@ -21674,6 +21689,8 @@
 127.0.0.1 us-east-ad-track.aralego.com
 127.0.0.1 us-events.api.iheart.com
 127.0.0.1 us-geo.cityads.com
+127.0.0.1 us-usps-adsfc.xyz
+127.0.0.1 us-usps-adsfg.xyz
 127.0.0.1 us-usps-mi.top
 127.0.0.1 us-usps-uc.top
 127.0.0.1 us-west-2.ecs.mb.moatads.com
@@ -22866,7 +22883,6 @@
 127.0.0.1 wwa.lanzouz.com
 127.0.0.1 wwads.cn
 127.0.0.1 wwbanners2.ero-advertising.com
-127.0.0.1 wwe.hbhjjbjh.dns-dynamic.net
 127.0.0.1 wwe.lanzoud.com
 127.0.0.1 wwe.lanzous.com
 127.0.0.1 wwe.lanzouz.com
@@ -27643,6 +27659,7 @@
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yads.yjtag.yahoo.co.jp
 127.0.0.1 yads.zedo.com
+127.0.0.1 yadsg.xyz
 127.0.0.1 yahunabaeria.click
 127.0.0.1 yalpish.pro
 127.0.0.1 yam.adsbro.com

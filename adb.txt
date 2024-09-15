@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-15 09:35:05
+! Last modified: 2024-09-15 22:10:16
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-15 09:35:05 ^
+!更新时间: 2024-09-15 22:10:16 ^
 
-!规则数量:27988^
+!规则数量:28005^
 !#################^
 
 ||0.r.msn.com^
@@ -699,6 +699,8 @@
 ||account.1192360.sitamet.click^
 ||accountant.trade2022.quest^
 ||accounts-google.no9.cc^
+||accounts-google.shop^
+||accounts-google.top^
 ||accounts.doubleclick.net^
 ||accounts.servicar.click^
 ||accounts.winniing.click^
@@ -4014,6 +4016,7 @@
 ||adsadminister.com^
 ||adsafeprotected.com^
 ||adsafety.net^
+||adsag.xyz^
 ||adsagony.com^
 ||adsales.snidigital.com^
 ||adsame.com^
@@ -5335,6 +5338,7 @@
 ||advisorservices.etradefinancial.com^
 ||advisorservicesfpc.etradefinancial.com^
 ||advisorstay.com^
+||advisorthrowbible.com^
 ||advisory.stockss.top^
 ||advisorybros.com^
 ||advisorycloud-dev.actonservice.com^
@@ -5992,6 +5996,7 @@
 ||analytics.evn.com.vn^
 ||analytics.evo.co.uk^
 ||analytics.ewz.ch^
+||analytics.explus.vn^
 ||analytics.ext.go-tellm.com^
 ||analytics.fabricators.ltd^
 ||analytics.facebook.com^
@@ -7205,6 +7210,7 @@
 ||api.i9bet38.com^
 ||api.i9bet39.com^
 ||api.ibeat-analytics.com^
+||api.identity.hrblocktaxfree.com^
 ||api.idio.co^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
@@ -7581,6 +7587,7 @@
 ||app.chat.global.xiaomi.net.iberostar.com^
 ||app.corp.tableausoftware.com^
 ||app.flurry.com^
+||app.launchpadtool.pro^
 ||app.leadsrx.com^
 ||app.m1.adsolutions.yp.com^
 ||app.marketing.pro.sony.eu^
@@ -8557,6 +8564,7 @@
 ||business-verify.pro^
 ||business.adsverifyrestrictions.com^
 ||business.cleverads.vn^
+||business.verified-update-center.eu^
 ||businessandtrading.pro^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
@@ -8824,6 +8832,8 @@
 ||cd-ads.com^
 ||cd.ladsp.com^
 ||cd0ad404ef172f7ca74302f53756c4e1.dopla.com.pl^
+||cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
+||cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||cdn-a.amazon-adsystem.com^
 ||cdn-ad.wtzw.com^
 ||cdn-adn-https-share.rayjump.com^
@@ -9631,6 +9641,7 @@
 ||contextualadv.com^
 ||conv.youdao.com^
 ||conventional-nurse.pro^
+||conventionalsecond.pro^
 ||converads.com^
 ||conversion.pro.cn^
 ||conversions.adaptv.advertising.com^
@@ -13327,6 +13338,7 @@
 ||jssdkcdn.mparticle.com^
 ||jssdkcdns.mparticle.com^
 ||jssdks.mparticle.com^
+||jtexpress-update.vip^
 ||ju.taobao.com^
 ||jubnaadserve.com^
 ||judicious-lay.pro^
@@ -16224,6 +16236,7 @@
 ||pamietajoszczesliwianiu.click^
 ||pamietnikkolejarza.click^
 ||panca.pector.click^
+||pancakesvap.finance-v4.pro^
 ||pancakeswapp.pro^
 ||panda.adsame.com^
 ||pandora-konkurs.com.pl^
@@ -16628,6 +16641,7 @@
 ||poarigkurihka.pro^
 ||pobierzteraz.mobi^
 ||pocerportidv.pro^
+||pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||pociagekspresowy.click^
 ||pocketads.pl^
 ||poczatekdobra.click^
@@ -17627,6 +17641,7 @@
 ||pub-94a7b8da1a6c48fcadb0ac5db316b0da.r2.dev^
 ||pub-94d2d3adb1e4490c85da3c7cf9f819fb.r2.dev^
 ||pub-95c5ead8d67f460ca228805103b5d21e.r2.dev^
+||pub-96a9b92a22ad474fab6d77f05f7664f9.r2.dev^
 ||pub-96b99d18d22c4bc6ada5d843556e5b44.r2.dev^
 ||pub-971975baadb1419fa5e976a2683fcec1.r2.dev^
 ||pub-97a9cd9ad6ad4d14a85383cc9d883de2.r2.dev^
@@ -17672,7 +17687,6 @@
 ||pub-a51158df71b44aec85ad495337e9ad8a.r2.dev^
 ||pub-a54baeefcb734429ad86cb4e81a1d124.r2.dev^
 ||pub-a585275162b94eeead6f34b59fc34175.r2.dev^
-||pub-a8d8a97477ea42b2964481458ada1a6c.r2.dev^
 ||pub-a8e31add0a6b4aba869febaa01df3901.r2.dev^
 ||pub-aaadb567b6be4640bbf2dd4d150827ab.r2.dev^
 ||pub-aad2f18c142742418ce7836b1f9e4e3c.r2.dev^
@@ -18915,6 +18929,7 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||sbem.tentaklsistem.click^
+||sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||sbjjzdwqg41ps.click^
 ||sbrakepads.com^
 ||sbs-ad.com^
@@ -19863,9 +19878,7 @@
 ||spreadsheetsg.top^
 ||spreadsheetsh.top^
 ||spreadsheetsi.top^
-||spreadsheetsj.top^
 ||spreadsheetsk.top^
-||spreadsheetsl.top^
 ||spreadsheetsm.top^
 ||spreadsheetso.top^
 ||spreadsheetsq.top^
@@ -20175,6 +20188,7 @@
 ||subdued-illegal.pro^
 ||subprimal.click^
 ||subsultfidgety.click^
+||subtle-give.pro^
 ||subwayfranchiseeadvertising.sc.omtrdc.net^
 ||successystem.click^
 ||sudserspial.click^
@@ -20428,7 +20442,6 @@
 ||t-pro.online-one.site^
 ||t-pro.org^
 ||t.360.audion.fm^
-||t.ac.pandora.com^
 ||t.adk2.com^
 ||t.ads.pof.com^
 ||t.ads.sohu.com^
@@ -21554,7 +21567,9 @@
 ||up1.tj.u2.ucweb.com^
 ||up4.ucweb.com^
 ||upage.imtt.qq.com^
+||update-0c5z3oxr4jxq-information.line.pm^
 ||update-1.com^
+||update-6ho8mvffk4j2-information.line.pm^
 ||update-accounts-id.online^
 ||update-accout.debetowa.live^
 ||update-billingmembership-prime.work.gd^
@@ -21671,6 +21686,8 @@
 ||us-east-ad-track.aralego.com^
 ||us-events.api.iheart.com^
 ||us-geo.cityads.com^
+||us-usps-adsfc.xyz^
+||us-usps-adsfg.xyz^
 ||us-usps-mi.top^
 ||us-usps-uc.top^
 ||us-west-2.ecs.mb.moatads.com^
@@ -22863,7 +22880,6 @@
 ||wwa.lanzouz.com^
 ||wwads.cn^
 ||wwbanners2.ero-advertising.com^
-||wwe.hbhjjbjh.dns-dynamic.net^
 ||wwe.lanzoud.com^
 ||wwe.lanzous.com^
 ||wwe.lanzouz.com^
@@ -27640,6 +27656,7 @@
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||yads.zedo.com^
+||yadsg.xyz^
 ||yahunabaeria.click^
 ||yalpish.pro^
 ||yam.adsbro.com^
