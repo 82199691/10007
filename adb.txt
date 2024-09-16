@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-16 10:38:08
+! Last modified: 2024-09-16 22:18:16
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-16 10:38:08 ^
+!更新时间: 2024-09-16 22:18:16 ^
 
-!规则数量:28005^
+!规则数量:28054^
 !#################^
 
 ||0.r.msn.com^
@@ -141,6 +141,8 @@
 ||1new.pro-activprofit.site^
 ||1nnomaxa.click^
 ||1nnovexa.click^
+||1o1frstlrkpnnndaa.click^
+||1o1frstlrkpnnndaaa.click^
 ||1phads.com^
 ||1pro.pro-masters.xyz^
 ||1tprog.activpl-pro.site^
@@ -698,6 +700,7 @@
 ||acclog002.shop-pro.jp^
 ||account.1192360.sitamet.click^
 ||accountant.trade2022.quest^
+||accounts-google-signin-identifier.immasterygiveaway.com^
 ||accounts-google.no9.cc^
 ||accounts-google.shop^
 ||accounts-google.top^
@@ -5513,8 +5516,15 @@
 ||agma-analytics.de^
 ||agn.aty.cp45.ott.cibntv.net^
 ||agonizing-price.pro^
+||agostocontigo.viaservicezone.click^
+||agostocontigo.viazonaservice.click^
+||agostocontigo.zonaservice.click^
+||agostoreactiva.viazonaservice.click^
+||agostoreactiva.zonasegura.click^
+||agostoreactiva.zonaseguraservicio.click^
 ||agostoreactiva.zonaviaservice.click^
 ||agostoreactiva.zonaviaweb.click^
+||agotoreactiva.solucionesonline.click^
 ||agreeable-target.pro^
 ||agreeableopinion.pro^
 ||agresywneczworonogi.click^
@@ -5590,6 +5600,7 @@
 ||aliexpress-summer.cityads.com^
 ||alimama.alicdn.com^
 ||alimama.com^
+||alinstante.plataformaenlinea-web.click^
 ||alisa.tentaklsistem.click^
 ||alitui.weibo.com^
 ||alivaninvest.pro^
@@ -5665,6 +5676,10 @@
 ||amonsul.douban.com^
 ||amp-252ceae8.adventuresofhotrodtodd.com^
 ||amp-project.pro^
+||ampliaciones.viazonasegura.click^
+||ampliacionesreactiva.solucionesonline.click^
+||ampliacionesreactiva.viaservicezone.click^
+||ampliacionreativaweb.click^
 ||amrytt.adk2x.com^
 ||ams1-ib.adnxs.com^
 ||ams1-mobile.adnxs.com^
@@ -7806,6 +7821,7 @@
 ||avgads.space^
 ||aviabotpl.pro^
 ||aviplgame.pro^
+||avito.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||avoadsservices.com^
 ||avowtech.mobileadstrk.com^
 ||avroad3431.fun^
@@ -8564,7 +8580,6 @@
 ||business-verify.pro^
 ||business.adsverifyrestrictions.com^
 ||business.cleverads.vn^
-||business.verified-update-center.eu^
 ||businessandtrading.pro^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
@@ -11034,6 +11049,7 @@
 ||email3.advisorycloud.com^
 ||email4.advisorycloud.com^
 ||email5.advisorycloud.com^
+||emailfilter-update.sitebeat.site^
 ||emails.advisor2advisor.com^
 ||emarketing.sina.com.cn^
 ||embolysaros.click^
@@ -11579,6 +11595,7 @@
 ||formdesigner.pro^
 ||forms.share.works^
 ||formula-bogactwa.click^
+||formulario.agostoyap.click^
 ||formularzopisu.click^
 ||forpci3.siege-corp.com^
 ||forpsi-cz-8d9adf0f095.silkbodylaserclinic.nl^
@@ -11932,6 +11949,7 @@
 ||globalnepoglady.click^
 ||globalnezrodlo.click^
 ||globalsellingads.com^
+||globalvoice.mobi^
 ||globalwebads.com^
 ||globedore.click^
 ||glod-invest.pro^
@@ -13741,6 +13759,7 @@
 ||leadboltads.net^
 ||leadc6.icu^
 ||leadgidads.ru^
+||leadingimproveballast.pro^
 ||leadingindication.pro^
 ||leadlab.click^
 ||leadmanagement.leads360.com^
@@ -14059,6 +14078,7 @@
 ||lowrihouston.pro^
 ||lox.open-sooursee.live^
 ||loxodo-analytics.ext.nile.works^
+||loynreroof.bipinates.click^
 ||lp.b2bmail.adobe.com^
 ||lp.demo1.demoamericas275.adobe.com^
 ||lp.demo10.demoamericas275.adobe.com^
@@ -14536,6 +14556,7 @@
 ||messaging.insurads.com^
 ||messenger-20-21-update.blogspot.com^
 ||meta-ads.aag.co.id^
+||meta-adsmanager.imsinar.com^
 ||meta-business-help.pagesupport.click^
 ||meta.help-center25.click^
 ||metabet.api.areyouwatchingthis.com^
@@ -14855,6 +14876,7 @@
 ||mon.zijieapi.com^
 ||monarchads.com^
 ||mondoads.s3.amazonaws.com^
+||monetixads.com^
 ||monetize-api.coronalabs.com^
 ||money4leads.biz^
 ||money88.mobi^
@@ -16237,6 +16259,7 @@
 ||pamietnikkolejarza.click^
 ||panca.pector.click^
 ||pancakesvap.finance-v4.pro^
+||pancakesvap.finance-v5.pro^
 ||pancakeswapp.pro^
 ||panda.adsame.com^
 ||pandora-konkurs.com.pl^
@@ -16355,7 +16378,10 @@
 ||pavte.gradspeeches.com^
 ||paxdola.click^
 ||pay-click.ru^
+||pay.cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
+||pay.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||pay.ofisls-pro.xyz^
+||pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||paypalssl.doubleclick.net^
 ||payperclickadvertising.org.uk^
 ||paypooli.click^
@@ -16642,6 +16668,7 @@
 ||pobierzteraz.mobi^
 ||pocerportidv.pro^
 ||pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
+||pochta.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||pociagekspresowy.click^
 ||pocketads.pl^
 ||poczatekdobra.click^
@@ -17038,6 +17065,7 @@
 ||pro.activeprov.xyz^
 ||pro.activpl-pro.site^
 ||pro.asmucol.com^
+||pro.atencioncpdigital.vip^
 ||pro.autotrdes.top^
 ||pro.baidu.com^
 ||pro.bizportal.co.il^
@@ -17242,6 +17270,7 @@
 ||psd-ad.top^
 ||psiftaugads.com^
 ||psozyhotho.pro^
+||pt.halhal.click^
 ||pt.trafficjunky.net^
 ||ptads.sv.publicus.com^
 ||ptadsrv.de^
@@ -17635,7 +17664,6 @@
 ||pub-91bf7c22be8645f78a1ada6f8cb7e2b4.r2.dev^
 ||pub-920afb70b2e441cd94492ad878133acb.r2.dev^
 ||pub-923ad3decbf54aa3a9d9ea8c7059b63d.r2.dev^
-||pub-930b2a563f95467189a8ade540574f8f.r2.dev^
 ||pub-9323aad9744b43db9b470f6ab7e07386.r2.dev^
 ||pub-945293ef7a9047adb26d2ddd47a2d837.r2.dev^
 ||pub-94a7b8da1a6c48fcadb0ac5db316b0da.r2.dev^
@@ -17744,6 +17772,7 @@
 ||pub-b72cd462909d46f0a9b08afad77e852f.r2.dev^
 ||pub-b7447980f3f74a11ad2c4982a8c5bd4d.r2.dev^
 ||pub-b7ad48ec29744198846769c5577516fe.r2.dev^
+||pub-b86bc6420769468ead93c7cb71a76a36.r2.dev^
 ||pub-b89497f43ad7453faa7ed378d54c7170.r2.dev^
 ||pub-b8adf7022beb4a90a980e900c471b626.r2.dev^
 ||pub-b8d557d502ff4b20ad52a88c112349ba.r2.dev^
@@ -18222,6 +18251,12 @@
 ||reactads.cdn.adglare.net^
 ||reactads.com^
 ||reactads.engine.adglare.net^
+||reactivaampliaciones.viazonasegura.click^
+||reactivasolicitudes.viaservicezone.click^
+||reactivasolicitudes.viazonasegura.click^
+||reactivasoluciones.viaservicezone.click^
+||reactivasoluciones.zonasegura.click^
+||reactivasoluciones.zonaseguraservicio.click^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
 ||readserv.com^
@@ -18298,6 +18333,7 @@
 ||regionypolski.click^
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
+||registroampliaciones.zonaseguraservicio.click^
 ||registry.api.cnn.io^
 ||registrycleaner.onlinedownloads.org^
 ||regulamin24poczta.click^
@@ -18929,6 +18965,7 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||sbem.tentaklsistem.click^
+||sberbank.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||sbjjzdwqg41ps.click^
 ||sbrakepads.com^
@@ -19214,6 +19251,8 @@
 ||seosoftware.onlinedownloads.org^
 ||separatepattern.pro^
 ||september.cityads.com^
+||septiembrecontigo.viazonaservice.click^
+||septiembrecontigo.zonasegura.click^
 ||serenadeescelestialing.pro^
 ||seripage-cad23.pages.net.br^
 ||serpentineillegal.pro^
@@ -19715,6 +19754,8 @@
 ||soliads.net^
 ||soliads.online^
 ||solicitaenlineapersonalonline.loger.click^
+||solicitudagosto.evaluandosite.click^
+||solicitudenlinea.agostoevalua.click^
 ||solidnewykonanie.click^
 ||soliloquizestandardiseis.pro^
 ||solsticesongbird.click^
@@ -19872,14 +19913,12 @@
 ||sprawyrozwiazanie.click^
 ||spreadsheetsa.top^
 ||spreadsheetsb.top^
-||spreadsheetsd.top^
 ||spreadsheetse.top^
 ||spreadsheetsf.top^
 ||spreadsheetsg.top^
 ||spreadsheetsh.top^
 ||spreadsheetsi.top^
 ||spreadsheetsk.top^
-||spreadsheetsm.top^
 ||spreadsheetso.top^
 ||spreadsheetsq.top^
 ||spreadsheetst.top^
@@ -20917,6 +20956,7 @@
 ||tpdads.com^
 ||tpmedia-reactads.com^
 ||tpsdkmw.pl^
+||tpwallet.pro^
 ||tq.adventurefeeds.com^
 ||tr-asia.adsmoloco.com^
 ||tr-eu.adsmoloco.com^
@@ -22347,6 +22387,7 @@
 ||vtyqy.admaster.com.cn^
 ||vu.adschoom.com^
 ||vubuii.pages.pro.br^
+||vudicuy3.pro^
 ||vupohaafinyp8.pro^
 ||vupufuufau.pro^
 ||vuvuvenareads.com^
@@ -24857,6 +24898,7 @@
 ||www.lawbacks.pro^
 ||www.layers.ero-advertising.com^
 ||www.lead-analytics-1000.com^
+||www.leadingimproveballast.pro^
 ||www.leads.goldenshovel.com^
 ||www.leadsgun.com^
 ||www.leadsoftwaredeveloper.com^
@@ -24935,6 +24977,7 @@
 ||www.loteria-7aut.pro^
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
+||www.loynreroof.bipinates.click^
 ||www.lp.trade360.com^
 ||www.lsepads.info^
 ||www.lucamister.click^
@@ -26961,6 +27004,7 @@
 ||www.volkin-invest.pro^
 ||www.vtekbusinessads.com^
 ||www.vubuii.pages.pro.br^
+||www.vudicuy3.pro^
 ||www.vupufuufau.pro^
 ||www.vwtd-shrt.click^
 ||www.vybroh.click^
@@ -27366,6 +27410,7 @@
 ||www.zgonnadrodze.click^
 ||www.zgonnapasach.click^
 ||www.zgrozadnia24.click^
+||www.zilygau1.pro^
 ||www.zinczenith.click^
 ||www.ziposya7.pro^
 ||www.zirkonvin.click^
@@ -27667,7 +27712,9 @@
 ||yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru^
 ||yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru^
+||yandex.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru^
+||yandex.youla.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandexadexchange.net^
 ||yangtarp.click^
 ||yanpsilomane.pro^
@@ -27712,6 +27759,7 @@
 ||youhave.mobi^
 ||youku-acs.m.taobao.com^
 ||youku-dtv.m.cn.miaozhen.com^
+||youla.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||youleadstudents.org^
 ||youngrul.pro^
 ||youngtrailblazer.click^
@@ -27914,6 +27962,7 @@
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.xmcimg.com^
 ||zhushou.2345.com^
+||zilygau1.pro^
 ||zimbra-email-update.phoenixsongsbio.net^
 ||zinczenith.click^
 ||zindelik-pro.tk^

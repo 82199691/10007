@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-16 10:38:03 
+#更新时间: 2024-09-16 22:18:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28039
+#规则数量:28088
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -144,6 +144,8 @@
 127.0.0.1 1new.pro-activprofit.site
 127.0.0.1 1nnomaxa.click
 127.0.0.1 1nnovexa.click
+127.0.0.1 1o1frstlrkpnnndaa.click
+127.0.0.1 1o1frstlrkpnnndaaa.click
 127.0.0.1 1phads.com
 127.0.0.1 1pro.pro-masters.xyz
 127.0.0.1 1tprog.activpl-pro.site
@@ -701,6 +703,7 @@
 127.0.0.1 acclog002.shop-pro.jp
 127.0.0.1 account.1192360.sitamet.click
 127.0.0.1 accountant.trade2022.quest
+127.0.0.1 accounts-google-signin-identifier.immasterygiveaway.com
 127.0.0.1 accounts-google.no9.cc
 127.0.0.1 accounts-google.shop
 127.0.0.1 accounts-google.top
@@ -5516,8 +5519,15 @@
 127.0.0.1 agma-analytics.de
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 agonizing-price.pro
+127.0.0.1 agostocontigo.viaservicezone.click
+127.0.0.1 agostocontigo.viazonaservice.click
+127.0.0.1 agostocontigo.zonaservice.click
+127.0.0.1 agostoreactiva.viazonaservice.click
+127.0.0.1 agostoreactiva.zonasegura.click
+127.0.0.1 agostoreactiva.zonaseguraservicio.click
 127.0.0.1 agostoreactiva.zonaviaservice.click
 127.0.0.1 agostoreactiva.zonaviaweb.click
+127.0.0.1 agotoreactiva.solucionesonline.click
 127.0.0.1 agreeable-target.pro
 127.0.0.1 agreeableopinion.pro
 127.0.0.1 agresywneczworonogi.click
@@ -5593,6 +5603,7 @@
 127.0.0.1 aliexpress-summer.cityads.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 alimama.com
+127.0.0.1 alinstante.plataformaenlinea-web.click
 127.0.0.1 alisa.tentaklsistem.click
 127.0.0.1 alitui.weibo.com
 127.0.0.1 alivaninvest.pro
@@ -5668,6 +5679,10 @@
 127.0.0.1 amonsul.douban.com
 127.0.0.1 amp-252ceae8.adventuresofhotrodtodd.com
 127.0.0.1 amp-project.pro
+127.0.0.1 ampliaciones.viazonasegura.click
+127.0.0.1 ampliacionesreactiva.solucionesonline.click
+127.0.0.1 ampliacionesreactiva.viaservicezone.click
+127.0.0.1 ampliacionreativaweb.click
 127.0.0.1 amrytt.adk2x.com
 127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams1-mobile.adnxs.com
@@ -7809,6 +7824,7 @@
 127.0.0.1 avgads.space
 127.0.0.1 aviabotpl.pro
 127.0.0.1 aviplgame.pro
+127.0.0.1 avito.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 avoadsservices.com
 127.0.0.1 avowtech.mobileadstrk.com
 127.0.0.1 avroad3431.fun
@@ -8567,7 +8583,6 @@
 127.0.0.1 business-verify.pro
 127.0.0.1 business.adsverifyrestrictions.com
 127.0.0.1 business.cleverads.vn
-127.0.0.1 business.verified-update-center.eu
 127.0.0.1 businessandtrading.pro
 127.0.0.1 bussinesispolicysupport.click
 127.0.0.1 bussiness-verify.mobi
@@ -11037,6 +11052,7 @@
 127.0.0.1 email3.advisorycloud.com
 127.0.0.1 email4.advisorycloud.com
 127.0.0.1 email5.advisorycloud.com
+127.0.0.1 emailfilter-update.sitebeat.site
 127.0.0.1 emails.advisor2advisor.com
 127.0.0.1 emarketing.sina.com.cn
 127.0.0.1 embolysaros.click
@@ -11582,6 +11598,7 @@
 127.0.0.1 formdesigner.pro
 127.0.0.1 forms.share.works
 127.0.0.1 formula-bogactwa.click
+127.0.0.1 formulario.agostoyap.click
 127.0.0.1 formularzopisu.click
 127.0.0.1 forpci3.siege-corp.com
 127.0.0.1 forpsi-cz-8d9adf0f095.silkbodylaserclinic.nl
@@ -11935,6 +11952,7 @@
 127.0.0.1 globalnepoglady.click
 127.0.0.1 globalnezrodlo.click
 127.0.0.1 globalsellingads.com
+127.0.0.1 globalvoice.mobi
 127.0.0.1 globalwebads.com
 127.0.0.1 globedore.click
 127.0.0.1 glod-invest.pro
@@ -13744,6 +13762,7 @@
 127.0.0.1 leadboltads.net
 127.0.0.1 leadc6.icu
 127.0.0.1 leadgidads.ru
+127.0.0.1 leadingimproveballast.pro
 127.0.0.1 leadingindication.pro
 127.0.0.1 leadlab.click
 127.0.0.1 leadmanagement.leads360.com
@@ -14062,6 +14081,7 @@
 127.0.0.1 lowrihouston.pro
 127.0.0.1 lox.open-sooursee.live
 127.0.0.1 loxodo-analytics.ext.nile.works
+127.0.0.1 loynreroof.bipinates.click
 127.0.0.1 lp.b2bmail.adobe.com
 127.0.0.1 lp.demo1.demoamericas275.adobe.com
 127.0.0.1 lp.demo10.demoamericas275.adobe.com
@@ -14539,6 +14559,7 @@
 127.0.0.1 messaging.insurads.com
 127.0.0.1 messenger-20-21-update.blogspot.com
 127.0.0.1 meta-ads.aag.co.id
+127.0.0.1 meta-adsmanager.imsinar.com
 127.0.0.1 meta-business-help.pagesupport.click
 127.0.0.1 meta.help-center25.click
 127.0.0.1 metabet.api.areyouwatchingthis.com
@@ -14858,6 +14879,7 @@
 127.0.0.1 mon.zijieapi.com
 127.0.0.1 monarchads.com
 127.0.0.1 mondoads.s3.amazonaws.com
+127.0.0.1 monetixads.com
 127.0.0.1 monetize-api.coronalabs.com
 127.0.0.1 money4leads.biz
 127.0.0.1 money88.mobi
@@ -16240,6 +16262,7 @@
 127.0.0.1 pamietnikkolejarza.click
 127.0.0.1 panca.pector.click
 127.0.0.1 pancakesvap.finance-v4.pro
+127.0.0.1 pancakesvap.finance-v5.pro
 127.0.0.1 pancakeswapp.pro
 127.0.0.1 panda.adsame.com
 127.0.0.1 pandora-konkurs.com.pl
@@ -16358,7 +16381,10 @@
 127.0.0.1 pavte.gradspeeches.com
 127.0.0.1 paxdola.click
 127.0.0.1 pay-click.ru
+127.0.0.1 pay.cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
+127.0.0.1 pay.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pay.ofisls-pro.xyz
+127.0.0.1 pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 paypalssl.doubleclick.net
 127.0.0.1 payperclickadvertising.org.uk
 127.0.0.1 paypooli.click
@@ -16645,6 +16671,7 @@
 127.0.0.1 pobierzteraz.mobi
 127.0.0.1 pocerportidv.pro
 127.0.0.1 pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
+127.0.0.1 pochta.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pociagekspresowy.click
 127.0.0.1 pocketads.pl
 127.0.0.1 poczatekdobra.click
@@ -17041,6 +17068,7 @@
 127.0.0.1 pro.activeprov.xyz
 127.0.0.1 pro.activpl-pro.site
 127.0.0.1 pro.asmucol.com
+127.0.0.1 pro.atencioncpdigital.vip
 127.0.0.1 pro.autotrdes.top
 127.0.0.1 pro.baidu.com
 127.0.0.1 pro.bizportal.co.il
@@ -17245,6 +17273,7 @@
 127.0.0.1 psd-ad.top
 127.0.0.1 psiftaugads.com
 127.0.0.1 psozyhotho.pro
+127.0.0.1 pt.halhal.click
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 ptads.sv.publicus.com
 127.0.0.1 ptadsrv.de
@@ -17638,7 +17667,6 @@
 127.0.0.1 pub-91bf7c22be8645f78a1ada6f8cb7e2b4.r2.dev
 127.0.0.1 pub-920afb70b2e441cd94492ad878133acb.r2.dev
 127.0.0.1 pub-923ad3decbf54aa3a9d9ea8c7059b63d.r2.dev
-127.0.0.1 pub-930b2a563f95467189a8ade540574f8f.r2.dev
 127.0.0.1 pub-9323aad9744b43db9b470f6ab7e07386.r2.dev
 127.0.0.1 pub-945293ef7a9047adb26d2ddd47a2d837.r2.dev
 127.0.0.1 pub-94a7b8da1a6c48fcadb0ac5db316b0da.r2.dev
@@ -17747,6 +17775,7 @@
 127.0.0.1 pub-b72cd462909d46f0a9b08afad77e852f.r2.dev
 127.0.0.1 pub-b7447980f3f74a11ad2c4982a8c5bd4d.r2.dev
 127.0.0.1 pub-b7ad48ec29744198846769c5577516fe.r2.dev
+127.0.0.1 pub-b86bc6420769468ead93c7cb71a76a36.r2.dev
 127.0.0.1 pub-b89497f43ad7453faa7ed378d54c7170.r2.dev
 127.0.0.1 pub-b8adf7022beb4a90a980e900c471b626.r2.dev
 127.0.0.1 pub-b8d557d502ff4b20ad52a88c112349ba.r2.dev
@@ -18225,6 +18254,12 @@
 127.0.0.1 reactads.cdn.adglare.net
 127.0.0.1 reactads.com
 127.0.0.1 reactads.engine.adglare.net
+127.0.0.1 reactivaampliaciones.viazonasegura.click
+127.0.0.1 reactivasolicitudes.viaservicezone.click
+127.0.0.1 reactivasolicitudes.viazonasegura.click
+127.0.0.1 reactivasoluciones.viaservicezone.click
+127.0.0.1 reactivasoluciones.zonasegura.click
+127.0.0.1 reactivasoluciones.zonaseguraservicio.click
 127.0.0.1 reader.meizu.com
 127.0.0.1 reader.res.meizu.com
 127.0.0.1 readserv.com
@@ -18301,6 +18336,7 @@
 127.0.0.1 regionypolski.click
 127.0.0.1 regis2tarsgroup.click
 127.0.0.1 regis2tarsinc.click
+127.0.0.1 registroampliaciones.zonaseguraservicio.click
 127.0.0.1 registry.api.cnn.io
 127.0.0.1 registrycleaner.onlinedownloads.org
 127.0.0.1 regulamin24poczta.click
@@ -18932,6 +18968,7 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
+127.0.0.1 sberbank.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 sbjjzdwqg41ps.click
 127.0.0.1 sbrakepads.com
@@ -19217,6 +19254,8 @@
 127.0.0.1 seosoftware.onlinedownloads.org
 127.0.0.1 separatepattern.pro
 127.0.0.1 september.cityads.com
+127.0.0.1 septiembrecontigo.viazonaservice.click
+127.0.0.1 septiembrecontigo.zonasegura.click
 127.0.0.1 serenadeescelestialing.pro
 127.0.0.1 seripage-cad23.pages.net.br
 127.0.0.1 serpentineillegal.pro
@@ -19718,6 +19757,8 @@
 127.0.0.1 soliads.net
 127.0.0.1 soliads.online
 127.0.0.1 solicitaenlineapersonalonline.loger.click
+127.0.0.1 solicitudagosto.evaluandosite.click
+127.0.0.1 solicitudenlinea.agostoevalua.click
 127.0.0.1 solidnewykonanie.click
 127.0.0.1 soliloquizestandardiseis.pro
 127.0.0.1 solsticesongbird.click
@@ -19875,14 +19916,12 @@
 127.0.0.1 sprawyrozwiazanie.click
 127.0.0.1 spreadsheetsa.top
 127.0.0.1 spreadsheetsb.top
-127.0.0.1 spreadsheetsd.top
 127.0.0.1 spreadsheetse.top
 127.0.0.1 spreadsheetsf.top
 127.0.0.1 spreadsheetsg.top
 127.0.0.1 spreadsheetsh.top
 127.0.0.1 spreadsheetsi.top
 127.0.0.1 spreadsheetsk.top
-127.0.0.1 spreadsheetsm.top
 127.0.0.1 spreadsheetso.top
 127.0.0.1 spreadsheetsq.top
 127.0.0.1 spreadsheetst.top
@@ -20920,6 +20959,7 @@
 127.0.0.1 tpdads.com
 127.0.0.1 tpmedia-reactads.com
 127.0.0.1 tpsdkmw.pl
+127.0.0.1 tpwallet.pro
 127.0.0.1 tq.adventurefeeds.com
 127.0.0.1 tr-asia.adsmoloco.com
 127.0.0.1 tr-eu.adsmoloco.com
@@ -22350,6 +22390,7 @@
 127.0.0.1 vtyqy.admaster.com.cn
 127.0.0.1 vu.adschoom.com
 127.0.0.1 vubuii.pages.pro.br
+127.0.0.1 vudicuy3.pro
 127.0.0.1 vupohaafinyp8.pro
 127.0.0.1 vupufuufau.pro
 127.0.0.1 vuvuvenareads.com
@@ -24860,6 +24901,7 @@
 127.0.0.1 www.lawbacks.pro
 127.0.0.1 www.layers.ero-advertising.com
 127.0.0.1 www.lead-analytics-1000.com
+127.0.0.1 www.leadingimproveballast.pro
 127.0.0.1 www.leads.goldenshovel.com
 127.0.0.1 www.leadsgun.com
 127.0.0.1 www.leadsoftwaredeveloper.com
@@ -24938,6 +24980,7 @@
 127.0.0.1 www.loteria-7aut.pro
 127.0.0.1 www.lottery.ie
 127.0.0.1 www.lottery.olg.ca
+127.0.0.1 www.loynreroof.bipinates.click
 127.0.0.1 www.lp.trade360.com
 127.0.0.1 www.lsepads.info
 127.0.0.1 www.lucamister.click
@@ -26964,6 +27007,7 @@
 127.0.0.1 www.volkin-invest.pro
 127.0.0.1 www.vtekbusinessads.com
 127.0.0.1 www.vubuii.pages.pro.br
+127.0.0.1 www.vudicuy3.pro
 127.0.0.1 www.vupufuufau.pro
 127.0.0.1 www.vwtd-shrt.click
 127.0.0.1 www.vybroh.click
@@ -27369,6 +27413,7 @@
 127.0.0.1 www.zgonnadrodze.click
 127.0.0.1 www.zgonnapasach.click
 127.0.0.1 www.zgrozadnia24.click
+127.0.0.1 www.zilygau1.pro
 127.0.0.1 www.zinczenith.click
 127.0.0.1 www.ziposya7.pro
 127.0.0.1 www.zirkonvin.click
@@ -27670,7 +27715,9 @@
 127.0.0.1 yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru
 127.0.0.1 yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
+127.0.0.1 yandex.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru
+127.0.0.1 yandex.youla.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandexadexchange.net
 127.0.0.1 yangtarp.click
 127.0.0.1 yanpsilomane.pro
@@ -27715,6 +27762,7 @@
 127.0.0.1 youhave.mobi
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
+127.0.0.1 youla.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 youleadstudents.org
 127.0.0.1 youngrul.pro
 127.0.0.1 youngtrailblazer.click
@@ -27917,6 +27965,7 @@
 127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 zhihu.xmcimg.com
 127.0.0.1 zhushou.2345.com
+127.0.0.1 zilygau1.pro
 127.0.0.1 zimbra-email-update.phoenixsongsbio.net
 127.0.0.1 zinczenith.click
 127.0.0.1 zindelik-pro.tk
