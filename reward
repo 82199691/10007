@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-16 22:18:16 
+#更新时间: 2024-09-17 09:07:18 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28054
+#规则数量:28064
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -6901,6 +6901,7 @@
 127.0.0.1 api-metrics.flurry.com
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api-n.outgrow.co
+127.0.0.1 api-panel.holesh.ir
 127.0.0.1 api-player.urekamedia.com
 127.0.0.1 api-proxy.bee7.com
 127.0.0.1 api-public.addthis.com
@@ -8520,6 +8521,7 @@
 127.0.0.1 bronimyprawdy.click
 127.0.0.1 bronrt.stsdk.vivo.com.cn
 127.0.0.1 brort.stsdk.vivo.com.cn
+127.0.0.1 browa.bipinates.click
 127.0.0.1 browimeto.click
 127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 browser-statistik.de
@@ -13167,6 +13169,7 @@
 127.0.0.1 is8.inventnamb.click
 127.0.0.1 isacontamilnadu2023.com
 127.0.0.1 isafe.pro
+127.0.0.1 isdhflijsdk.top
 127.0.0.1 isite.baidu.com
 127.0.0.1 islamabadstores.com
 127.0.0.1 istatnenagranie.click
@@ -14378,6 +14381,7 @@
 127.0.0.1 marketingplatform.google.com
 127.0.0.1 marketsfocus.click
 127.0.0.1 marketsview.click
+127.0.0.1 markettadvisor.buzz
 127.0.0.1 marklokdinvest.pro
 127.0.0.1 marnowanieczasu.click
 127.0.0.1 marsads.com
@@ -20641,6 +20645,7 @@
 127.0.0.1 tehenyeduk.pro
 127.0.0.1 teinfo.wps.cn
 127.0.0.1 teitsag.click
+127.0.0.1 teixeiraadvocaciaespecializada.com
 127.0.0.1 tejia.taobao.com
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 tekstwiedzy.click
@@ -22141,6 +22146,7 @@
 127.0.0.1 vodus-api.azurewebsites.net
 127.0.0.1 voice.thewealthadvisor.com
 127.0.0.1 voila.refr.adgtw.orangeads.fr
+127.0.0.1 volitionads.com
 127.0.0.1 volkin-invest.pro
 127.0.0.1 voltads.com
 127.0.0.1 voluminoussoup.pro
@@ -23545,6 +23551,7 @@
 127.0.0.1 www.brodgikinvest.pro
 127.0.0.1 www.bronimyfaktow.click
 127.0.0.1 www.bronimyprawdy.click
+127.0.0.1 www.browa.bipinates.click
 127.0.0.1 www.brudnemysli.click
 127.0.0.1 www.brukowiec24h.click
 127.0.0.1 www.brukowiecinfo.click
@@ -25030,6 +25037,7 @@
 127.0.0.1 www.maralgel.pro
 127.0.0.1 www.marinastem.click
 127.0.0.1 www.marjoramingserveing.pro
+127.0.0.1 www.markettadvisor.buzz
 127.0.0.1 www.marklokdinvest.pro
 127.0.0.1 www.marnowanieczasu.click
 127.0.0.1 www.martwypunkt.click
@@ -26657,6 +26665,7 @@
 127.0.0.1 www.techniczneinfo.click
 127.0.0.1 www.tehenyeduk.pro
 127.0.0.1 www.teitsag.click
+127.0.0.1 www.teixeiraadvocaciaespecializada.com
 127.0.0.1 www.tekstwiedzy.click
 127.0.0.1 www.telefonzaufania.click
 127.0.0.1 www.teletypegoodnesses.pro
@@ -27004,6 +27013,7 @@
 127.0.0.1 www.vobarokinvesting.pro
 127.0.0.1 www.vobonoo1.pro
 127.0.0.1 www.voiceads.cn
+127.0.0.1 www.volitionads.com
 127.0.0.1 www.volkin-invest.pro
 127.0.0.1 www.vtekbusinessads.com
 127.0.0.1 www.vubuii.pages.pro.br

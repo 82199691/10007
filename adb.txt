@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-16 22:18:16
+! Last modified: 2024-09-17 09:07:19
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-16 22:18:16 ^
+!更新时间: 2024-09-17 09:07:18 ^
 
-!规则数量:28054^
+!规则数量:28064^
 !#################^
 
 ||0.r.msn.com^
@@ -6898,6 +6898,7 @@
 ||api-metrics.flurry.com^
 ||api-ms.cobainaja.id^
 ||api-n.outgrow.co^
+||api-panel.holesh.ir^
 ||api-player.urekamedia.com^
 ||api-proxy.bee7.com^
 ||api-public.addthis.com^
@@ -8517,6 +8518,7 @@
 ||bronimyprawdy.click^
 ||bronrt.stsdk.vivo.com.cn^
 ||brort.stsdk.vivo.com.cn^
+||browa.bipinates.click^
 ||browimeto.click^
 ||browser-intake-datadoghq.com^
 ||browser-statistik.de^
@@ -13164,6 +13166,7 @@
 ||is8.inventnamb.click^
 ||isacontamilnadu2023.com^
 ||isafe.pro^
+||isdhflijsdk.top^
 ||isite.baidu.com^
 ||islamabadstores.com^
 ||istatnenagranie.click^
@@ -14375,6 +14378,7 @@
 ||marketingplatform.google.com^
 ||marketsfocus.click^
 ||marketsview.click^
+||markettadvisor.buzz^
 ||marklokdinvest.pro^
 ||marnowanieczasu.click^
 ||marsads.com^
@@ -20638,6 +20642,7 @@
 ||tehenyeduk.pro^
 ||teinfo.wps.cn^
 ||teitsag.click^
+||teixeiraadvocaciaespecializada.com^
 ||tejia.taobao.com^
 ||teknosa.api.useinsider.com^
 ||tekstwiedzy.click^
@@ -22138,6 +22143,7 @@
 ||vodus-api.azurewebsites.net^
 ||voice.thewealthadvisor.com^
 ||voila.refr.adgtw.orangeads.fr^
+||volitionads.com^
 ||volkin-invest.pro^
 ||voltads.com^
 ||voluminoussoup.pro^
@@ -23542,6 +23548,7 @@
 ||www.brodgikinvest.pro^
 ||www.bronimyfaktow.click^
 ||www.bronimyprawdy.click^
+||www.browa.bipinates.click^
 ||www.brudnemysli.click^
 ||www.brukowiec24h.click^
 ||www.brukowiecinfo.click^
@@ -25027,6 +25034,7 @@
 ||www.maralgel.pro^
 ||www.marinastem.click^
 ||www.marjoramingserveing.pro^
+||www.markettadvisor.buzz^
 ||www.marklokdinvest.pro^
 ||www.marnowanieczasu.click^
 ||www.martwypunkt.click^
@@ -26654,6 +26662,7 @@
 ||www.techniczneinfo.click^
 ||www.tehenyeduk.pro^
 ||www.teitsag.click^
+||www.teixeiraadvocaciaespecializada.com^
 ||www.tekstwiedzy.click^
 ||www.telefonzaufania.click^
 ||www.teletypegoodnesses.pro^
@@ -27001,6 +27010,7 @@
 ||www.vobarokinvesting.pro^
 ||www.vobonoo1.pro^
 ||www.voiceads.cn^
+||www.volitionads.com^
 ||www.volkin-invest.pro^
 ||www.vtekbusinessads.com^
 ||www.vubuii.pages.pro.br^
