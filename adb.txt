@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-19 09:21:50
+! Last modified: 2024-09-19 22:17:09
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-19 09:21:50 ^
+!更新时间: 2024-09-19 22:17:08 ^
 
-!规则数量:28011^
+!规则数量:28021^
 !#################^
 
 ||0.r.msn.com^
@@ -5671,6 +5671,7 @@
 ||amp-252ceae8.adventuresofhotrodtodd.com^
 ||amp-project.pro^
 ||ampliaciones.viazonasegura.click^
+||ampliacionesreactiva.solucionesonline.click^
 ||ampliacionesreactiva.viaservicezone.click^
 ||ampliacionreativaweb.click^
 ||amrytt.adk2x.com^
@@ -5697,6 +5698,7 @@
 ||analytics-api.klickly.com^
 ||analytics-api.liveapp.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-api.sconto.cz^
 ||analytics-api.smzdm.com^
 ||analytics-api.statvoo.com^
 ||analytics-api.vanceai.com^
@@ -6926,7 +6928,6 @@
 ||api.33beta.com^
 ||api.3650022.com^
 ||api.448kbet.com^
-||api.52kkg.com^
 ||api.53.localytics.com^
 ||api.558kbet.com^
 ||api.7017k.com^
@@ -7793,6 +7794,7 @@
 ||authbe.sec.intl.miui.com^
 ||author.bloggerads.net^
 ||authorizeddear.pro^
+||auto24-pro.com^
 ||autoads.asia^
 ||autobild.adsame.com^
 ||autoinsuranceadviser.net^
@@ -7828,6 +7830,7 @@
 ||aware-living.pro^
 ||awariadnia.click^
 ||awazne-tvn24.adsraja.com^
+||awegold.pro^
 ||aws-api.sail-personalize.com^
 ||aws-update.net^
 ||aws.dsp.madserving.com^
@@ -8572,6 +8575,7 @@
 ||business-accounts-supports-pages-ads-development.vercel.app^
 ||business-api.tiktok.com^
 ||business-verify.pro^
+||business.ads-fanpage-center.com^
 ||business.adsverifyrestrictions.com^
 ||business.cleverads.vn^
 ||businessandtrading.pro^
@@ -9589,6 +9593,7 @@
 ||compassionaterough.pro^
 ||complete-afternoon.pro^
 ||compliance-advisor.com^
+||compliance.advertisinges.com^
 ||complimentaryesspathiphyllum.pro^
 ||compoqkraj.click^
 ||compowapacut.click^
@@ -9596,7 +9601,6 @@
 ||concertads-configs.vox-cdn.com^
 ||concrete-cabinet.pro^
 ||conde.adsame.com^
-||conditionprovice.pro^
 ||conf.international.baidu.com^
 ||conf.smartnews-ads.com^
 ||conf.xdrig.com^
@@ -9623,6 +9627,7 @@
 ||connect.247media.ads.link4ads.com^
 ||connect.partner-connect.netapp.com^
 ||connect.play.aiseet.atianqi.com^
+||connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev^
 ||cons.ofisls-pro.xyz^
 ||considerate-brief.pro^
 ||consignes-flash.com^
@@ -10292,6 +10297,7 @@
 ||distant-session.pro^
 ||distantcorp.click^
 ||distorteddead.pro^
+||diva.adsndtrackify.xyz^
 ||divavillage.advertserve.com^
 ||divisionforeheadsyndromear.pro^
 ||divisionmeringueteletypeed.pro^
@@ -10388,6 +10394,7 @@
 ||dns.weixin.qq.com^
 ||dns.weixin.qq.com.cn^
 ||dns.ximalaya.com^
+||dnsprolongation.pro^
 ||do99.pro^
 ||dobrapozycja.click^
 ||dobreczyny.click^
@@ -10420,6 +10427,7 @@
 ||dokladneczyny.click^
 ||doksan-investing.pro^
 ||dolphin-center.adsame.com^
+||domain.parkages.click^
 ||domainadvertising.com^
 ||domainpointweb.pro^
 ||domenabezpieczestwa.click^
@@ -14296,13 +14304,11 @@
 ||mamytylkonas.click^
 ||manage.juicyads.com^
 ||manageadv.cblogs.eu^
-||management.mannagerss-fanpagee-advertisingg.com^
 ||manfonk-invest.pro^
 ||mangoads.net^
 ||mania-zakupow.click^
 ||manifest-server.naiadsystems.com^
 ||manipulacjafaktami.click^
-||mannagerss-fanpagee-advertisingg.com^
 ||mansionelectronelectron.pro^
 ||mantis.autoads.asia^
 ||mapkatechniczna.click^
@@ -14584,6 +14590,7 @@
 ||mi-de-ner-nis3.info^
 ||mi-hack.com^
 ||mi-ide.com^
+||mi-ing-actualizar.com^
 ||mi-kawaii.com^
 ||mi-olx.pl^
 ||mi-scotlabank.com^
@@ -14634,6 +14641,7 @@
 ||microngroup.pro^
 ||microsoft-update.name^
 ||microsoftadvertisingdevcenter.112.2o7.net^
+||midpathadvisors.com^
 ||midtnadvertising.com^
 ||miejscowosci24h.click^
 ||miejskibiuletyn.click^
@@ -15764,6 +15772,7 @@
 ||olx.ads-public-worlds.shop^
 ||olx.dostawa-pl.pro^
 ||olx.id-umowa42389.click^
+||olx.online-polaczenie.pro^
 ||olx.pay-check.site^
 ||olx.pay-info.pro^
 ||olx.pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl^
@@ -17818,6 +17827,7 @@
 ||pub-d68ad18c36594a9aa56910da8f439b4a.r2.dev^
 ||pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev^
 ||pub-d6de34ea781b490e874cadc2917d8a8d.r2.dev^
+||pub-d75bb1be9d414347a8fca3ada45e0c35.r2.dev^
 ||pub-d8acfad97cad47be8b4d8966ca74ed9a.r2.dev^
 ||pub-d94a2ac4aa004ad2a84e79ecfa0116b2.r2.dev^
 ||pub-d99482a6cd354defb811ad7877f90aac.r2.dev^
@@ -17872,7 +17882,6 @@
 ||pub-ec526bef8b544fe7ade8fe8050bcaf1c.r2.dev^
 ||pub-ecade82d8fa74b62b94595b5fe313a86.r2.dev^
 ||pub-ecc15af033cf44ad86d1d068ef7b9776.r2.dev^
-||pub-ed1fa1ada35c4907abfcd75f39fc5d76.r2.dev^
 ||pub-edc2e6b683e04acead6831298b181ea9.r2.dev^
 ||pub-ee3104004adf45ee95fbe7a226c32433.r2.dev^
 ||pub-ef47dfdc85ad463a911b6bde06661e80.r2.dev^
@@ -18073,7 +18082,6 @@
 ||qowexei8.pro^
 ||qqq.ujadw.dns-dynamic.net^
 ||qrcodes.pro^
-||qsdkyh-f93eab.ingress-bonde.ewp.live^
 ||qskin.pro^
 ||qsptv.net^
 ||qstore.inner.api.sj.360.cn^
@@ -18941,7 +18949,6 @@
 ||scdn.eclick.vn^
 ||sceggerthingal.click^
 ||scene.vip.xunlei.com^
-||schedule.mannagerss-fanpagee-advertisingg.com^
 ||schematposta.click^
 ||schematyczne.click^
 ||schowanerzeczy.click^
@@ -19702,7 +19709,6 @@
 ||softsmart.mobi^
 ||softspace.mobi^
 ||softsystem.pro^
-||sogecashnet-pro-appsupport.com^
 ||sogo.uc.continuefaf.top^
 ||sohu-dtv.m.cn.miaozhen.com^
 ||sohutv.m.cn.miaozhen.com^
@@ -19712,7 +19718,6 @@
 ||soliads.net^
 ||soliads.online^
 ||solicitaenlineapersonalonline.loger.click^
-||solicitudagosto.evaluandosite.click^
 ||solicitudenlinea.agostoevalua.click^
 ||solidnewykonanie.click^
 ||soliloquizestandardiseis.pro^
@@ -19870,7 +19875,6 @@
 ||sprawypolskie.click^
 ||sprawyrozwiazanie.click^
 ||spreadsheetsa.top^
-||spreadsheetsb.top^
 ||spreadsheetse.top^
 ||spreadsheetsf.top^
 ||spreadsheetsg.top^
@@ -21170,7 +21174,6 @@
 ||tran.mediav.com^
 ||trane-ir-corp-ingersollrand.112.2o7.net^
 ||tranquilechoes.click^
-||transferlock.click^
 ||transferludnosci.click^
 ||transitradar.click^
 ||transparent-user-information-ad-a789.netlify.app^
@@ -21284,6 +21287,7 @@
 ||ttcu-union.actonservice.com^
 ||tthathehadstop.info^
 ||ttnet.yandex.com.tr^
+||ttp.leelight444ne.dns-dynamic.net^
 ||ttplugins.ttpsdk.info^
 ||ttt.agrantsem.com^
 ||ttt4.agrantsem.com^
@@ -21344,6 +21348,7 @@
 ||twemarhosting.click^
 ||twemarzone.click^
 ||twinadsrv.com^
+||twint-update.info^
 ||twistads.com^
 ||twitter-circle.com^
 ||twitter.cm^
@@ -21624,7 +21629,6 @@
 ||update.stickyadstv.com^
 ||update.tas.yieldmo.com^
 ||update.tcsg.edu^
-||update.tepcoonline.icu^
 ||update.wo.gumgum.com^
 ||update.wps.cn^
 ||update.wtag.adaptv.advertising.com^
@@ -23301,6 +23305,7 @@
 ||www.atluhatwer.click^
 ||www.aussieadventuresland.com^
 ||www.auth.gamedream.pro^
+||www.auto24-pro.com^
 ||www.autoads.asia^
 ||www.autoinsuranceadviser.net^
 ||www.autornieznany.click^
@@ -23672,6 +23677,7 @@
 ||www.confirmation-info-ad-account-a4.netlify.app^
 ||www.connect-hub2fa.pro^
 ||www.connect.api.almirall.com^
+||www.connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev^
 ||www.constel-analytics.com^
 ||www.consumer-focus.com^
 ||www.contextuads.com^
@@ -23813,6 +23819,7 @@
 ||www.dismemberment.pro^
 ||www.dispatch-360.com^
 ||www.distantcorp.click^
+||www.diva.adsndtrackify.xyz^
 ||www.divisionforeheadsyndromear.pro^
 ||www.divisionmeringueteletypeed.pro^
 ||www.divisionstandingaluminumas.pro^
@@ -23827,6 +23834,7 @@
 ||www.dmvastj2pgw.click^
 ||www.dns-eu-east-32.xyz^
 ||www.dns-pl.com^
+||www.dnsprolongation.pro^
 ||www.dobrapozycja.click^
 ||www.dobreczyny.click^
 ||www.dobreprogramy.pro^
@@ -25059,6 +25067,7 @@
 ||www.mibet.mobi^
 ||www.microngroup.pro^
 ||www.microsoft-update.name^
+||www.midpathadvisors.com^
 ||www.midtnadvertising.com^
 ||www.miejscowosci24h.click^
 ||www.miejskibiuletyn.click^
@@ -25431,6 +25440,7 @@
 ||www.olx-pt.mobi^
 ||www.olx-zamowienie.pro^
 ||www.olx.ads-public-worlds.shop^
+||www.olx.online-polaczenie.pro^
 ||www.olx.pay-info.pro^
 ||www.olx.pl-offerta.pro^
 ||www.olx.pl.dostawa.pro^

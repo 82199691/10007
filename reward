@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-19 09:21:50 
+#更新时间: 2024-09-19 22:17:08 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28011
+#规则数量:28021
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -5674,6 +5674,7 @@
 127.0.0.1 amp-252ceae8.adventuresofhotrodtodd.com
 127.0.0.1 amp-project.pro
 127.0.0.1 ampliaciones.viazonasegura.click
+127.0.0.1 ampliacionesreactiva.solucionesonline.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 ampliacionreativaweb.click
 127.0.0.1 amrytt.adk2x.com
@@ -5700,6 +5701,7 @@
 127.0.0.1 analytics-api.klickly.com
 127.0.0.1 analytics-api.liveapp.com
 127.0.0.1 analytics-api.samsunghealthcn.com
+127.0.0.1 analytics-api.sconto.cz
 127.0.0.1 analytics-api.smzdm.com
 127.0.0.1 analytics-api.statvoo.com
 127.0.0.1 analytics-api.vanceai.com
@@ -6929,7 +6931,6 @@
 127.0.0.1 api.33beta.com
 127.0.0.1 api.3650022.com
 127.0.0.1 api.448kbet.com
-127.0.0.1 api.52kkg.com
 127.0.0.1 api.53.localytics.com
 127.0.0.1 api.558kbet.com
 127.0.0.1 api.7017k.com
@@ -7796,6 +7797,7 @@
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 author.bloggerads.net
 127.0.0.1 authorizeddear.pro
+127.0.0.1 auto24-pro.com
 127.0.0.1 autoads.asia
 127.0.0.1 autobild.adsame.com
 127.0.0.1 autoinsuranceadviser.net
@@ -7831,6 +7833,7 @@
 127.0.0.1 aware-living.pro
 127.0.0.1 awariadnia.click
 127.0.0.1 awazne-tvn24.adsraja.com
+127.0.0.1 awegold.pro
 127.0.0.1 aws-api.sail-personalize.com
 127.0.0.1 aws-update.net
 127.0.0.1 aws.dsp.madserving.com
@@ -8575,6 +8578,7 @@
 127.0.0.1 business-accounts-supports-pages-ads-development.vercel.app
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 business-verify.pro
+127.0.0.1 business.ads-fanpage-center.com
 127.0.0.1 business.adsverifyrestrictions.com
 127.0.0.1 business.cleverads.vn
 127.0.0.1 businessandtrading.pro
@@ -9592,6 +9596,7 @@
 127.0.0.1 compassionaterough.pro
 127.0.0.1 complete-afternoon.pro
 127.0.0.1 compliance-advisor.com
+127.0.0.1 compliance.advertisinges.com
 127.0.0.1 complimentaryesspathiphyllum.pro
 127.0.0.1 compoqkraj.click
 127.0.0.1 compowapacut.click
@@ -9599,7 +9604,6 @@
 127.0.0.1 concertads-configs.vox-cdn.com
 127.0.0.1 concrete-cabinet.pro
 127.0.0.1 conde.adsame.com
-127.0.0.1 conditionprovice.pro
 127.0.0.1 conf.international.baidu.com
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 conf.xdrig.com
@@ -9626,6 +9630,7 @@
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.partner-connect.netapp.com
 127.0.0.1 connect.play.aiseet.atianqi.com
+127.0.0.1 connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev
 127.0.0.1 cons.ofisls-pro.xyz
 127.0.0.1 considerate-brief.pro
 127.0.0.1 consignes-flash.com
@@ -10295,6 +10300,7 @@
 127.0.0.1 distant-session.pro
 127.0.0.1 distantcorp.click
 127.0.0.1 distorteddead.pro
+127.0.0.1 diva.adsndtrackify.xyz
 127.0.0.1 divavillage.advertserve.com
 127.0.0.1 divisionforeheadsyndromear.pro
 127.0.0.1 divisionmeringueteletypeed.pro
@@ -10391,6 +10397,7 @@
 127.0.0.1 dns.weixin.qq.com
 127.0.0.1 dns.weixin.qq.com.cn
 127.0.0.1 dns.ximalaya.com
+127.0.0.1 dnsprolongation.pro
 127.0.0.1 do99.pro
 127.0.0.1 dobrapozycja.click
 127.0.0.1 dobreczyny.click
@@ -10423,6 +10430,7 @@
 127.0.0.1 dokladneczyny.click
 127.0.0.1 doksan-investing.pro
 127.0.0.1 dolphin-center.adsame.com
+127.0.0.1 domain.parkages.click
 127.0.0.1 domainadvertising.com
 127.0.0.1 domainpointweb.pro
 127.0.0.1 domenabezpieczestwa.click
@@ -14299,13 +14307,11 @@
 127.0.0.1 mamytylkonas.click
 127.0.0.1 manage.juicyads.com
 127.0.0.1 manageadv.cblogs.eu
-127.0.0.1 management.mannagerss-fanpagee-advertisingg.com
 127.0.0.1 manfonk-invest.pro
 127.0.0.1 mangoads.net
 127.0.0.1 mania-zakupow.click
 127.0.0.1 manifest-server.naiadsystems.com
 127.0.0.1 manipulacjafaktami.click
-127.0.0.1 mannagerss-fanpagee-advertisingg.com
 127.0.0.1 mansionelectronelectron.pro
 127.0.0.1 mantis.autoads.asia
 127.0.0.1 mapkatechniczna.click
@@ -14587,6 +14593,7 @@
 127.0.0.1 mi-de-ner-nis3.info
 127.0.0.1 mi-hack.com
 127.0.0.1 mi-ide.com
+127.0.0.1 mi-ing-actualizar.com
 127.0.0.1 mi-kawaii.com
 127.0.0.1 mi-olx.pl
 127.0.0.1 mi-scotlabank.com
@@ -14637,6 +14644,7 @@
 127.0.0.1 microngroup.pro
 127.0.0.1 microsoft-update.name
 127.0.0.1 microsoftadvertisingdevcenter.112.2o7.net
+127.0.0.1 midpathadvisors.com
 127.0.0.1 midtnadvertising.com
 127.0.0.1 miejscowosci24h.click
 127.0.0.1 miejskibiuletyn.click
@@ -15767,6 +15775,7 @@
 127.0.0.1 olx.ads-public-worlds.shop
 127.0.0.1 olx.dostawa-pl.pro
 127.0.0.1 olx.id-umowa42389.click
+127.0.0.1 olx.online-polaczenie.pro
 127.0.0.1 olx.pay-check.site
 127.0.0.1 olx.pay-info.pro
 127.0.0.1 olx.pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl
@@ -17821,6 +17830,7 @@
 127.0.0.1 pub-d68ad18c36594a9aa56910da8f439b4a.r2.dev
 127.0.0.1 pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev
 127.0.0.1 pub-d6de34ea781b490e874cadc2917d8a8d.r2.dev
+127.0.0.1 pub-d75bb1be9d414347a8fca3ada45e0c35.r2.dev
 127.0.0.1 pub-d8acfad97cad47be8b4d8966ca74ed9a.r2.dev
 127.0.0.1 pub-d94a2ac4aa004ad2a84e79ecfa0116b2.r2.dev
 127.0.0.1 pub-d99482a6cd354defb811ad7877f90aac.r2.dev
@@ -17875,7 +17885,6 @@
 127.0.0.1 pub-ec526bef8b544fe7ade8fe8050bcaf1c.r2.dev
 127.0.0.1 pub-ecade82d8fa74b62b94595b5fe313a86.r2.dev
 127.0.0.1 pub-ecc15af033cf44ad86d1d068ef7b9776.r2.dev
-127.0.0.1 pub-ed1fa1ada35c4907abfcd75f39fc5d76.r2.dev
 127.0.0.1 pub-edc2e6b683e04acead6831298b181ea9.r2.dev
 127.0.0.1 pub-ee3104004adf45ee95fbe7a226c32433.r2.dev
 127.0.0.1 pub-ef47dfdc85ad463a911b6bde06661e80.r2.dev
@@ -18076,7 +18085,6 @@
 127.0.0.1 qowexei8.pro
 127.0.0.1 qqq.ujadw.dns-dynamic.net
 127.0.0.1 qrcodes.pro
-127.0.0.1 qsdkyh-f93eab.ingress-bonde.ewp.live
 127.0.0.1 qskin.pro
 127.0.0.1 qsptv.net
 127.0.0.1 qstore.inner.api.sj.360.cn
@@ -18944,7 +18952,6 @@
 127.0.0.1 scdn.eclick.vn
 127.0.0.1 sceggerthingal.click
 127.0.0.1 scene.vip.xunlei.com
-127.0.0.1 schedule.mannagerss-fanpagee-advertisingg.com
 127.0.0.1 schematposta.click
 127.0.0.1 schematyczne.click
 127.0.0.1 schowanerzeczy.click
@@ -19705,7 +19712,6 @@
 127.0.0.1 softsmart.mobi
 127.0.0.1 softspace.mobi
 127.0.0.1 softsystem.pro
-127.0.0.1 sogecashnet-pro-appsupport.com
 127.0.0.1 sogo.uc.continuefaf.top
 127.0.0.1 sohu-dtv.m.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
@@ -19715,7 +19721,6 @@
 127.0.0.1 soliads.net
 127.0.0.1 soliads.online
 127.0.0.1 solicitaenlineapersonalonline.loger.click
-127.0.0.1 solicitudagosto.evaluandosite.click
 127.0.0.1 solicitudenlinea.agostoevalua.click
 127.0.0.1 solidnewykonanie.click
 127.0.0.1 soliloquizestandardiseis.pro
@@ -19873,7 +19878,6 @@
 127.0.0.1 sprawypolskie.click
 127.0.0.1 sprawyrozwiazanie.click
 127.0.0.1 spreadsheetsa.top
-127.0.0.1 spreadsheetsb.top
 127.0.0.1 spreadsheetse.top
 127.0.0.1 spreadsheetsf.top
 127.0.0.1 spreadsheetsg.top
@@ -21173,7 +21177,6 @@
 127.0.0.1 tran.mediav.com
 127.0.0.1 trane-ir-corp-ingersollrand.112.2o7.net
 127.0.0.1 tranquilechoes.click
-127.0.0.1 transferlock.click
 127.0.0.1 transferludnosci.click
 127.0.0.1 transitradar.click
 127.0.0.1 transparent-user-information-ad-a789.netlify.app
@@ -21287,6 +21290,7 @@
 127.0.0.1 ttcu-union.actonservice.com
 127.0.0.1 tthathehadstop.info
 127.0.0.1 ttnet.yandex.com.tr
+127.0.0.1 ttp.leelight444ne.dns-dynamic.net
 127.0.0.1 ttplugins.ttpsdk.info
 127.0.0.1 ttt.agrantsem.com
 127.0.0.1 ttt4.agrantsem.com
@@ -21347,6 +21351,7 @@
 127.0.0.1 twemarhosting.click
 127.0.0.1 twemarzone.click
 127.0.0.1 twinadsrv.com
+127.0.0.1 twint-update.info
 127.0.0.1 twistads.com
 127.0.0.1 twitter-circle.com
 127.0.0.1 twitter.cm
@@ -21627,7 +21632,6 @@
 127.0.0.1 update.stickyadstv.com
 127.0.0.1 update.tas.yieldmo.com
 127.0.0.1 update.tcsg.edu
-127.0.0.1 update.tepcoonline.icu
 127.0.0.1 update.wo.gumgum.com
 127.0.0.1 update.wps.cn
 127.0.0.1 update.wtag.adaptv.advertising.com
@@ -23304,6 +23308,7 @@
 127.0.0.1 www.atluhatwer.click
 127.0.0.1 www.aussieadventuresland.com
 127.0.0.1 www.auth.gamedream.pro
+127.0.0.1 www.auto24-pro.com
 127.0.0.1 www.autoads.asia
 127.0.0.1 www.autoinsuranceadviser.net
 127.0.0.1 www.autornieznany.click
@@ -23675,6 +23680,7 @@
 127.0.0.1 www.confirmation-info-ad-account-a4.netlify.app
 127.0.0.1 www.connect-hub2fa.pro
 127.0.0.1 www.connect.api.almirall.com
+127.0.0.1 www.connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev
 127.0.0.1 www.constel-analytics.com
 127.0.0.1 www.consumer-focus.com
 127.0.0.1 www.contextuads.com
@@ -23816,6 +23822,7 @@
 127.0.0.1 www.dismemberment.pro
 127.0.0.1 www.dispatch-360.com
 127.0.0.1 www.distantcorp.click
+127.0.0.1 www.diva.adsndtrackify.xyz
 127.0.0.1 www.divisionforeheadsyndromear.pro
 127.0.0.1 www.divisionmeringueteletypeed.pro
 127.0.0.1 www.divisionstandingaluminumas.pro
@@ -23830,6 +23837,7 @@
 127.0.0.1 www.dmvastj2pgw.click
 127.0.0.1 www.dns-eu-east-32.xyz
 127.0.0.1 www.dns-pl.com
+127.0.0.1 www.dnsprolongation.pro
 127.0.0.1 www.dobrapozycja.click
 127.0.0.1 www.dobreczyny.click
 127.0.0.1 www.dobreprogramy.pro
@@ -25062,6 +25070,7 @@
 127.0.0.1 www.mibet.mobi
 127.0.0.1 www.microngroup.pro
 127.0.0.1 www.microsoft-update.name
+127.0.0.1 www.midpathadvisors.com
 127.0.0.1 www.midtnadvertising.com
 127.0.0.1 www.miejscowosci24h.click
 127.0.0.1 www.miejskibiuletyn.click
@@ -25434,6 +25443,7 @@
 127.0.0.1 www.olx-pt.mobi
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
+127.0.0.1 www.olx.online-polaczenie.pro
 127.0.0.1 www.olx.pay-info.pro
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
