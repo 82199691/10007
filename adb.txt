@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-20 09:21:41
+! Last modified: 2024-09-20 16:09:27
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-20 09:21:41 ^
+!更新时间: 2024-09-20 16:09:27 ^
 
-!规则数量:28021^
+!规则数量:28055^
 !#################^
 
 ||0.r.msn.com^
@@ -7350,6 +7350,7 @@
 ||api.par.vip.prod.criteo.com^
 ||api.parse.com^
 ||api.parsely.com^
+||api.pc-cloud.org^
 ||api.pdbarea.com^
 ||api.permutive.com^
 ||api.personaclick.com^
@@ -7661,6 +7662,7 @@
 ||arc1.msn.com^
 ||arcade-advising.com^
 ||archive.coolerads.com^
+||archiveimproveexpress.pro^
 ||arcor-partner.de^
 ||arcturus-investing.pro^
 ||arguedreable.click^
@@ -7830,7 +7832,6 @@
 ||aware-living.pro^
 ||awariadnia.click^
 ||awazne-tvn24.adsraja.com^
-||awegold.pro^
 ||aws-api.sail-personalize.com^
 ||aws-update.net^
 ||aws.dsp.madserving.com^
@@ -9593,7 +9594,6 @@
 ||compassionaterough.pro^
 ||complete-afternoon.pro^
 ||compliance-advisor.com^
-||compliance.advertisinges.com^
 ||complimentaryesspathiphyllum.pro^
 ||compoqkraj.click^
 ||compowapacut.click^
@@ -10265,6 +10265,7 @@
 ||direct-pro.space^
 ||direct.ad-core-lb-v3.lf.bytelb.net^
 ||direct.adsrvr.org^
+||direct.muchflaw.click^
 ||direct2hr.click^
 ||directads.mcafee.com^
 ||directadvert.ru^
@@ -10279,6 +10280,7 @@
 ||disadvantagenaturalistrole.com^
 ||disastrousfinal.pro^
 ||discdanot.pro^
+||discord.api.getaiai.com^
 ||discountads.net^
 ||discuz.gtimg.cn^
 ||disfiguredrough.pro^
@@ -10991,6 +10993,7 @@
 ||eitri.api.useinsider.com^
 ||eiv.baidu.com^
 ||ekivahut.pro^
+||ekka.muchflaw.click^
 ||ekspansywnosci.click^
 ||ekspertlifestyleu.click^
 ||eksploracjabezwyzwania.click^
@@ -11042,6 +11045,7 @@
 ||email.durben.click^
 ||email.headsuphealth.com^
 ||email.molly-9982.pro^
+||email.standerd.click^
 ||email1.advisorycloud.com^
 ||email2.advisorycloud.com^
 ||email3.advisorycloud.com^
@@ -11555,6 +11559,7 @@
 ||fms.ipinyou.com^
 ||fmsads.com^
 ||fmu1qrtjoamc.pro^
+||fn4qda35ojs.earsppl.click^
 ||fnatfee.ero-advertising.com^
 ||fnmads.pl^
 ||fo-api.omnitagjs.com^
@@ -11790,6 +11795,7 @@
 ||garenaprize.click^
 ||garenta.api.useinsider.com^
 ||gargantuan-menu.pro^
+||garitaa3.pro^
 ||gaseousarmy.pro^
 ||gastr0sw4qo.click^
 ||gastr9sw7qo.click^
@@ -12963,6 +12969,7 @@
 ||inpost.id912831.pro^
 ||inpost.id987658.pro^
 ||inpost.mobi^
+||inpost.noon-com.click^
 ||inpost.sedanoxo.click^
 ||inpost24.pl.rtuyimads.shop^
 ||inposta.click^
@@ -14691,6 +14698,7 @@
 ||misc.wcd.qq.com^
 ||misguidedfriend.pro^
 ||mishop.pandora.xiaomi.com.^
+||miskindle.muchflaw.click^
 ||missiesdiapnoe.click^
 ||miui.hftaili.com^
 ||mivideo.g.mi.com^
@@ -14714,6 +14722,7 @@
 ||mmavew.tentaklsistem.click^
 ||mmetrix.mobi^
 ||mmg.aty.cp45.ott.cibntv.net^
+||mmm.zgdvxnf.dns-dynamic.net^
 ||mms.deadspin.com^
 ||mms2017.admaster.com.cn^
 ||mmstat.com^
@@ -15369,6 +15378,7 @@
 ||nextmetr1c.click^
 ||nextround.click^
 ||nextsphere.click^
+||nexusit.pro^
 ||nfladvancedmetrics.com^
 ||ng3.ads.warnerbros.com^
 ||ngads.com^
@@ -15424,6 +15434,7 @@
 ||nl1.ero-advertising.com^
 ||nl2.ero-advertising.com^
 ||nlog.baidu.com^
+||nlonlinesol.click^
 ||nmm31.tentaklsistem.click^
 ||nners.ero-advertising.com^
 ||nnv3.d1g1marka.click^
@@ -16189,6 +16200,7 @@
 ||p9-ad-sign.byteimg.com^
 ||p9-orange.byteorge.com^
 ||p9.tribution.mobi^
+||paa-reporting-advertising.amazon^
 ||paas-push-api.immomo.com^
 ||paczka-pl.id-dostawa23480.click^
 ||paczka-pl.zamow38495.click^
@@ -18106,6 +18118,7 @@
 ||quickpcfixer.click^
 ||quicksprint.click^
 ||quickwest.pro^
+||quillon.muchflaw.click^
 ||quintessential-telephone.pro^
 ||quizquestion.click^
 ||quizzicalgrand.pro^
@@ -18289,6 +18302,7 @@
 ||referatowe.click^
 ||refinedads.com^
 ||reformafaktow.click^
+||refundcustomer.dns.army^
 ||refundhelpdesk.dns.navy^
 ||refuzzlizing.pro^
 ||regadsacademy.com^
@@ -20735,6 +20749,7 @@
 ||thirst7bvqz.click^
 ||this.content.served.by.adshuffle.com^
 ||thoadsaibsou.net^
+||thor.muchflaw.click^
 ||thornyline.click^
 ||thoseads.com^
 ||threadsdownloaderr.com^
@@ -20912,7 +20927,6 @@
 ||tpdads.com^
 ||tpmedia-reactads.com^
 ||tpsdkmw.pl^
-||tpwallet.pro^
 ||tq.adventurefeeds.com^
 ||tr-asia.adsmoloco.com^
 ||tr-eu.adsmoloco.com^
@@ -21427,6 +21441,7 @@
 ||uc-ys3.lat^
 ||uc.agrantsem.com^
 ||uc.atwola.com^
+||uc.mras.skin^
 ||uc.osik.skin^
 ||uc.ucweb.com^
 ||uc.whkwpzz.cn^
@@ -22684,6 +22699,7 @@
 ||wnaszymmiescie.click^
 ||wnetrzeizewnetrzne.click^
 ||wnetrzeludzi.click^
+||wogikeu4.pro^
 ||wohivyazyu.pro^
 ||wojewodaalarmuje.click^
 ||wojewodadonosi.click^
@@ -23275,6 +23291,7 @@
 ||www.api.hyphabit.org^
 ||www.api.imap.contoh.ilmubaru.com^
 ||www.api.myeforsa.pl^
+||www.api.pc-cloud.org^
 ||www.api.taboola.com^
 ||www.api.xibitrs.com^
 ||www.app-pro.com^
@@ -23285,6 +23302,7 @@
 ||www.aquaflowcam.click^
 ||www.aragonese.pro^
 ||www.arborealadventure.xyz^
+||www.archiveimproveexpress.pro^
 ||www.arcturus-investing.pro^
 ||www.aread6.com^
 ||www.armorlest.click^
@@ -23812,6 +23830,7 @@
 ||www.dillemaweld.click^
 ||www.dinodrumbooklampes.pro^
 ||www.dinorunner.click^
+||www.direct.muchflaw.click^
 ||www.directnetadvertising.net^
 ||www.dirtypinvest.pro^
 ||www.disabled-ads-case-3db1e.firebaseapp.com^
@@ -24056,6 +24075,7 @@
 ||www.effegybat.click^
 ||www.eggheadspooled.info^
 ||www.ehado.pro^
+||www.ekka.muchflaw.click^
 ||www.ekspansywnosci.click^
 ||www.ekspresoweinfo24h.click^
 ||www.elasticpin.click^
@@ -24213,6 +24233,7 @@
 ||www.flurry.com^
 ||www.flw.ero-advertising.com^
 ||www.flxly.pro^
+||www.fn4qda35ojs.earsppl.click^
 ||www.fnatfee.ero-advertising.com^
 ||www.fnmads.pl^
 ||www.focusingresidencees.pro^
@@ -24270,6 +24291,7 @@
 ||www.gammadsp.com^
 ||www.gandtadventures.com^
 ||www.gard3ng1ade52.store^
+||www.garitaa3.pro^
 ||www.gastr0sw4qo.click^
 ||www.gastr9sw7qo.click^
 ||www.gata.ero-advertising.com^
@@ -24607,6 +24629,7 @@
 ||www.inpost-polska-sm.order382919.me^
 ||www.inpost-polska-wx.order9351.info^
 ||www.inpost.id912831.pro^
+||www.inpost.noon-com.click^
 ||www.inposta.click^
 ||www.inpostps.click^
 ||www.inposts.pro^
@@ -24833,6 +24856,7 @@
 ||www.kutusieigia.pro^
 ||www.kwalifikacja24h.click^
 ||www.kybapaa5.pro^
+||www.kyc-update-info.com^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.l11ade1shi11rs.site^
@@ -25094,6 +25118,7 @@
 ||www.mipoqua4.pro^
 ||www.miradoks-investing.pro^
 ||www.mirthdab.click^
+||www.miskindle.muchflaw.click^
 ||www.mmnetwork.mobi^
 ||www.mnetads.com^
 ||www.mniejszoscspoleczna.click^
@@ -26033,6 +26058,7 @@
 ||www.qugunua3.pro^
 ||www.quhihyu2.pro^
 ||www.quicksprint.click^
+||www.quillon.muchflaw.click^
 ||www.quizquestion.click^
 ||www.quqesauocao.pro^
 ||www.qvaliti-invest.pro^
@@ -26087,6 +26113,7 @@
 ||www.redirect.ero-advertising.com^
 ||www.referatowe.click^
 ||www.reformafaktow.click^
+||www.refundcustomer.dns.army^
 ||www.refundhelpdesk.dns.navy^
 ||www.regionypolski.click^
 ||www.registrarads.com^
@@ -26667,6 +26694,7 @@
 ||www.thinkingworded.pro^
 ||www.thirst4bvqz.click^
 ||www.thirst7bvqz.click^
+||www.thor.muchflaw.click^
 ||www.thornyline.click^
 ||www.threadss.info^
 ||www.threadstheme.com^
@@ -26834,6 +26862,7 @@
 ||www.tywuxoe3.pro^
 ||www.uc-o9b.cfd^
 ||www.uc-ys3.lat^
+||www.uc.mras.skin^
 ||www.uc.osik.skin^
 ||www.uchwyconechwile.click^
 ||www.ucieczkakierowcy.click^
@@ -27104,6 +27133,7 @@
 ||www.wlasnoreczne24.click^
 ||www.wnaszymmiescie.click^
 ||www.wnetrzeludzi.click^
+||www.wogikeu4.pro^
 ||www.wohivyazyu.pro^
 ||www.wojewodaalarmuje.click^
 ||www.wojewodadonosi.click^
@@ -27176,6 +27206,7 @@
 ||www.wwbanners2.ero-advertising.com^
 ||www.wws.ero-advertising.com^
 ||www.www-google.nl^
+||www.wx.eghe.skin^
 ||www.wybortygodnia.click^
 ||www.wyborywydarznia.click^
 ||www.wychodzinaklad.click^
@@ -27414,6 +27445,7 @@
 ||www.zrodlowiedzy.click^
 ||www.zsdkajdoofo.site^
 ||www.zupelnienowe.click^
+||www.zupo.adsndtrackify.xyz^
 ||www.zuqyryi7.pro^
 ||www.zus-update.info^
 ||www.zwariowane-to.click^
@@ -27457,6 +27489,7 @@
 ||wwwads.seoul.co.kr^
 ||wwwctt-pt.mobi^
 ||wwww.adleads.com^
+||wx.eghe.skin^
 ||wx.houyi.baofeng.net^
 ||wx.shunliandongli.com^
 ||wx.sifakaoshi360.com^
@@ -27993,6 +28026,7 @@
 ||zs9.cnzz.com^
 ||zsdkajdoofo.site^
 ||zupelnienowe.click^
+||zupo.adsndtrackify.xyz^
 ||zuqyryi7.pro^
 ||zus-update.info^
 ||zutube.pro^
