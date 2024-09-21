@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-20 22:17:33 
+#更新时间: 2024-09-21 09:20:15 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28055
+#规则数量:28070
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -5392,6 +5392,7 @@
 127.0.0.1 advp1.com
 127.0.0.1 advp2.com
 127.0.0.1 advp3.com
+127.0.0.1 advparvezali.com
 127.0.0.1 advpic.yicha.jp
 127.0.0.1 advplace.com
 127.0.0.1 advpoints.com
@@ -9136,6 +9137,7 @@
 127.0.0.1 chosentalladvanced.com
 127.0.0.1 chris.johnli.click
 127.0.0.1 christianbusinessadvertising.com
+127.0.0.1 christiepointadvocates.com
 127.0.0.1 chronicads.com
 127.0.0.1 cht.pro-activprofit.site
 127.0.0.1 chubbymess.pro
@@ -16866,6 +16868,7 @@
 127.0.0.1 pourloonada9.com
 127.0.0.1 poutineedreallyed.pro
 127.0.0.1 povaloa0.pro
+127.0.0.1 povvertyfocus.click
 127.0.0.1 powaznekonsekwnencje.click
 127.0.0.1 poweredby.jads.co
 127.0.0.1 poweredby.jads.com
@@ -17100,6 +17103,7 @@
 127.0.0.1 pro.program-plus.site
 127.0.0.1 pro.programpro.site
 127.0.0.1 pro.progrbest.top
+127.0.0.1 pro.progtopdep.top
 127.0.0.1 pro.projorlen.site
 127.0.0.1 pro.prot-rad.top
 127.0.0.1 pro.stormwindstudios.com
@@ -18489,6 +18493,7 @@
 127.0.0.1 rmxads.com
 127.0.0.1 road2gold.site
 127.0.0.1 roadshonkb.online
+127.0.0.1 roadsidetonationalwide.com
 127.0.0.1 robet-challengemode.pro
 127.0.0.1 roboczogodziny.click
 127.0.0.1 robotadserver.com
@@ -18888,6 +18893,7 @@
 127.0.0.1 safetysensehub.click
 127.0.0.1 sag9exikyu.pro
 127.0.0.1 sagging.pro
+127.0.0.1 sailgadvent.xyz
 127.0.0.1 saintleads.autos
 127.0.0.1 sakura-traffic.com
 127.0.0.1 salamogolden.click
@@ -22760,6 +22766,7 @@
 127.0.0.1 wow-click.click
 127.0.0.1 wow.ero-advertising.com
 127.0.0.1 woweffect.click
+127.0.0.1 wowsoul.click
 127.0.0.1 wp-cdn.cityads.com
 127.0.0.1 wp.viprik.pro
 127.0.0.1 wp3advesting.com
@@ -23206,6 +23213,7 @@
 127.0.0.1 www.advocatemy.org
 127.0.0.1 www.advocatenkantoormaastricht.com
 127.0.0.1 www.advocateseducationalservices.com
+127.0.0.1 www.advparvezali.com
 127.0.0.1 www.advshaktimann.com
 127.0.0.1 www.adw.ero-advertising.com
 127.0.0.1 www.adwo.com
@@ -23643,6 +23651,7 @@
 127.0.0.1 www.chorespoleczenstwo.click
 127.0.0.1 www.chori3oiwtb.click
 127.0.0.1 www.christianbusinessadvertising.com
+127.0.0.1 www.christiepointadvocates.com
 127.0.0.1 www.chwiladoslowna.click
 127.0.0.1 www.chwilagrozy.click
 127.0.0.1 www.cicaryu0.pro
@@ -25838,6 +25847,7 @@
 127.0.0.1 www.poufnedane.click
 127.0.0.1 www.poutineedreallyed.pro
 127.0.0.1 www.povaloa0.pro
+127.0.0.1 www.povvertyfocus.click
 127.0.0.1 www.powaznekonsekwnencje.click
 127.0.0.1 www.poweredbyliquidfire.mobi
 127.0.0.1 www.powiadomienia24h.click
@@ -26173,6 +26183,7 @@
 127.0.0.1 www.riyadh4moving.com
 127.0.0.1 www.road2gold.site
 127.0.0.1 www.roadshonkb.online
+127.0.0.1 www.roadsidetonationalwide.com
 127.0.0.1 www.robet-challengemode.pro
 127.0.0.1 www.roboczogodziny.click
 127.0.0.1 www.robustdres.click
@@ -26250,6 +26261,7 @@
 127.0.0.1 www.safetysensehub.click
 127.0.0.1 www.sag9exikyu.pro
 127.0.0.1 www.sagging.pro
+127.0.0.1 www.sailgadvent.xyz
 127.0.0.1 www.salkaner-invest.pro
 127.0.0.1 www.samaprawda.click
 127.0.0.1 www.sameklopoty.click
@@ -27159,6 +27171,7 @@
 127.0.0.1 www.worldwholenesswave.click
 127.0.0.1 www.wow.ero-advertising.com
 127.0.0.1 www.woweffect.click
+127.0.0.1 www.wowsoul.click
 127.0.0.1 www.wracam.click
 127.0.0.1 www.wraproads.online
 127.0.0.1 www.writeadvising.com
@@ -27262,6 +27275,7 @@
 127.0.0.1 www.wzorowezachowanie.click
 127.0.0.1 www.x2tesla-event.pro
 127.0.0.1 www.xadsmart.com
+127.0.0.1 www.xaka.adsndtrackify.xyz
 127.0.0.1 www.xanthofin.click
 127.0.0.1 www.xawofaa7.pro
 127.0.0.1 www.xaxugoy5.pro
@@ -27570,6 +27584,7 @@
 127.0.0.1 xads.top
 127.0.0.1 xads.zedo.com
 127.0.0.1 xadsmart.com
+127.0.0.1 xaka.adsndtrackify.xyz
 127.0.0.1 xameleonads.com
 127.0.0.1 xanthofin.click
 127.0.0.1 xapads.com

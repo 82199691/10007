@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-20 22:17:33
+! Last modified: 2024-09-21 09:20:15
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-20 22:17:33 ^
+!更新时间: 2024-09-21 09:20:15 ^
 
-!规则数量:28055^
+!规则数量:28070^
 !#################^
 
 ||0.r.msn.com^
@@ -5389,6 +5389,7 @@
 ||advp1.com^
 ||advp2.com^
 ||advp3.com^
+||advparvezali.com^
 ||advpic.yicha.jp^
 ||advplace.com^
 ||advpoints.com^
@@ -9133,6 +9134,7 @@
 ||chosentalladvanced.com^
 ||chris.johnli.click^
 ||christianbusinessadvertising.com^
+||christiepointadvocates.com^
 ||chronicads.com^
 ||cht.pro-activprofit.site^
 ||chubbymess.pro^
@@ -16863,6 +16865,7 @@
 ||pourloonada9.com^
 ||poutineedreallyed.pro^
 ||povaloa0.pro^
+||povvertyfocus.click^
 ||powaznekonsekwnencje.click^
 ||poweredby.jads.co^
 ||poweredby.jads.com^
@@ -17097,6 +17100,7 @@
 ||pro.program-plus.site^
 ||pro.programpro.site^
 ||pro.progrbest.top^
+||pro.progtopdep.top^
 ||pro.projorlen.site^
 ||pro.prot-rad.top^
 ||pro.stormwindstudios.com^
@@ -18486,6 +18490,7 @@
 ||rmxads.com^
 ||road2gold.site^
 ||roadshonkb.online^
+||roadsidetonationalwide.com^
 ||robet-challengemode.pro^
 ||roboczogodziny.click^
 ||robotadserver.com^
@@ -18885,6 +18890,7 @@
 ||safetysensehub.click^
 ||sag9exikyu.pro^
 ||sagging.pro^
+||sailgadvent.xyz^
 ||saintleads.autos^
 ||sakura-traffic.com^
 ||salamogolden.click^
@@ -22757,6 +22763,7 @@
 ||wow-click.click^
 ||wow.ero-advertising.com^
 ||woweffect.click^
+||wowsoul.click^
 ||wp-cdn.cityads.com^
 ||wp.viprik.pro^
 ||wp3advesting.com^
@@ -23203,6 +23210,7 @@
 ||www.advocatemy.org^
 ||www.advocatenkantoormaastricht.com^
 ||www.advocateseducationalservices.com^
+||www.advparvezali.com^
 ||www.advshaktimann.com^
 ||www.adw.ero-advertising.com^
 ||www.adwo.com^
@@ -23640,6 +23648,7 @@
 ||www.chorespoleczenstwo.click^
 ||www.chori3oiwtb.click^
 ||www.christianbusinessadvertising.com^
+||www.christiepointadvocates.com^
 ||www.chwiladoslowna.click^
 ||www.chwilagrozy.click^
 ||www.cicaryu0.pro^
@@ -25835,6 +25844,7 @@
 ||www.poufnedane.click^
 ||www.poutineedreallyed.pro^
 ||www.povaloa0.pro^
+||www.povvertyfocus.click^
 ||www.powaznekonsekwnencje.click^
 ||www.poweredbyliquidfire.mobi^
 ||www.powiadomienia24h.click^
@@ -26170,6 +26180,7 @@
 ||www.riyadh4moving.com^
 ||www.road2gold.site^
 ||www.roadshonkb.online^
+||www.roadsidetonationalwide.com^
 ||www.robet-challengemode.pro^
 ||www.roboczogodziny.click^
 ||www.robustdres.click^
@@ -26247,6 +26258,7 @@
 ||www.safetysensehub.click^
 ||www.sag9exikyu.pro^
 ||www.sagging.pro^
+||www.sailgadvent.xyz^
 ||www.salkaner-invest.pro^
 ||www.samaprawda.click^
 ||www.sameklopoty.click^
@@ -27156,6 +27168,7 @@
 ||www.worldwholenesswave.click^
 ||www.wow.ero-advertising.com^
 ||www.woweffect.click^
+||www.wowsoul.click^
 ||www.wracam.click^
 ||www.wraproads.online^
 ||www.writeadvising.com^
@@ -27259,6 +27272,7 @@
 ||www.wzorowezachowanie.click^
 ||www.x2tesla-event.pro^
 ||www.xadsmart.com^
+||www.xaka.adsndtrackify.xyz^
 ||www.xanthofin.click^
 ||www.xawofaa7.pro^
 ||www.xaxugoy5.pro^
@@ -27567,6 +27581,7 @@
 ||xads.top^
 ||xads.zedo.com^
 ||xadsmart.com^
+||xaka.adsndtrackify.xyz^
 ||xameleonads.com^
 ||xanthofin.click^
 ||xapads.com^
