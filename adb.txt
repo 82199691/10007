@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-21 09:20:15
+! Last modified: 2024-09-21 22:15:04
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-21 09:20:15 ^
+!更新时间: 2024-09-21 22:15:04 ^
 
-!规则数量:28070^
+!规则数量:28062^
 !#################^
 
 ||0.r.msn.com^
@@ -2407,6 +2407,7 @@
 ||ads.ads.netlog.com^
 ||ads.adsag.com^
 ||ads.adsbookie.com^
+||ads.adsbtc.fun^
 ||ads.adshareware.net^
 ||ads.adsinimages.com^
 ||ads.adsniper.ru^
@@ -3669,6 +3670,7 @@
 ||ads.yam.com^
 ||ads.yankscash.com^
 ||ads.yap.yahoo.com^
+||ads.yeeyi.com^
 ||ads.yenimedya.com.tr^
 ||ads.yeshanews.com^
 ||ads.yieldmo.com^
@@ -5248,6 +5250,7 @@
 ||advertisingbay.com^
 ||advertisingbox.com^
 ||advertisingcom.122.2o7.net^
+||advertisinges.com^
 ||advertisingiq.com^
 ||advertisingvalue.info^
 ||advertjunction.com^
@@ -6894,7 +6897,6 @@
 ||api-metrics.flurry.com^
 ||api-ms.cobainaja.id^
 ||api-n.outgrow.co^
-||api-panel.holesh.ir^
 ||api-player.urekamedia.com^
 ||api-proxy.bee7.com^
 ||api-public.addthis.com^
@@ -8801,7 +8803,6 @@
 ||casespolygon.pro^
 ||cash-ads.com^
 ||cash-advance.now-cash.com^
-||cashadvancesm.com^
 ||casino-ad-mediation.me2zengame.com^
 ||castlifelampar.pro^
 ||cata.ero-advertising.com^
@@ -9187,6 +9188,7 @@
 ||cl-997764a8.gcdn.co^
 ||cl-ad.x-flow.app^
 ||cladsneezesugar.com^
+||claim-oat.pro^
 ||clanpasta.click^
 ||claro-pe.click^
 ||classicguarantee.pro^
@@ -10229,7 +10231,6 @@
 ||dhads.net^
 ||dhb.amqn.pro^
 ||dhl-365.cc^
-||dhl365.click^
 ||dhss.pro^
 ||dhux7ijh.click^
 ||diadem-invest.pro^
@@ -10282,7 +10283,6 @@
 ||disadvantagenaturalistrole.com^
 ||disastrousfinal.pro^
 ||discdanot.pro^
-||discord.api.getaiai.com^
 ||discountads.net^
 ||discuz.gtimg.cn^
 ||disfiguredrough.pro^
@@ -11141,7 +11141,6 @@
 ||est-mta.b2b-mail.net^
 ||esta-feta.click^
 ||establishmoment.pro^
-||estasfeta.pro^
 ||estateplanning.dependableadvisors.cfd^
 ||et.mobadvent.com^
 ||etahub.com^
@@ -11322,7 +11321,6 @@
 ||facesue8.pro^
 ||facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com^
 ||fact.mestopoland.pro^
-||facture-ovhcloud-net-acce1ad6.darrellwoolfolk.com^
 ||fad7340612587d69b2bcf41cb5644aca.twojedom.pl^
 ||fadf3198819bf55dd24cb8d88641477b.dioprl.pl^
 ||fadf617f13.com^
@@ -11945,7 +11943,6 @@
 ||globalnepoglady.click^
 ||globalnezrodlo.click^
 ||globalsellingads.com^
-||globalvoice.mobi^
 ||globalwebads.com^
 ||globedore.click^
 ||glod-invest.pro^
@@ -12028,6 +12025,7 @@
 ||goblin.hupu.com^
 ||goboxs2.pro^
 ||goconuu1.pro^
+||godaddy-secure-manager-3ex4s.muchinmind.com^
 ||godnewiesci.click^
 ||godsadvice.com^
 ||goeco.mobi^
@@ -12062,6 +12060,7 @@
 ||goofpa.inventnamb.click^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
+||google-analytics.bi.owox.com^
 ||google-analytics.com^
 ||google-deckoffice.ml^
 ||google-docs.org^
@@ -12132,6 +12131,7 @@
 ||green-ads.net^
 ||greenads.org^
 ||greenadventura.sbs^
+||greenmortgage.pro^
 ||gremped.click^
 ||grez.fallz.click^
 ||grh-analytics.com^
@@ -14724,7 +14724,6 @@
 ||mmavew.tentaklsistem.click^
 ||mmetrix.mobi^
 ||mmg.aty.cp45.ott.cibntv.net^
-||mmm.zgdvxnf.dns-dynamic.net^
 ||mms.deadspin.com^
 ||mms2017.admaster.com.cn^
 ||mmstat.com^
@@ -15380,7 +15379,6 @@
 ||nextmetr1c.click^
 ||nextround.click^
 ||nextsphere.click^
-||nexusit.pro^
 ||nfladvancedmetrics.com^
 ||ng3.ads.warnerbros.com^
 ||ngads.com^
@@ -17442,6 +17440,7 @@
 ||pub-3e390ead569840acaffaf2acd0b66945.r2.dev^
 ||pub-3fba3571e3b04110bd32a77adc9df677.r2.dev^
 ||pub-40ad58af455047d9a464b18a5f622876.r2.dev^
+||pub-415f8cda93ad4afd81feeffd1422d486.r2.dev^
 ||pub-41f881ffc83d42f09702daada7e4f356.r2.dev^
 ||pub-42394403158b429f84327d8b7e1ad1c4.r2.dev^
 ||pub-42b627251ba440edadc80d69aff74da0.r2.dev^
@@ -17621,7 +17620,6 @@
 ||pub-85ff240107794f08ba3922a44adb6ed4.r2.dev^
 ||pub-8619f156d824422b8c2ad6d5c301a6a2.r2.dev^
 ||pub-864dd5559409407da817adb144831b51.r2.dev^
-||pub-86f5aa0413e24f2ead548f606257fc27.r2.dev^
 ||pub-8796ad4c50da4407a12b5aebb27fe64e.r2.dev^
 ||pub-879871612ca142959804d328fad0a538.r2.dev^
 ||pub-883105de8ad341fb988006e263e9639b.r2.dev^
@@ -17659,7 +17657,6 @@
 ||pub-971975baadb1419fa5e976a2683fcec1.r2.dev^
 ||pub-97a9cd9ad6ad4d14a85383cc9d883de2.r2.dev^
 ||pub-97f9f317ed874fc8833e90dfd2ecaad6.r2.dev^
-||pub-98c42f28fa0d4970b2b3e363add06985.r2.dev^
 ||pub-990006cad99f4de3ad8730a942bfa6f4.r2.dev^
 ||pub-99bd091e6a2c4184b1a4ccdad02bfeb5.r2.dev^
 ||pub-99df0f9c4d184ad08969b5ad2c32d4e3.r2.dev^
@@ -17705,7 +17702,6 @@
 ||pub-aad2f18c142742418ce7836b1f9e4e3c.r2.dev^
 ||pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev^
 ||pub-aad57319d3304755972ac561fb34d85e.r2.dev^
-||pub-aad9ac61e0be43f78e2c48f4ea5716f8.r2.dev^
 ||pub-aada93f324fb4e939d705c37fd8bcf35.r2.dev^
 ||pub-ab02cb8aa2e349fb806b48a09adf0ee1.r2.dev^
 ||pub-aba583aad1fd4f1aab5080c29165b539.r2.dev^
@@ -17833,6 +17829,7 @@
 ||pub-d35b49f7491c405e84eede6d72aad15b.r2.dev^
 ||pub-d36700b8ad954473bdd707d0ebb8317b.r2.dev^
 ||pub-d3ad9111a1124c0db1ea26aa351c113f.r2.dev^
+||pub-d3afc134827a4e0ebce18add92abe815.r2.dev^
 ||pub-d3b32c9f52e345269f23a67d30baad68.r2.dev^
 ||pub-d40801cffd7b4dc6bf2c89ea8ad5c482.r2.dev^
 ||pub-d43ad3acfa6f478a8742af16784dbbf2.r2.dev^
@@ -17854,6 +17851,7 @@
 ||pub-dad5144323dd4384b4198a74448f2cc7.r2.dev^
 ||pub-dad72a0979b2459c9203b788786108c7.r2.dev^
 ||pub-db818bdc89034d7882181dd3adb30dce.r2.dev^
+||pub-dbda51ad0e6c4796996ad9baf1e9cce9.r2.dev^
 ||pub-dc00f50f1cd84f27ace70f09dad4793d.r2.dev^
 ||pub-dc43d25f0fba4dd487756ade2a2ebe9b.r2.dev^
 ||pub-dc4ad4d9f393437ca7d416e8c47411cf.r2.dev^
@@ -18103,6 +18101,7 @@
 ||qstore.inner.api.sj.360.cn^
 ||quaint-escape.pro^
 ||qualifiedhead.pro^
+||qualityadverse.com^
 ||qualityleadskeitaro.website^
 ||quangosreynard.click^
 ||quanjing.cnzz.com^
@@ -18453,6 +18452,7 @@
 ||revive-adserver.net^
 ||revolgc.pro^
 ||revolut-check-pl.com^
+||revolvingshine.pro^
 ||revupads.com^
 ||rewelacjazyciowa.click^
 ||rexadvert.xyz^
@@ -19540,6 +19540,7 @@
 ||siodemka24h7.click^
 ||sirinlabs.pro^
 ||site.e.mi.com^
+||site.rmladv.com.br^
 ||siteadvisor.com-br.site^
 ||sitemonitor.cn.miaozhen.com^
 ||sitterning.pro^
@@ -19901,7 +19902,6 @@
 ||spreadsheetsh.top^
 ||spreadsheetsk.top^
 ||spreadsheetso.top^
-||spreadsheetsq.top^
 ||spreadsheetst.top^
 ||spreadsheetsw.top^
 ||spreadsheetsy.top^
@@ -20327,6 +20327,7 @@
 ||swiftflare.click^
 ||swingerads.com^
 ||swissadserver.ch^
+||swisspost.ch-info.pro^
 ||switchlinx.click^
 ||sworkitads.herokuapp.com^
 ||sxjfhh.montgomeryadvertiser.com^
@@ -20632,6 +20633,7 @@
 ||teletypestandingis.pro^
 ||televeniesuc.pro^
 ||telewizja-regionalna24.click^
+||telkomsel-sm.top^
 ||temai.m.taobao.com^
 ||temai.snssdk.com^
 ||temai.taobao.com^
@@ -20652,7 +20654,6 @@
 ||terazniejszosc24.click^
 ||terazpotrzebne.click^
 ||terminarze24.click^
-||terramaaiill.click^
 ||terttalkinhitin.pro^
 ||terytoriummiejskie.click^
 ||tese.activpl-pro.site^
@@ -21597,6 +21598,7 @@
 ||update-java.kit.net^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
+||update-mxtuelul4gzs-information.line.pm^
 ||update-myetherwallet.com^
 ||update-net.com^
 ||update-package.com^
@@ -21705,6 +21707,7 @@
 ||us-usps-adsfc.xyz^
 ||us-usps-mi.top^
 ||us-usps-uc.top^
+||us-usps-wadsg.xyz^
 ||us-west-2.ecs.mb.moatads.com^
 ||us-west-2.prod.pr.analytics.console.aws.a2z.com^
 ||us-west-2.stinger-ad.bidr.io^
@@ -22925,7 +22928,6 @@
 ||www.2345.com^
 ||www.24-news.pro^
 ||www.2661077480949d8d0e48af1ad6801366.dirks.pl^
-||www.27b80bad17698e51cce9c5b4a92a802c.presuyw.pl^
 ||www.2baners.ero-advertising.com^
 ||www.2ds.ero-advertising.com^
 ||www.2fbanners.ero-advertising.com^
@@ -23182,7 +23184,6 @@
 ||www.adventurefeeds.com^
 ||www.adventurejourney.cfd^
 ||www.adventuresbest.com^
-||www.adventuresofskip.com^
 ||www.adventuresymboled.pro^
 ||www.adventurgequest.biz^
 ||www.adventurousjourney.site^
@@ -23481,7 +23482,6 @@
 ||www.bluflinginvest.pro^
 ||www.blurr31lqyr.click^
 ||www.blurrmqlqyr.click^
-||www.bmev6y4x1uby.ad-operations-streamline.sbs^
 ||www.bnp-partner.com^
 ||www.bodziecruchu.click^
 ||www.boldoczesny.click^
@@ -23547,7 +23547,6 @@
 ||www.bycotyi4.pro^
 ||www.byctunazawsze.click^
 ||www.bytcjaksoni.click^
-||www.c12370271c5498caad5d.wwwcentrum24-pl.es^
 ||www.c5d1f04b310fffcee5ad5743322729ce.puoli.pl^
 ||www.c79963dc6b2fc95211e64476cad41d8d.vistvx.pl^
 ||www.ca-info.pro^
@@ -23665,7 +23664,6 @@
 ||www.ciezkopomyslec.click^
 ||www.cigezeyhye.pro^
 ||www.cigurae9.pro^
-||www.cisacadvisory.com^
 ||www.cisco-analytics.com^
 ||www.cityads.com^
 ||www.clanpasta.click^
@@ -23718,7 +23716,6 @@
 ||www.cool-downloads.com^
 ||www.cool-downloads.net^
 ||www.coplerni.click^
-||www.corp-sg.com^
 ||www.cosmicadventures.tech^
 ||www.cosmiccascadecam.click^
 ||www.coughat.pro^
@@ -23746,7 +23743,6 @@
 ||www.cs2lucky.pro^
 ||www.cs2take.pro^
 ||www.cs2wincase.pro^
-||www.csmney.pro^
 ||www.cujyfai0ue1.pro^
 ||www.cumuluscrest.click^
 ||www.currentrealtimestories.click^
@@ -24865,7 +24861,6 @@
 ||www.kutusieigia.pro^
 ||www.kwalifikacja24h.click^
 ||www.kybapaa5.pro^
-||www.kyc-update-info.com^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.l11ade1shi11rs.site^
@@ -25928,7 +25923,6 @@
 ||www.pro.cn^
 ||www.pro.endiim.com^
 ||www.pro.hyphabit.io^
-||www.pro.woltar.live^
 ||www.proadscdn.com^
 ||www.problematycznezdarzenie.click^
 ||www.prodirectlink.click^
@@ -26650,7 +26644,6 @@
 ||www.talkingdata.com^
 ||www.tamilmoviedownloads.com^
 ||www.tauronhub.pro^
-||www.tbsolarleads.com^
 ||www.tcm.optica.ero-advertising.com^
 ||www.teaching-condo-webs.click^
 ||www.teamadvertise.info^
@@ -26798,7 +26791,6 @@
 ||www.tricnisrst.pro^
 ||www.tripadvisor-pre-approved-6e38-4cb0-b949-b075e4a10b96.leomni.cfd^
 ||www.tripadvisor.com1.foo^
-||www.tripadvisor.es398651822-l9014310.com^
 ||www.triplecable.click^
 ||www.troadsecow.com^
 ||www.trokloninvest.pro^

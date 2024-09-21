@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-21 09:20:12 
+#更新时间: 2024-09-21 22:15:01 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28104
+#规则数量:28096
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -2410,6 +2410,7 @@
 127.0.0.1 ads.ads.netlog.com
 127.0.0.1 ads.adsag.com
 127.0.0.1 ads.adsbookie.com
+127.0.0.1 ads.adsbtc.fun
 127.0.0.1 ads.adshareware.net
 127.0.0.1 ads.adsinimages.com
 127.0.0.1 ads.adsniper.ru
@@ -3672,6 +3673,7 @@
 127.0.0.1 ads.yam.com
 127.0.0.1 ads.yankscash.com
 127.0.0.1 ads.yap.yahoo.com
+127.0.0.1 ads.yeeyi.com
 127.0.0.1 ads.yenimedya.com.tr
 127.0.0.1 ads.yeshanews.com
 127.0.0.1 ads.yieldmo.com
@@ -5251,6 +5253,7 @@
 127.0.0.1 advertisingbay.com
 127.0.0.1 advertisingbox.com
 127.0.0.1 advertisingcom.122.2o7.net
+127.0.0.1 advertisinges.com
 127.0.0.1 advertisingiq.com
 127.0.0.1 advertisingvalue.info
 127.0.0.1 advertjunction.com
@@ -6897,7 +6900,6 @@
 127.0.0.1 api-metrics.flurry.com
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api-n.outgrow.co
-127.0.0.1 api-panel.holesh.ir
 127.0.0.1 api-player.urekamedia.com
 127.0.0.1 api-proxy.bee7.com
 127.0.0.1 api-public.addthis.com
@@ -8804,7 +8806,6 @@
 127.0.0.1 casespolygon.pro
 127.0.0.1 cash-ads.com
 127.0.0.1 cash-advance.now-cash.com
-127.0.0.1 cashadvancesm.com
 127.0.0.1 casino-ad-mediation.me2zengame.com
 127.0.0.1 castlifelampar.pro
 127.0.0.1 cata.ero-advertising.com
@@ -9190,6 +9191,7 @@
 127.0.0.1 cl-997764a8.gcdn.co
 127.0.0.1 cl-ad.x-flow.app
 127.0.0.1 cladsneezesugar.com
+127.0.0.1 claim-oat.pro
 127.0.0.1 clanpasta.click
 127.0.0.1 claro-pe.click
 127.0.0.1 classicguarantee.pro
@@ -10232,7 +10234,6 @@
 127.0.0.1 dhads.net
 127.0.0.1 dhb.amqn.pro
 127.0.0.1 dhl-365.cc
-127.0.0.1 dhl365.click
 127.0.0.1 dhss.pro
 127.0.0.1 dhux7ijh.click
 127.0.0.1 diadem-invest.pro
@@ -10285,7 +10286,6 @@
 127.0.0.1 disadvantagenaturalistrole.com
 127.0.0.1 disastrousfinal.pro
 127.0.0.1 discdanot.pro
-127.0.0.1 discord.api.getaiai.com
 127.0.0.1 discountads.net
 127.0.0.1 discuz.gtimg.cn
 127.0.0.1 disfiguredrough.pro
@@ -11144,7 +11144,6 @@
 127.0.0.1 est-mta.b2b-mail.net
 127.0.0.1 esta-feta.click
 127.0.0.1 establishmoment.pro
-127.0.0.1 estasfeta.pro
 127.0.0.1 estateplanning.dependableadvisors.cfd
 127.0.0.1 et.mobadvent.com
 127.0.0.1 etahub.com
@@ -11325,7 +11324,6 @@
 127.0.0.1 facesue8.pro
 127.0.0.1 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 127.0.0.1 fact.mestopoland.pro
-127.0.0.1 facture-ovhcloud-net-acce1ad6.darrellwoolfolk.com
 127.0.0.1 fad7340612587d69b2bcf41cb5644aca.twojedom.pl
 127.0.0.1 fadf3198819bf55dd24cb8d88641477b.dioprl.pl
 127.0.0.1 fadf617f13.com
@@ -11948,7 +11946,6 @@
 127.0.0.1 globalnepoglady.click
 127.0.0.1 globalnezrodlo.click
 127.0.0.1 globalsellingads.com
-127.0.0.1 globalvoice.mobi
 127.0.0.1 globalwebads.com
 127.0.0.1 globedore.click
 127.0.0.1 glod-invest.pro
@@ -12031,6 +12028,7 @@
 127.0.0.1 goblin.hupu.com
 127.0.0.1 goboxs2.pro
 127.0.0.1 goconuu1.pro
+127.0.0.1 godaddy-secure-manager-3ex4s.muchinmind.com
 127.0.0.1 godnewiesci.click
 127.0.0.1 godsadvice.com
 127.0.0.1 goeco.mobi
@@ -12065,6 +12063,7 @@
 127.0.0.1 goofpa.inventnamb.click
 127.0.0.1 google-ads.hara.vn
 127.0.0.1 google-analytics-cn.com
+127.0.0.1 google-analytics.bi.owox.com
 127.0.0.1 google-analytics.com
 127.0.0.1 google-deckoffice.ml
 127.0.0.1 google-docs.org
@@ -12135,6 +12134,7 @@
 127.0.0.1 green-ads.net
 127.0.0.1 greenads.org
 127.0.0.1 greenadventura.sbs
+127.0.0.1 greenmortgage.pro
 127.0.0.1 gremped.click
 127.0.0.1 grez.fallz.click
 127.0.0.1 grh-analytics.com
@@ -14727,7 +14727,6 @@
 127.0.0.1 mmavew.tentaklsistem.click
 127.0.0.1 mmetrix.mobi
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 mmm.zgdvxnf.dns-dynamic.net
 127.0.0.1 mms.deadspin.com
 127.0.0.1 mms2017.admaster.com.cn
 127.0.0.1 mmstat.com
@@ -15383,7 +15382,6 @@
 127.0.0.1 nextmetr1c.click
 127.0.0.1 nextround.click
 127.0.0.1 nextsphere.click
-127.0.0.1 nexusit.pro
 127.0.0.1 nfladvancedmetrics.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngads.com
@@ -17445,6 +17443,7 @@
 127.0.0.1 pub-3e390ead569840acaffaf2acd0b66945.r2.dev
 127.0.0.1 pub-3fba3571e3b04110bd32a77adc9df677.r2.dev
 127.0.0.1 pub-40ad58af455047d9a464b18a5f622876.r2.dev
+127.0.0.1 pub-415f8cda93ad4afd81feeffd1422d486.r2.dev
 127.0.0.1 pub-41f881ffc83d42f09702daada7e4f356.r2.dev
 127.0.0.1 pub-42394403158b429f84327d8b7e1ad1c4.r2.dev
 127.0.0.1 pub-42b627251ba440edadc80d69aff74da0.r2.dev
@@ -17624,7 +17623,6 @@
 127.0.0.1 pub-85ff240107794f08ba3922a44adb6ed4.r2.dev
 127.0.0.1 pub-8619f156d824422b8c2ad6d5c301a6a2.r2.dev
 127.0.0.1 pub-864dd5559409407da817adb144831b51.r2.dev
-127.0.0.1 pub-86f5aa0413e24f2ead548f606257fc27.r2.dev
 127.0.0.1 pub-8796ad4c50da4407a12b5aebb27fe64e.r2.dev
 127.0.0.1 pub-879871612ca142959804d328fad0a538.r2.dev
 127.0.0.1 pub-883105de8ad341fb988006e263e9639b.r2.dev
@@ -17662,7 +17660,6 @@
 127.0.0.1 pub-971975baadb1419fa5e976a2683fcec1.r2.dev
 127.0.0.1 pub-97a9cd9ad6ad4d14a85383cc9d883de2.r2.dev
 127.0.0.1 pub-97f9f317ed874fc8833e90dfd2ecaad6.r2.dev
-127.0.0.1 pub-98c42f28fa0d4970b2b3e363add06985.r2.dev
 127.0.0.1 pub-990006cad99f4de3ad8730a942bfa6f4.r2.dev
 127.0.0.1 pub-99bd091e6a2c4184b1a4ccdad02bfeb5.r2.dev
 127.0.0.1 pub-99df0f9c4d184ad08969b5ad2c32d4e3.r2.dev
@@ -17708,7 +17705,6 @@
 127.0.0.1 pub-aad2f18c142742418ce7836b1f9e4e3c.r2.dev
 127.0.0.1 pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev
 127.0.0.1 pub-aad57319d3304755972ac561fb34d85e.r2.dev
-127.0.0.1 pub-aad9ac61e0be43f78e2c48f4ea5716f8.r2.dev
 127.0.0.1 pub-aada93f324fb4e939d705c37fd8bcf35.r2.dev
 127.0.0.1 pub-ab02cb8aa2e349fb806b48a09adf0ee1.r2.dev
 127.0.0.1 pub-aba583aad1fd4f1aab5080c29165b539.r2.dev
@@ -17836,6 +17832,7 @@
 127.0.0.1 pub-d35b49f7491c405e84eede6d72aad15b.r2.dev
 127.0.0.1 pub-d36700b8ad954473bdd707d0ebb8317b.r2.dev
 127.0.0.1 pub-d3ad9111a1124c0db1ea26aa351c113f.r2.dev
+127.0.0.1 pub-d3afc134827a4e0ebce18add92abe815.r2.dev
 127.0.0.1 pub-d3b32c9f52e345269f23a67d30baad68.r2.dev
 127.0.0.1 pub-d40801cffd7b4dc6bf2c89ea8ad5c482.r2.dev
 127.0.0.1 pub-d43ad3acfa6f478a8742af16784dbbf2.r2.dev
@@ -17857,6 +17854,7 @@
 127.0.0.1 pub-dad5144323dd4384b4198a74448f2cc7.r2.dev
 127.0.0.1 pub-dad72a0979b2459c9203b788786108c7.r2.dev
 127.0.0.1 pub-db818bdc89034d7882181dd3adb30dce.r2.dev
+127.0.0.1 pub-dbda51ad0e6c4796996ad9baf1e9cce9.r2.dev
 127.0.0.1 pub-dc00f50f1cd84f27ace70f09dad4793d.r2.dev
 127.0.0.1 pub-dc43d25f0fba4dd487756ade2a2ebe9b.r2.dev
 127.0.0.1 pub-dc4ad4d9f393437ca7d416e8c47411cf.r2.dev
@@ -18106,6 +18104,7 @@
 127.0.0.1 qstore.inner.api.sj.360.cn
 127.0.0.1 quaint-escape.pro
 127.0.0.1 qualifiedhead.pro
+127.0.0.1 qualityadverse.com
 127.0.0.1 qualityleadskeitaro.website
 127.0.0.1 quangosreynard.click
 127.0.0.1 quanjing.cnzz.com
@@ -18456,6 +18455,7 @@
 127.0.0.1 revive-adserver.net
 127.0.0.1 revolgc.pro
 127.0.0.1 revolut-check-pl.com
+127.0.0.1 revolvingshine.pro
 127.0.0.1 revupads.com
 127.0.0.1 rewelacjazyciowa.click
 127.0.0.1 rexadvert.xyz
@@ -19543,6 +19543,7 @@
 127.0.0.1 siodemka24h7.click
 127.0.0.1 sirinlabs.pro
 127.0.0.1 site.e.mi.com
+127.0.0.1 site.rmladv.com.br
 127.0.0.1 siteadvisor.com-br.site
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sitterning.pro
@@ -19904,7 +19905,6 @@
 127.0.0.1 spreadsheetsh.top
 127.0.0.1 spreadsheetsk.top
 127.0.0.1 spreadsheetso.top
-127.0.0.1 spreadsheetsq.top
 127.0.0.1 spreadsheetst.top
 127.0.0.1 spreadsheetsw.top
 127.0.0.1 spreadsheetsy.top
@@ -20330,6 +20330,7 @@
 127.0.0.1 swiftflare.click
 127.0.0.1 swingerads.com
 127.0.0.1 swissadserver.ch
+127.0.0.1 swisspost.ch-info.pro
 127.0.0.1 switchlinx.click
 127.0.0.1 sworkitads.herokuapp.com
 127.0.0.1 sxjfhh.montgomeryadvertiser.com
@@ -20635,6 +20636,7 @@
 127.0.0.1 teletypestandingis.pro
 127.0.0.1 televeniesuc.pro
 127.0.0.1 telewizja-regionalna24.click
+127.0.0.1 telkomsel-sm.top
 127.0.0.1 temai.m.taobao.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 temai.taobao.com
@@ -20655,7 +20657,6 @@
 127.0.0.1 terazniejszosc24.click
 127.0.0.1 terazpotrzebne.click
 127.0.0.1 terminarze24.click
-127.0.0.1 terramaaiill.click
 127.0.0.1 terttalkinhitin.pro
 127.0.0.1 terytoriummiejskie.click
 127.0.0.1 tese.activpl-pro.site
@@ -21600,6 +21601,7 @@
 127.0.0.1 update-java.kit.net
 127.0.0.1 update-mac.com
 127.0.0.1 update-managepymntsupportintlapps.unusa.pk
+127.0.0.1 update-mxtuelul4gzs-information.line.pm
 127.0.0.1 update-myetherwallet.com
 127.0.0.1 update-net.com
 127.0.0.1 update-package.com
@@ -21708,6 +21710,7 @@
 127.0.0.1 us-usps-adsfc.xyz
 127.0.0.1 us-usps-mi.top
 127.0.0.1 us-usps-uc.top
+127.0.0.1 us-usps-wadsg.xyz
 127.0.0.1 us-west-2.ecs.mb.moatads.com
 127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
 127.0.0.1 us-west-2.stinger-ad.bidr.io
@@ -22928,7 +22931,6 @@
 127.0.0.1 www.2345.com
 127.0.0.1 www.24-news.pro
 127.0.0.1 www.2661077480949d8d0e48af1ad6801366.dirks.pl
-127.0.0.1 www.27b80bad17698e51cce9c5b4a92a802c.presuyw.pl
 127.0.0.1 www.2baners.ero-advertising.com
 127.0.0.1 www.2ds.ero-advertising.com
 127.0.0.1 www.2fbanners.ero-advertising.com
@@ -23185,7 +23187,6 @@
 127.0.0.1 www.adventurefeeds.com
 127.0.0.1 www.adventurejourney.cfd
 127.0.0.1 www.adventuresbest.com
-127.0.0.1 www.adventuresofskip.com
 127.0.0.1 www.adventuresymboled.pro
 127.0.0.1 www.adventurgequest.biz
 127.0.0.1 www.adventurousjourney.site
@@ -23484,7 +23485,6 @@
 127.0.0.1 www.bluflinginvest.pro
 127.0.0.1 www.blurr31lqyr.click
 127.0.0.1 www.blurrmqlqyr.click
-127.0.0.1 www.bmev6y4x1uby.ad-operations-streamline.sbs
 127.0.0.1 www.bnp-partner.com
 127.0.0.1 www.bodziecruchu.click
 127.0.0.1 www.boldoczesny.click
@@ -23550,7 +23550,6 @@
 127.0.0.1 www.bycotyi4.pro
 127.0.0.1 www.byctunazawsze.click
 127.0.0.1 www.bytcjaksoni.click
-127.0.0.1 www.c12370271c5498caad5d.wwwcentrum24-pl.es
 127.0.0.1 www.c5d1f04b310fffcee5ad5743322729ce.puoli.pl
 127.0.0.1 www.c79963dc6b2fc95211e64476cad41d8d.vistvx.pl
 127.0.0.1 www.ca-info.pro
@@ -23668,7 +23667,6 @@
 127.0.0.1 www.ciezkopomyslec.click
 127.0.0.1 www.cigezeyhye.pro
 127.0.0.1 www.cigurae9.pro
-127.0.0.1 www.cisacadvisory.com
 127.0.0.1 www.cisco-analytics.com
 127.0.0.1 www.cityads.com
 127.0.0.1 www.clanpasta.click
@@ -23721,7 +23719,6 @@
 127.0.0.1 www.cool-downloads.com
 127.0.0.1 www.cool-downloads.net
 127.0.0.1 www.coplerni.click
-127.0.0.1 www.corp-sg.com
 127.0.0.1 www.cosmicadventures.tech
 127.0.0.1 www.cosmiccascadecam.click
 127.0.0.1 www.coughat.pro
@@ -23749,7 +23746,6 @@
 127.0.0.1 www.cs2lucky.pro
 127.0.0.1 www.cs2take.pro
 127.0.0.1 www.cs2wincase.pro
-127.0.0.1 www.csmney.pro
 127.0.0.1 www.cujyfai0ue1.pro
 127.0.0.1 www.cumuluscrest.click
 127.0.0.1 www.currentrealtimestories.click
@@ -24868,7 +24864,6 @@
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 www.kwalifikacja24h.click
 127.0.0.1 www.kybapaa5.pro
-127.0.0.1 www.kyc-update-info.com
 127.0.0.1 www.kynugeo9.pro
 127.0.0.1 www.l-news.click
 127.0.0.1 www.l11ade1shi11rs.site
@@ -25931,7 +25926,6 @@
 127.0.0.1 www.pro.cn
 127.0.0.1 www.pro.endiim.com
 127.0.0.1 www.pro.hyphabit.io
-127.0.0.1 www.pro.woltar.live
 127.0.0.1 www.proadscdn.com
 127.0.0.1 www.problematycznezdarzenie.click
 127.0.0.1 www.prodirectlink.click
@@ -26653,7 +26647,6 @@
 127.0.0.1 www.talkingdata.com
 127.0.0.1 www.tamilmoviedownloads.com
 127.0.0.1 www.tauronhub.pro
-127.0.0.1 www.tbsolarleads.com
 127.0.0.1 www.tcm.optica.ero-advertising.com
 127.0.0.1 www.teaching-condo-webs.click
 127.0.0.1 www.teamadvertise.info
@@ -26801,7 +26794,6 @@
 127.0.0.1 www.tricnisrst.pro
 127.0.0.1 www.tripadvisor-pre-approved-6e38-4cb0-b949-b075e4a10b96.leomni.cfd
 127.0.0.1 www.tripadvisor.com1.foo
-127.0.0.1 www.tripadvisor.es398651822-l9014310.com
 127.0.0.1 www.triplecable.click
 127.0.0.1 www.troadsecow.com
 127.0.0.1 www.trokloninvest.pro
