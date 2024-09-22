@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-22 02:22:45 
+#更新时间: 2024-09-22 09:35:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:28096
+#规则数量:28104
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -6934,6 +6934,7 @@
 127.0.0.1 api.33beta.com
 127.0.0.1 api.3650022.com
 127.0.0.1 api.448kbet.com
+127.0.0.1 api.52kkg.com
 127.0.0.1 api.53.localytics.com
 127.0.0.1 api.558kbet.com
 127.0.0.1 api.7017k.com
@@ -14485,6 +14486,7 @@
 127.0.0.1 meantimealuminumas.pro
 127.0.0.1 meantimeheirloomed.pro
 127.0.0.1 measlyglove.pro
+127.0.0.1 mebugay3.pro
 127.0.0.1 meczacydzien.click
 127.0.0.1 meczarniadziecka.click
 127.0.0.1 med-api.admost.com
@@ -15024,6 +15026,7 @@
 127.0.0.1 munion.mediav.com
 127.0.0.1 mupads.de
 127.0.0.1 muqoquy0.pro
+127.0.0.1 muqudyo7.pro
 127.0.0.1 murad123.com
 127.0.0.1 muriroi7.pro
 127.0.0.1 muscatscurls.click
@@ -21599,6 +21602,7 @@
 127.0.0.1 update-information.zzux.com
 127.0.0.1 update-it-now.com
 127.0.0.1 update-java.kit.net
+127.0.0.1 update-ledger.net
 127.0.0.1 update-mac.com
 127.0.0.1 update-managepymntsupportintlapps.unusa.pk
 127.0.0.1 update-mxtuelul4gzs-information.line.pm
@@ -25043,6 +25047,7 @@
 127.0.0.1 www.me-bu.pro
 127.0.0.1 www.meantimealuminumas.pro
 127.0.0.1 www.meantimeheirloomed.pro
+127.0.0.1 www.mebugay3.pro
 127.0.0.1 www.meczacydzien.click
 127.0.0.1 www.meczarniadziecka.click
 127.0.0.1 www.medialnyszum.click
@@ -25188,6 +25193,7 @@
 127.0.0.1 www.multimediainfo.click
 127.0.0.1 www.multumludzi.click
 127.0.0.1 www.muqoquy0.pro
+127.0.0.1 www.muqudyo7.pro
 127.0.0.1 www.muriroi7.pro
 127.0.0.1 www.musclepast.click
 127.0.0.1 www.musimyuwazac.click
@@ -27272,6 +27278,7 @@
 127.0.0.1 www.xawofaa7.pro
 127.0.0.1 www.xaxugoy5.pro
 127.0.0.1 www.xebecrounds.click
+127.0.0.1 www.xege.adsndtrackify.xyz
 127.0.0.1 www.xeromlike.pro
 127.0.0.1 www.xetrep.click
 127.0.0.1 www.xg.xbtk.lat
@@ -27592,6 +27599,7 @@
 127.0.0.1 xdrig.com
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 xebecrounds.click
+127.0.0.1 xege.adsndtrackify.xyz
 127.0.0.1 xeromlike.pro
 127.0.0.1 xetrep.click
 127.0.0.1 xg-hacks.com

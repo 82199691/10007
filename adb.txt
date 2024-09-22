@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-22 02:22:49
+! Last modified: 2024-09-22 09:35:34
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-22 02:22:49 ^
+!更新时间: 2024-09-22 09:35:34 ^
 
-!规则数量:28062^
+!规则数量:28070^
 !#################^
 
 ||0.r.msn.com^
@@ -6931,6 +6931,7 @@
 ||api.33beta.com^
 ||api.3650022.com^
 ||api.448kbet.com^
+||api.52kkg.com^
 ||api.53.localytics.com^
 ||api.558kbet.com^
 ||api.7017k.com^
@@ -14482,6 +14483,7 @@
 ||meantimealuminumas.pro^
 ||meantimeheirloomed.pro^
 ||measlyglove.pro^
+||mebugay3.pro^
 ||meczacydzien.click^
 ||meczarniadziecka.click^
 ||med-api.admost.com^
@@ -15021,6 +15023,7 @@
 ||munion.mediav.com^
 ||mupads.de^
 ||muqoquy0.pro^
+||muqudyo7.pro^
 ||murad123.com^
 ||muriroi7.pro^
 ||muscatscurls.click^
@@ -21596,6 +21599,7 @@
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
+||update-ledger.net^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
 ||update-mxtuelul4gzs-information.line.pm^
@@ -25040,6 +25044,7 @@
 ||www.me-bu.pro^
 ||www.meantimealuminumas.pro^
 ||www.meantimeheirloomed.pro^
+||www.mebugay3.pro^
 ||www.meczacydzien.click^
 ||www.meczarniadziecka.click^
 ||www.medialnyszum.click^
@@ -25185,6 +25190,7 @@
 ||www.multimediainfo.click^
 ||www.multumludzi.click^
 ||www.muqoquy0.pro^
+||www.muqudyo7.pro^
 ||www.muriroi7.pro^
 ||www.musclepast.click^
 ||www.musimyuwazac.click^
@@ -27269,6 +27275,7 @@
 ||www.xawofaa7.pro^
 ||www.xaxugoy5.pro^
 ||www.xebecrounds.click^
+||www.xege.adsndtrackify.xyz^
 ||www.xeromlike.pro^
 ||www.xetrep.click^
 ||www.xg.xbtk.lat^
@@ -27589,6 +27596,7 @@
 ||xdrig.com^
 ||xdssp.mediav.com^
 ||xebecrounds.click^
+||xege.adsndtrackify.xyz^
 ||xeromlike.pro^
 ||xetrep.click^
 ||xg-hacks.com^
