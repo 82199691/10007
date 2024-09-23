@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-09-22 22:15:26 
+#更新时间: 2024-09-23 09:23:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25806
+#规则数量:25814
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -666,6 +666,7 @@
 127.0.0.1 abaskpoverty.click
 127.0.0.1 abbee.now-dns.net
 127.0.0.1 abc-ads.com
+127.0.0.1 abfead52971e9fac92658d14e2240c47.anielabozena.pl
 127.0.0.1 ablestsigma.click
 127.0.0.1 ablink.click.depop.com
 127.0.0.1 aboutads.quantcast.com
@@ -12966,6 +12967,7 @@
 127.0.0.1 inpost.sedanoxo.click
 127.0.0.1 inpost24.pl.rtuyimads.shop
 127.0.0.1 inposta.click
+127.0.0.1 inpostlogistyka.dns.army
 127.0.0.1 inpostpl.512zasatq.pro
 127.0.0.1 inpostpl.cxzkkjjh6-11.pro
 127.0.0.1 inpostpl.es068647839159.click
@@ -13008,6 +13010,7 @@
 127.0.0.1 inpostps.click
 127.0.0.1 inposts-uc.top
 127.0.0.1 inposts.pro
+127.0.0.1 inpostsecure.dns.army
 127.0.0.1 inpostt.click
 127.0.0.1 insecurepaint.pro
 127.0.0.1 insider-pro.online
@@ -15782,6 +15785,7 @@
 127.0.0.1 olx.pl.dostawa.pro
 127.0.0.1 olx.pl.oferta-payment.pro
 127.0.0.1 olx.polska-dastawka.pro
+127.0.0.1 olx.pro-redirect.shop
 127.0.0.1 olx.retrograde9.space
 127.0.0.1 omawiamywypadek.click
 127.0.0.1 omes-sec.heytapmobile.com
@@ -22931,6 +22935,7 @@
 127.0.0.1 www.aam.bartoszews.pro
 127.0.0.1 www.aata.ero-advertising.com
 127.0.0.1 www.ab3aad2010.com
+127.0.0.1 www.abfead52971e9fac92658d14e2240c47.anielabozena.pl
 127.0.0.1 www.abroad-advisors.com
 127.0.0.1 www.abtd-txt.click
 127.0.0.1 www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml
@@ -23938,7 +23943,9 @@
 127.0.0.1 www.inpost-polska-wx.order9351.info
 127.0.0.1 www.inpost.id912831.pro
 127.0.0.1 www.inpost.noon-com.click
+127.0.0.1 www.inpostlogistyka.dns.army
 127.0.0.1 www.inpostps.click
+127.0.0.1 www.inpostsecure.dns.army
 127.0.0.1 www.inpostt.click
 127.0.0.1 www.intellectcapital.pro
 127.0.0.1 www.interia-support.check-domain.online
@@ -24314,6 +24321,7 @@
 127.0.0.1 www.olx.ads-public-worlds.shop
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
+127.0.0.1 www.olx.pro-redirect.shop
 127.0.0.1 www.onel-pol.click
 127.0.0.1 www.onet-news.click
 127.0.0.1 www.onlinedownloads.org
