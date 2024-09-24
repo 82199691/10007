@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-24 09:23:51
+! Last modified: 2024-09-24 14:25:44
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-24 09:23:51 ^
+!更新时间: 2024-09-24 14:25:44 ^
 
-!规则数量:25814^
+!规则数量:25853^
 !#################^
 
 ||0.r.msn.com^
@@ -71,7 +71,6 @@
 ||11.advizion.org^
 ||1105hofanoe4.pro^
 ||1109cygipeta4.pro^
-||1111365.pro^
 ||118ad81b2a58b54a18825dc8d8988395.watchdene.pl^
 ||11a5ade414a6a4b9969685db9e96b193.com^
 ||11bet.mobi^
@@ -256,6 +255,7 @@
 ||360dianjing.agrantsem.com^
 ||360fenxi.mediav.com^
 ||360popads.com^
+||365.915sj1.xyz^
 ||3657fe52a193853bad36e839b2e8316c.urils.pl^
 ||365win.pro^
 ||3681288bd39c31d0f8de.goonlinebnparibas-pl.click^
@@ -699,6 +699,7 @@
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
 ||account.1192360.sitamet.click^
+||account.coordinatoins.click^
 ||accountant.trade2022.quest^
 ||accounts-google-signin-identifier.immasterygiveaway.com^
 ||accounts-google.no9.cc^
@@ -4536,6 +4537,7 @@
 ||adsfs.oppomobile.com^
 ||adsfundi.com^
 ||adsfuse.com^
+||adsgamer.com^
 ||adsgard.aprod.scopely.io^
 ||adsgen.bangbros.com^
 ||adsgid.com^
@@ -4618,6 +4620,7 @@
 ||adsm.soush.com^
 ||adsmansion.com^
 ||adsmarket.com^
+||adsmarketer.in^
 ||adsmart.co.uk^
 ||adsmart.com^
 ||adsmart.hk^
@@ -5110,6 +5113,7 @@
 ||adventuredge.com^
 ||adventuredigital.co.il^
 ||adventurefeeds.com^
+||adventurefishinggear.com^
 ||adventurejourney.cfd^
 ||adventureparkcostarica.com^
 ||adventurerarmory.com^
@@ -7349,6 +7353,7 @@
 ||api.optnmnstr.com^
 ||api.otherlevels.com^
 ||api.ozui.vn^
+||api.palpita.net^
 ||api.par.vip.prod.criteo.com^
 ||api.parse.com^
 ||api.parsely.com^
@@ -9585,6 +9590,7 @@
 ||commanzibw.click^
 ||commbank-info-update.com^
 ||commercial-i30.com^
+||commercial-vip.top^
 ||commercial.davey.com^
 ||commercial.daznservices.com^
 ||commercial.equifax.com^
@@ -11031,6 +11037,7 @@
 ||elonxx.projectprog.click^
 ||eloqua.petchem-update.com^
 ||elqtracking.justadviser.com^
+||elymusyomin.click^
 ||elysianelmcam.click^
 ||elzbieta.everadpro.click^
 ||em.baidu.com^
@@ -11086,6 +11093,7 @@
 ||enigmnaesenceonline.click^
 ||enjoydownloads.com^
 ||enlightenedworldsail.click^
+||enlinea.bankingalicia.click^
 ||enormous-society.pro^
 ||enormouswar.pro^
 ||entertainment.msn.us.intellitxt.com^
@@ -11131,6 +11139,7 @@
 ||es.ero-advertising.com^
 ||escada01.webtrekk.net^
 ||escortlist.pro^
+||esidemen-fad218.ingress-haven.ewp.live^
 ||esla.interfoxprog.click^
 ||eslisorchenet.click^
 ||eslnd.click^
@@ -11670,6 +11679,7 @@
 ||frostdailyis.pro^
 ||frostnsullivan.advancedtech.com^
 ||frosty-criticism.pro^
+||frostyimposingsphere.pro^
 ||frs.fvbgtyhnju87y.dns-dynamic.net^
 ||fruklon-invest.pro^
 ||frwrz661fasv.l4.adsco.re^
@@ -13639,6 +13649,7 @@
 ||l11ade1shi11rs.site^
 ||l2.l.qq.com^
 ||l6urqh27.sina.cn^
+||l78mazda.click^
 ||labanquepostale.jupiter-analytics.com^
 ||lacunads.com^
 ||ladsabs.com^
@@ -14619,6 +14630,7 @@
 ||mi.miliboo.es^
 ||mi.miliboo.it^
 ||mi.miliboo.lu^
+||mi.nwmw.skin^
 ||mi.pattprog.online^
 ||mi.rpss-esp.xyz^
 ||mi.thardeu.site^
@@ -14911,6 +14923,7 @@
 ||mouads.com^
 ||mouesdefaces.click^
 ||mountain.zhidao.baidu.com^
+||mountainmajestydomains.click^
 ||moveyam.click^
 ||moviead55.ru^
 ||movieads.ero-advertising.com^
@@ -16219,7 +16232,9 @@
 ||padssup.com^
 ||padsthai.com^
 ||padstm.com^
+||padsw.polaeva.fun^
 ||padv.co.il^
+||pafo.adsndtrackify.xyz^
 ||page-help.case3-violation.click^
 ||pagead-googlehosted.l.google.com^
 ||pagead.googlesyndication.com^
@@ -16611,6 +16626,7 @@
 ||playroommeantimesyndromeas.pro^
 ||playtest-api.topaz-analytics.com^
 ||plbslog.umeng.com^
+||plconnectpost.dns.army^
 ||pleadsbox.com^
 ||pleasingrest.pro^
 ||pleasureedgardeniaes.pro^
@@ -16793,6 +16809,7 @@
 ||positive-ads.com^
 ||post-ad.info^
 ||post-corp.cc^
+||post-corp.me^
 ||post-e.pro^
 ||post.update.fbsbx.com^
 ||post1.voiceads.cn^
@@ -17104,7 +17121,6 @@
 ||pro.teraw.site^
 ||pro.topprogit.xyz^
 ||pro.tsmask-unlim.xyz^
-||pro.twrectify.com^
 ||pro.vuigiaitri.org^
 ||pro.waonlineprogram.top^
 ||pro.winciw.site^
@@ -19895,7 +19911,6 @@
 ||spreadsheetsf.top^
 ||spreadsheetsg.top^
 ||spreadsheetsh.top^
-||spreadsheetsk.top^
 ||spreadsheetso.top^
 ||spreadsheetst.top^
 ||spreadsheetsw.top^
@@ -20538,6 +20553,7 @@
 ||tamada69.com^
 ||tamdamads.com^
 ||tamilmoviedownloads.com^
+||tanagersavor.click^
 ||tangram.e.qq.com^
 ||tangsrimery.click^
 ||tankahuncoked.click^
@@ -21201,6 +21217,7 @@
 ||trc.adsage.com^
 ||trck.go.emoneyadvisor.com^
 ||trd.partnereffect.pro^
+||trejent.wantaolej.pro^
 ||trendads.reactivebetting.com^
 ||trends.mobile.sina.cn^
 ||trendyiinspiracje.click^
@@ -21399,6 +21416,7 @@
 ||typujemysprawce.click^
 ||tysupuo7.pro^
 ||tytibaepau.pro^
+||tytufuu.pro^
 ||tytx.m.cn.miaozhen.com^
 ||tyu.aqi22nvoa.dns-dynamic.net^
 ||tyu.ofishlprog1.click^
@@ -21579,6 +21597,7 @@
 ||upage.imtt.qq.com^
 ||update-0c5z3oxr4jxq-information.line.pm^
 ||update-1.com^
+||update-3kxn5dayb9p6-information.line.pm^
 ||update-6ho8mvffk4j2-information.line.pm^
 ||update-accounts-id.online^
 ||update-accout.debetowa.live^
@@ -22762,6 +22781,7 @@
 ||wow-click.click^
 ||wow.ero-advertising.com^
 ||woweffect.click^
+||wowjest.click^
 ||wowsoul.click^
 ||wp-cdn.cityads.com^
 ||wp.viprik.pro^
@@ -22951,6 +22971,7 @@
 ||www.abtd-txt.click^
 ||www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml^
 ||www.accidentadvicehelpline.co.uk^
+||www.account.coordinatoins.click^
 ||www.acspaces.ero-advertising.com^
 ||www.activisthedgehoging.pro^
 ||www.actualforge.click^
@@ -23044,6 +23065,7 @@
 ||www.adserver.net^
 ||www.adserver.ugo.nl^
 ||www.adservtech.com^
+||www.adsgamer.com^
 ||www.adshufffle.com^
 ||www.adsinimages.com^
 ||www.adskank.com^
@@ -23110,6 +23132,7 @@
 ||www.adventuratrips.com^
 ||www.adventuredge.com^
 ||www.adventurefeeds.com^
+||www.adventurefishinggear.com^
 ||www.adventurgequest.biz^
 ||www.advercab.com^
 ||www.adversal.com^
@@ -23298,6 +23321,7 @@
 ||www.bluebirdescleared.pro^
 ||www.bluebirdesclearing.pro^
 ||www.bluflinginvest.pro^
+||www.blurr31lqyr.click^
 ||www.blurrmqlqyr.click^
 ||www.bnp-partner.com^
 ||www.bonus-ttw.pro^
@@ -23471,6 +23495,7 @@
 ||www.cujyfai0ue1.pro^
 ||www.cumuluscrest.click^
 ||www.currentrealtimestories.click^
+||www.customeraccount.dns.army^
 ||www.cuwofoa0.pro^
 ||www.cvhtrfr.dns-dynamic.net^
 ||www.cyber-ad01.cc^
@@ -23712,6 +23737,7 @@
 ||www.free-download-0159.avangardastudiofryzur.pl^
 ||www.fridayadvertiser.com^
 ||www.frosty-criticism.pro^
+||www.frostyimposingsphere.pro^
 ||www.fruklon-invest.pro^
 ||www.fuboxao3.pro^
 ||www.fuhyqee.pro^
@@ -24163,6 +24189,7 @@
 ||www.mi-ide.com^
 ||www.mi-kawaii.com^
 ||www.mi-olx.pl^
+||www.mi.nwmw.skin^
 ||www.miami.ero-advertising.com^
 ||www.miasteczkowe.click^
 ||www.mibet.mobi^
@@ -24196,6 +24223,7 @@
 ||www.moridoninvesting.pro^
 ||www.moroccoadvisors.com^
 ||www.moto-lottery.com^
+||www.mountainmajestydomains.click^
 ||www.movieads.ero-advertising.com^
 ||www.msgdph-uqps.click^
 ||www.msgluc-upqs.click^
@@ -24367,6 +24395,8 @@
 ||www.overcastingdaringed.pro^
 ||www.p.365win.pro^
 ||www.p4talparad1se.xyz^
+||www.padsw.polaeva.fun^
+||www.pafo.adsndtrackify.xyz^
 ||www.pagepeel.ero-advertising.com^
 ||www.paiementnazwa-pl-ad568779.evv-auditing.com^
 ||www.pailedorganisming.pro^
@@ -24433,6 +24463,7 @@
 ||www.planlaser.click^
 ||www.play-google.pl^
 ||www.playfulpulseadventures.com^
+||www.plconnectpost.dns.army^
 ||www.pleasureedgardeniaes.pro^
 ||www.pleasureedplaneed.pro^
 ||www.pleasureedplaneing.pro^
@@ -24640,6 +24671,7 @@
 ||www.rotator.beginads.com^
 ||www.rowerowy-szal.click^
 ||www.rowopyu7.pro^
+||www.royalmaila.click^
 ||www.rozbij-bank.click^
 ||www.rqgourxmjie.click^
 ||www.rs.drivetrainleads4u.com^
@@ -24934,6 +24966,7 @@
 ||www.transitradar.click^
 ||www.traveladvantagevip.com^
 ||www.traveladvertising.com^
+||www.trejent.wantaolej.pro^
 ||www.trendyinformacyjne.click^
 ||www.triplecable.click^
 ||www.troadsecow.com^
@@ -24966,6 +24999,7 @@
 ||www.tygodniowenowinki.click^
 ||www.typo3.ero-advertising.com^
 ||www.tytibaepau.pro^
+||www.tytufuu.pro^
 ||www.tywuxoe3.pro^
 ||www.uc-o9b.cfd^
 ||www.uc-ys3.lat^
@@ -25111,6 +25145,7 @@
 ||www.worldsinvesinshow.click^
 ||www.wow.ero-advertising.com^
 ||www.woweffect.click^
+||www.wowjest.click^
 ||www.wowsoul.click^
 ||www.wracam.click^
 ||www.wraproads.online^
@@ -25144,6 +25179,7 @@
 ||www.xaxugoy5.pro^
 ||www.xebecrounds.click^
 ||www.xege.adsndtrackify.xyz^
+||www.xg.ullz.lat^
 ||www.xg.xbtk.lat^
 ||www.xihipua8.pro^
 ||www.xipubeu6.pro^
@@ -25207,6 +25243,7 @@
 ||www.zolinton-invest.pro^
 ||www.zonozou1.pro^
 ||www.zostan-zwyciezca.click^
+||www.zrudzinski.wantaolej.pro^
 ||www.zsdkajdoofo.site^
 ||www.zupelnienowe.click^
 ||www.zupo.adsndtrackify.xyz^
@@ -25347,6 +25384,7 @@
 ||xg.gars57.cn^
 ||xg.huataisangao.cn^
 ||xg.kxapctq.cn^
+||xg.ullz.lat^
 ||xg.wdswgjn.cn^
 ||xg.whsbpw.cn^
 ||xg.xbtk.lat^
@@ -25766,6 +25804,7 @@
 ||zrodlodocelowe.click^
 ||zrodloenergii.click^
 ||zrodlowiedzy.click^
+||zrudzinski.wantaolej.pro^
 ||zs1.cnzz.com^
 ||zs10.cnzz.com^
 ||zs11.cnzz.com^
