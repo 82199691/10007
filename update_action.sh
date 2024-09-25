@@ -57,6 +57,7 @@ echo "
 127.0.0.1 ads$i-normal-hl.zijieapi.com
 127.0.0.1 ads$i-normal.zijieapi.com
 127.0.0.1 p$i-orange.byteorge.com
+127.0.0.1 p${i}-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 lf$i-common-ckv-tos.pstatp.com
 127.0.0.1 v$i-ad.ixigua.com
 127.0.0.1 api-access.pangolin-sdk-toutiao${i}.com
