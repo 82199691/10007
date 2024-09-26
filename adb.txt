@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-25 22:18:26
+! Last modified: 2024-09-26 09:23:10
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-25 22:18:26 ^
+!更新时间: 2024-09-26 09:23:10 ^
 
-!规则数量:25907^
+!规则数量:25911^
 !#################^
 
 ||0.r.msn.com^
@@ -9656,6 +9656,7 @@
 ||contact-update.centrum24consumer.me^
 ||contact.dependableautos.click^
 ||contact.momment.click^
+||contactpackage-ns02.dns.army^
 ||contactsin.mobi^
 ||content-ad.net^
 ||content.ad^
@@ -9886,6 +9887,7 @@
 ||custom-wrs.api.responsys.net^
 ||customads.co^
 ||customeraccount.dns.army^
+||customerconnect.dns.army^
 ||customersupport.click^
 ||customersupport.policiess.click^
 ||cuwofoa0.pro^
@@ -23516,6 +23518,7 @@
 ||www.connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev^
 ||www.constel-analytics.com^
 ||www.consumer-focus.com^
+||www.contactpackage-ns02.dns.army^
 ||www.contextuads.com^
 ||www.converads.com^
 ||www.converti.pro^
@@ -23543,6 +23546,7 @@
 ||www.cumuluscrest.click^
 ||www.currentrealtimestories.click^
 ||www.customeraccount.dns.army^
+||www.customerconnect.dns.army^
 ||www.cuwofoa0.pro^
 ||www.cvhtrfr.dns-dynamic.net^
 ||www.cyber-ad01.cc^
