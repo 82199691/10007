@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-09-26 09:23:10
+! Last modified: 2024-09-26 22:18:13
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-09-26 09:23:10 ^
+!更新时间: 2024-09-26 22:18:12 ^
 
-!规则数量:25911^
+!规则数量:25864^
 !#################^
 
 ||0.r.msn.com^
@@ -701,7 +701,6 @@
 ||account.coordinatoins.click^
 ||accountant.trade2022.quest^
 ||accounts-google-signin-identifier.immasterygiveaway.com^
-||accounts-google.no9.cc^
 ||accounts-google.shop^
 ||accounts.doubleclick.net^
 ||accounts.servicar.click^
@@ -729,8 +728,6 @@
 ||active.pro-activprofit.site^
 ||active.pro-masters.xyz^
 ||active1.pro-masters.xyz^
-||activisionads.com^
-||activisiongifte.pro^
 ||activisionpoint.click^
 ||activisions.click^
 ||activistforeheadsyndromear.pro^
@@ -2615,6 +2612,7 @@
 ||ads.ccstock.cn^
 ||ads.cdn.rovio.com^
 ||ads.cdn.viber.com^
+||ads.cdn2-img.net^
 ||ads.cdnow.com^
 ||ads.cdnslate.com^
 ||ads.cdrinfo.com^
@@ -5585,6 +5583,7 @@
 ||alcazar.pro^
 ||alchemy-trade.pro^
 ||alchemy-trades.pro^
+||aldolstelly.click^
 ||alenotebook.click^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexa.radsport.pl^
@@ -7825,7 +7824,6 @@
 ||avgads.space^
 ||aviabotpl.pro^
 ||aviplgame.pro^
-||avito.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||avoadsservices.com^
 ||avowtech.mobileadstrk.com^
 ||avroad3431.fun^
@@ -8855,8 +8853,6 @@
 ||cd-ads.com^
 ||cd.ladsp.com^
 ||cd0ad404ef172f7ca74302f53756c4e1.dopla.com.pl^
-||cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
-||cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||cdn-a.amazon-adsystem.com^
 ||cdn-ad.wtzw.com^
 ||cdn-adn-https-share.rayjump.com^
@@ -9066,7 +9062,6 @@
 ||channel.api.duapp.com^
 ||chart.advinion.com^
 ||chartbeat-sdk.s3.amazonaws.com^
-||chasebank-update.onthewifi.com^
 ||chasingroads.com^
 ||chat-pro.cas-program.site^
 ||chat-pro.program-plus.xyz^
@@ -9089,6 +9084,7 @@
 ||cheat-hacks-free-download.com^
 ||check-activity.com.ru^
 ||check-dashlane.com^
+||check-hticompialnt520842.com^
 ||check-iy-ver-172-3.site^
 ||check-now.online^
 ||check-olx.pl^
@@ -11720,6 +11716,7 @@
 ||fusionads.net^
 ||fusionhacks.pro^
 ||fussy-highway.pro^
+||fussysandwich.pro^
 ||futukuy0.pro^
 ||futureads.io^
 ||futurein-2023.click^
@@ -11960,6 +11957,7 @@
 ||globalsellingads.com^
 ||globalwebads.com^
 ||globedore.click^
+||globmall.pro^
 ||glod-invest.pro^
 ||glores2.lanzoui.com^
 ||glores2.lanzoux.com^
@@ -13791,7 +13789,6 @@
 ||leadspace.com^
 ||leadspackages.com^
 ||leadsplumber.com^
-||leadspro.com.br^
 ||leadsteed.com^
 ||leadstore00.com^
 ||leadsynaptic.go2jump.org^
@@ -15108,7 +15105,6 @@
 ||myzaliy3.pro^
 ||myzen.click^
 ||mz-api.smzdm.com^
-||mzenkwnadg85ro.top^
 ||mzpro.tes1aprodj.click^
 ||n--pan-eixe.xn--baidu-jm6h.com^
 ||n-ad-bg.adwo.com^
@@ -15466,7 +15462,6 @@
 ||nodice.click^
 ||noearon.click^
 ||noisermaker.click^
-||noisy-advantage-deafening.on-fleek.app^
 ||noisyjoke.pro^
 ||nolimits.globalinvest365.click^
 ||nomad1cno.site^
@@ -16421,10 +16416,7 @@
 ||pavte.gradspeeches.com^
 ||paxdola.click^
 ||pay-click.ru^
-||pay.cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
-||pay.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||pay.ofisls-pro.xyz^
-||pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||paypalssl.doubleclick.net^
 ||payperclickadvertising.org.uk^
 ||paypooli.click^
@@ -16709,8 +16701,6 @@
 ||poarigkurihka.pro^
 ||pobierzteraz.mobi^
 ||pocerportidv.pro^
-||pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
-||pochta.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||pociagekspresowy.click^
 ||pocketads.pl^
 ||poczatekdobra.click^
@@ -17636,7 +17626,6 @@
 ||pub-76de8a9dfc6c4015ad2d0d1161449d34.r2.dev^
 ||pub-779d25a31fda4cea979dad4c122c0706.r2.dev^
 ||pub-77df98259b4542448ce4d1ead679c942.r2.dev^
-||pub-783ac6b33440486aad2c467a00ee8667.r2.dev^
 ||pub-785ceff4c7744e0291ce10ad33e52189.r2.dev^
 ||pub-787955dcf69846d8bd51c284d7c1bad1.r2.dev^
 ||pub-78e7b32de1fb4054ad74d951ae15a97c.r2.dev^
@@ -18279,6 +18268,7 @@
 ||rd.wan.360.cn^
 ||rd09ettvoemc.pro^
 ||rd596n.jomodns.com^
+||rdoge.pro^
 ||rdr.ad-score.com^
 ||rdrm1.click^
 ||rdrm2.click^
@@ -19006,8 +18996,6 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||sbem.tentaklsistem.click^
-||sberbank.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
-||sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||sbjjzdwqg41ps.click^
 ||sbrakepads.com^
 ||sbs-ad.com^
@@ -19593,7 +19581,6 @@
 ||site.e.mi.com^
 ||site.rmladv.com.br^
 ||siteadvisor.com-br.site^
-||siteamericanaoficial.click^
 ||sitemonitor.cn.miaozhen.com^
 ||sitterning.pro^
 ||situlinvest.pro^
@@ -21443,7 +21430,6 @@
 ||tx-pro-pull.kwai.net.iberostar.com^
 ||tx.xtnew.click^
 ||txfgav.pottex-check.top^
-||txkikatlim.click^
 ||txthelj.click^
 ||ty.viqiyi.admaster.com.cn^
 ||ty.vletv.admaster.com.cn^
@@ -21652,7 +21638,6 @@
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
-||update-ledger.net^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
 ||update-mxtuelul4gzs-information.line.pm^
@@ -21921,6 +21906,7 @@
 ||vali-g1.cp31.ott.cibntv.net^
 ||vali.cp31.ott.cibntv.net.302.myalicdn.com^
 ||validus.pro^
+||validworking.pro^
 ||valipl.cp31.ott.cibntv.net^
 ||valofly.pro^
 ||valuableadvantage.monster^
@@ -21967,7 +21953,6 @@
 ||vendorchange.click^
 ||vented.newdostawa174295.click^
 ||venture-365-inspired.com^
-||veraflorindo.adv.br^
 ||verandal.click^
 ||verbenebaining.click^
 ||verification.jiguang.cn^
@@ -22730,6 +22715,7 @@
 ||winneradsmedia.com^
 ||winsecretary.click^
 ||wirtaspin-investing.pro^
+||wirtualnaczytac.click^
 ||wirtualnapolska.click^
 ||wirtualnatv.click^
 ||wirtualneinfo.click^
@@ -22971,7 +22957,6 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www-google.nl^
-||www.0ad4a42868fc920e69787853d2a02df3.dirks.pl^
 ||www.0latfee.ero-advertising.com^
 ||www.0n.click^
 ||www.1-1ads.com^
@@ -22983,7 +22968,6 @@
 ||www.1l0x.pro^
 ||www.2345.com^
 ||www.24-news.pro^
-||www.2661077480949d8d0e48af1ad6801366.dirks.pl^
 ||www.2baners.ero-advertising.com^
 ||www.2ds.ero-advertising.com^
 ||www.2fbanners.ero-advertising.com^
@@ -23233,7 +23217,6 @@
 ||www.allyhealthadvocates.com^
 ||www.aluminumcalculusar.pro^
 ||www.aluminumforeheades.pro^
-||www.aluminummeantimeis.pro^
 ||www.aluminummeringueis.pro^
 ||www.aluminumplayroomar.pro^
 ||www.am0r0usadv6ntures.sbs^
@@ -23283,7 +23266,6 @@
 ||www.autumnadventure5.xyz^
 ||www.avast-downloads.com^
 ||www.avenueadventure.xyz^
-||www.aviplgame.pro^
 ||www.avnads.com^
 ||www.avoadsservices.com^
 ||www.avsads.com^
@@ -23303,7 +23285,6 @@
 ||www.balticpipe.pro^
 ||www.ban3ers.ero-advertising.com^
 ||www.ban4ers.ero-advertising.com^
-||www.bancade30.com^
 ||www.banjers.ero-advertising.com^
 ||www.banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online^
 ||www.bann12s.ero-advertising.com^
@@ -23554,7 +23535,6 @@
 ||www.cyberlaws.pro^
 ||www.cyhners.ero-advertising.com^
 ||www.d2378329a9-update.kaskak1.pl^
-||www.d355adf695dd65105ce844c1b8aa3546.dirks.pl^
 ||www.d3d02-uppps.click^
 ||www.da-ads.com^
 ||www.daaa.ero-advertising.com^
@@ -23635,7 +23615,6 @@
 ||www.dralig-investing.pro^
 ||www.dravor-investing.pro^
 ||www.drawermop.click^
-||www.drogowenewsy.click^
 ||www.dropped-click.com^
 ||www.dsads123a.is-best.net^
 ||www.dsmthreads.com^
@@ -23650,7 +23629,6 @@
 ||www.dyhonay8.pro^
 ||www.dzialaniaobowiazkowe.click^
 ||www.dzibaninvesting.pro^
-||www.dziennesprawozdanie.click^
 ||www.dziennetragedie.click^
 ||www.e-hpaces.ero-advertising.com^
 ||www.e-traffic.com^
@@ -23803,7 +23781,6 @@
 ||www.fylagya6.pro^
 ||www.fyricoo0.pro^
 ||www.gad6r4-uqps.club^
-||www.gainsgateway.pro^
 ||www.gajdyninvest.pro^
 ||www.game-advertising-online.com^
 ||www.gammadsp.com^
@@ -24105,7 +24082,6 @@
 ||www.konsekwencjaczynu.click^
 ||www.konsola-dla-ciebie.click^
 ||www.kordlang-investing.pro^
-||www.kosubua.pro^
 ||www.kradli-invest.pro^
 ||www.krombor-invest.pro^
 ||www.ktojestoktoinema.click^
@@ -24326,7 +24302,6 @@
 ||www.newbiznest.click^
 ||www.newjokemer.click^
 ||www.newsbesl.click^
-||www.newsdrogowy.click^
 ||www.newsgazeta.click^
 ||www.newsshow.click^
 ||www.newsyoucanread24.com^
@@ -24381,7 +24356,6 @@
 ||www.officeingservees.pro^
 ||www.ogolnytemat.click^
 ||www.ogromnewydarzenie.click^
-||www.ogromnezasiegi.click^
 ||www.oistatniarundka.click^
 ||www.okolicznewiesci.click^
 ||www.oksioninvest.pro^
@@ -24418,7 +24392,6 @@
 ||www.openinvestingstrat.click^
 ||www.openstartjoin.click^
 ||www.operator-platnosci.click^
-||www.opiniujemylive.click^
 ||www.optad360.com^
 ||www.orbimer-investing.pro^
 ||www.orbitaltrace.click^
@@ -24492,7 +24465,6 @@
 ||www.pge-sa.click^
 ||www.pgeobrot.click^
 ||www.pgesa.click^
-||www.pglopen.pro^
 ||www.phoenixads.co.in^
 ||www.phonesecure.mobi^
 ||www.photo-ads.co.uk^
@@ -24536,7 +24508,6 @@
 ||www.pocztowy.pro^
 ||www.podtkoeiec.click^
 ||www.podzatkaer.click^
-||www.pogadankalokalna.click^
 ||www.pogagyo8.pro^
 ||www.pointgroweye.pro^
 ||www.pol-postesa.pro^
@@ -24564,7 +24535,6 @@
 ||www.postnewsads.com^
 ||www.potrzebneinfo.click^
 ||www.potrzebuje.click^
-||www.pouczenieludzi.click^
 ||www.poutineedreallyed.pro^
 ||www.povaloa0.pro^
 ||www.povvertyfocus.click^
@@ -24734,7 +24704,6 @@
 ||www.rumorvoice.click^
 ||www.rustyround.click^
 ||www.rutabagacalculusar.pro^
-||www.rutabagaforeheadar.pro^
 ||www.rutabagameantimeis.pro^
 ||www.rutabagaturnoveres.pro^
 ||www.rutolue2.pro^
@@ -24760,8 +24729,6 @@
 ||www.salkaner-invest.pro^
 ||www.samtek-invest.pro^
 ||www.santander-wywiad2023.com^
-||www.scaffoldmeringueed.pro^
-||www.scaffoldstandingar.pro^
 ||www.scooteresgardeniaed.pro^
 ||www.scooteresgardeniaes.pro^
 ||www.scooteresgardeniaing.pro^
@@ -24948,8 +24915,6 @@
 ||www.teixeiraadvocaciaespecializada.com^
 ||www.teletypegoodnesses.pro^
 ||www.teletypeintervales.pro^
-||www.teletypestandingas.pro^
-||www.teletypestandingis.pro^
 ||www.telewizja-regionalna24.click^
 ||www.tematkoleje.click^
 ||www.tembotopat.click^
@@ -25040,7 +25005,6 @@
 ||www.tukinre.click^
 ||www.tulilui8.pro^
 ||www.turnoverbookmarkas.pro^
-||www.turnoverstandingaluminumes.pro^
 ||www.tuwivye6.pro^
 ||www.twoj-fart.click^
 ||www.twoj-kupon.click^
@@ -25050,7 +25014,6 @@
 ||www.twoubleerdo.pro^
 ||www.txthelj.click^
 ||www.tybocie3.pro^
-||www.tygodniowenowinki.click^
 ||www.typo3.ero-advertising.com^
 ||www.tytibaepau.pro^
 ||www.tytufuu.pro^
@@ -25182,13 +25145,12 @@
 ||www.wickedrosethreads.com^
 ||www.wiecejwiesci.click^
 ||www.wieczornewiad.click^
-||www.wielkieinformacje.click^
-||www.wiescidzienne.click^
 ||www.wijypea1.click^
 ||www.wiki.ero-advertising.com^
 ||www.winads.cn^
 ||www.windhawkadvisors.com^
 ||www.wirtaspin-investing.pro^
+||www.wirtualnaczytac.click^
 ||www.wirtualnapolska.click^
 ||www.wks.ero-advertising.com^
 ||www.wogikeu4.pro^
@@ -25224,7 +25186,6 @@
 ||www.wx.eghe.skin^
 ||www.wydarzenia-google.waw.pl^
 ||www.wydarzeniaaktualne.click^
-||www.wydazeniamocne.click^
 ||www.wypad3k0.blogspot.com^
 ||www.x2tesla-event.pro^
 ||www.xadsmart.com^
@@ -25265,7 +25226,6 @@
 ||www.yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru^
 ||www.yangtarp.click^
 ||www.yarnropes.click^
-||www.yentacorner.click^
 ||www.yntragame.click^
 ||www.yoads.net^
 ||www.yomatapet.click^
@@ -25284,11 +25244,9 @@
 ||www.zakupowe-bystrzaki.click^
 ||www.zalatwmy-wszyscy.click^
 ||www.zaquinstall.click^
-||www.zarzadzajmy24.click^
 ||www.zatnijprawwe.click^
 ||www.zb5xpvwvups.click^
 ||www.zbieram-bonusy.click^
-||www.zdzisiaj.click^
 ||www.zenithpen.click^
 ||www.zertlik-investing.pro^
 ||www.zilygau1.pro^
@@ -25301,7 +25259,6 @@
 ||www.zostan-zwyciezca.click^
 ||www.zrudzinski.wantaolej.pro^
 ||www.zsdkajdoofo.site^
-||www.zupelnienowe.click^
 ||www.zupo.adsndtrackify.xyz^
 ||www.zuqyryi7.pro^
 ||www.zwariowane-to.click^
@@ -25563,11 +25520,8 @@
 ||yamada2-dev.nend.net^
 ||yandex-dmp-sync.rutarget.ru^
 ||yandex-sync.rutarget.ru^
-||yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru^
 ||yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru^
-||yandex.cdek.ber.youla.allegrolokalnie.pl-oferta-id2387942371.top^
-||yandex.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandex.youla.allegrolokalnie.pl-oferta-id2387942371.top^
 ||yandexadexchange.net^
 ||yangtarp.click^
@@ -25614,7 +25568,6 @@
 ||youhave.mobi^
 ||youku-acs.m.taobao.com^
 ||youku-dtv.m.cn.miaozhen.com^
-||youla.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top^
 ||youleadstudents.org^
 ||youngrul.pro^
 ||youngtrailblazer.click^
